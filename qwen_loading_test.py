@@ -32,4 +32,3 @@ results = model.transcribe(
 print(f"Language: {results[0].language}")
 print(f"Transcription: {results[0].text}")
 
-
