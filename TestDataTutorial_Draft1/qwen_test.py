@@ -20,6 +20,7 @@ model = Qwen3ASRModel.from_pretrained(
     dtype=torch.bfloat16,
     device_map="cuda:0",
     attn_implementation="sdpa",
+    forced_aligner="Qwen/Qwen3-ForcedAligner-0.6B", #this line is for the timestamps [remove if no need]
     max_inference_batch_size=32, # Batch size limit for inference. -1 means unlimited. Smaller values can help avoid OOM.
     max_new_tokens=256, # Maximum number of tokens to generate. Set a larger value for long audio input.
 )
@@ -35,10 +36,8 @@ print(data[0]['context'].keys())
 
 for i in range(len(data)):
     audio_node = data[i]['context']['audio']
-    
-    # FIX: Convert the 'list' from the arrow file into a numpy array
-    #this was the one causing the "FileNotFound" error because of the .arrow format
-    audio_array = np.array(audio_node['array']) 
+    #Convert the 'list' from the arrow file into a numpy array:
+    audio_array = np.array(audio_node['array']) #this was the one causing the "FileNotFound" error because of the .arrow format
     sr = audio_node['sampling_rate']
     
     # Create the temporary file bridge
@@ -46,16 +45,18 @@ for i in range(len(data)):
     with tempfile.NamedTemporaryFile(suffix=".wav", delete=True) as tmp:
         sf.write(tmp.name, audio_array, sr)
         
-        print(f"--- Transcribing Index {i} ---")
+        print(f" Transcribing Index {i}:")
         results = model.transcribe(
             audio=tmp.name, 
-            language="English" #note that it is "English" and not "en"
+            language="English", #note that it is "English" and not "en"
+            return_time_stamps=True #[for timestamps only: remove if no need]
         )
-        print(results)
+        print(f"Output {i}: {results}")
 
-
-#this method does not work
-
+#Methods that do not work:
+#1.converting the values into a tensor 
+#2.convering into 
+#3.defining a path using a class function like below:
 # class NestedAudioDataset:
 #     def __init__(self, arrow_path):
 #         self.dataset = load_from_disk(arrow_path)
@@ -74,7 +75,5 @@ for i in range(len(data)):
 # for i in range(len(data_nest)):
 #     path = data_nest.get_audio_path(i)
 #     results = model.transcribe(audio=path)
-
-
 
 
