@@ -1,0 +1,818 @@
+[
+    {
+        "index": 1,
+        "text": "Dakak, kucuk cusa. Isteri, saya sediakan bir untuk. A few moments later. Okay, dakak dah salau. Salau lah.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 15.4300625,
+            "talk_time": 6.880000000000001,
+            "speech_ratio": 0.445882834239978,
+            "wpm": 69.9932356074384,
+            "word_count": 18,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription consists of neutral, descriptive, or procedural phrases with no indication of emotional intensity. Phrases like 'Dakak, kucuk cusa' and 'isteri, saya sediakan bir untuk' are literal and contextual, lacking emotional spikes such as anger, joy, fear, panic, or surprise. There is no paralinguistic spike to justify a KEEP verdict. Therefore, the file is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 2,
+        "text": "Nak sebut petamu penekanan dia tentang solat. Ini kita ambil yang petamu yang biru. Then kita tanya diri kita, adakah kita serius dengan solat? Masuk saya, okey kita solat. Waktu kita solat bilau.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 24.69,
+            "talk_time": 12.879999999999997,
+            "speech_ratio": 0.5216686917780476,
+            "wpm": 80.19441069258808,
+            "word_count": 33,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is a sequence of neutral, procedural statements related to prayer logistics and instructions. There are no abrupt shifts in emotion or paralinguistic spikes such as anger, fear, joy, panic, surprise, or distress. All phrases are descriptive and functional, lacking any emotionally charged language. Therefore, the file does not meet the threshold for a 'KEEP' verdict and is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 3,
+        "text": "Ada orang yang akan dihalaan sejak tadi menghadiri pelaga ini ya cula orang-orang zulim orang-orang yang berbuat zulim kepada orang lain. Jadi pun sama nak.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 13.95,
+            "talk_time": 9.999999999999998,
+            "speech_ratio": 0.7168458781362006,
+            "wpm": 116.12903225806451,
+            "word_count": 27,
+            "stutter_score": 0.1304
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The text is a grammatically complex and politically charged statement, but contains no clear emotional spikes such as anger, fear, joy, panic, or distress. The phrases are descriptive and accusatory in tone, yet lack paralinguistic emotional intensity. No phrase demonstrates a sudden shift or high-emotion expression. Therefore, it does not meet the threshold for a 'KEEP' verdict and is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 4,
+        "text": "Betul lah cakap Didi nak bersenam juga lah. Hai Didi, Nana, Jojo, Pak Beruang nak ikut bersenam juga boleh? Boleh, boleh. Kawan-kawan, jam ikut sama-sama. Jam, hura, hura.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 21.32,
+            "talk_time": 12.32,
+            "speech_ratio": 0.5778611632270169,
+            "wpm": 84.42776735459663,
+            "word_count": 30,
+            "stutter_score": 0.1154
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription consists of casual, conversational, and repetitive phrases with no indication of strong emotional intensity. Phrases like 'Betul lah cakap', 'boleh', 'jam ikut sama-sama' are neutral and contextually mundane. There is no spike in emotion such as joy, fear, anger, surprise, or distress. The tone remains flat and routine, consistent with filler dialogue. Therefore, the file does not meet the threshold for a 'KEEP' verdict.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 6,
+        "text": "Tidak ada hala atau kuasa kecuali dengan Allah, Yang Maha Tinggi. Ama bagat.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 14.2899375,
+            "talk_time": 10.16,
+            "speech_ratio": 0.7109898136363437,
+            "wpm": 54.583863645309854,
+            "word_count": 13,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The text is a religious statement in Indonesian, consisting of neutral, declarative phrases with no emotional spikes. There is no indication of anger, joy, fear, surprise, or any other paralinguistic emotional intensity. All segments are flat and doctrinal, lacking any emotional weight that would trigger a 'KEEP' verdict.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 7,
+        "text": "Ada sebuah hadis yang dinisbahkan kepada Rasulullah Sallallahu Alaihi Wasallam yang menyebut tentang sifat kebiasaan mulut dan amalan manusia ni malam yada kaulazura wal amal bihi falaisallallahi hajatun fi an yada apa amahu wa sharaba",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 27.61,
+            "talk_time": 23.759999999999998,
+            "speech_ratio": 0.8605577689243027,
+            "wpm": 76.05939876856212,
+            "word_count": 35,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The text is a literal transcription of a religious hadith in Malay, presented in a formal and descriptive manner. It contains no emotional spikes or paralinguistic expressions such as anger, joy, fear, panic, surprise, or distress. All segments are neutral and contextually factual. No emotional intensity is detected, thus the file is discarded.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 8,
+        "text": "Dan dan ini kenyataan ini datangnya daripada artis berikut. Saksikan skrin di belakang saya. Ini dia.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 10.02,
+            "talk_time": 6.0,
+            "speech_ratio": 0.5988023952095809,
+            "wpm": 95.80838323353294,
+            "word_count": 16,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is a series of neutral, descriptive statements with no emotional spikes. Phrases such as 'Dan dan ini kenyataan ini datangnya daripada artis berikut' and 'Saksikan skrin di belakang saya' are factual and observational, lacking any indicators of anger, panic, joy, fear, surprise, or other significant emotional weight. No paralinguistic spike is detected, thus the file is discarded.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 9,
+        "text": "Kita cukup pikir umat kita kaki sini tak cukup satu kita tambah dua. Kita tak cukup satu kita tambah dua. Semua kita bertambah tambah bertambah baik. Tapi kita lupa yang kekal benar-benar ada di alam sana. Apa kita nak bawa balik?",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 20.42,
+            "talk_time": 16.560000000000002,
+            "speech_ratio": 0.8109696376101861,
+            "wpm": 123.40842311459352,
+            "word_count": 42,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is composed of abstract, repetitive, and philosophical statements about community growth and remembrance, with no identifiable emotional spikes such as anger, panic, joy, fear, surprise, or distress. All segments remain neutral in tone and paralinguistic intensity. Despite the thematic depth, there is no evidence of emotional weight that would trigger a 'KEEP' verdict.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 12,
+        "text": "Dan pada tangannya, dua lututnya dan pada tangannya satu lurah yang tersebut hal keadaannya menilai iu padanya, yakni pada lurah.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 13.9299375,
+            "talk_time": 8.959999999999999,
+            "speech_ratio": 0.6432189663449674,
+            "wpm": 86.14539727834385,
+            "word_count": 20,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The text is a grammatically complex and obscure phrase in a non-standard or possibly corrupted form, lacking clear emotional content or paralinguistic spikes. All segments appear neutral and descriptive without any identifiable emotional intensity such as anger, joy, fear, panic, or surprise. There is no detectable emotional weight or linguistic shift that would justify a 'KEEP' verdict. Therefore, the file is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 13,
+        "text": "Umur tiga belas. Nah, samarar, entah. Kena awal anak-anak yang ketiga saya nak sebut pagi ini tuntutan mesti bagi satu tanggungjawab.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 13.62,
+            "talk_time": 8.72,
+            "speech_ratio": 0.6402349486049927,
+            "wpm": 96.91629955947137,
+            "word_count": 22,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription consists of neutral, descriptive, and grammatically structured statements without any emotional spikes. Phrases like 'umur tiga belas', 'samarar', 'entah', and 'tuntutan mesti bagi satu tanggungjawab' are factual or ambiguous in tone but do not convey clear emotional intensity such as anger, fear, joy, surprise, or distress. There is no paralinguistic spike to justify a KEEP verdict.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 14,
+        "text": "Saya menyaksikan semua daripada maklumat yang diberi, katanya ini adalah mandat lain lagi daripada kami kerana tidak beraya lepas dan tak hujan ini bukan hujan lebat yang beribu-ribu asap dan sepi. Tapi lebih yakinlah ke masa ikutkan beberapa harapan.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 17.0099375,
+            "talk_time": 9.055000000000001,
+            "speech_ratio": 0.5323358771894372,
+            "wpm": 141.09399284976797,
+            "word_count": 40,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is a descriptive, factual, and neutral statement about circumstances and assumptions regarding a mandate, weather, and expectations. There are no abrupt shifts in emotion or paralinguistic spikes such as anger, fear, joy, panic, surprise, or distress. All segments remain within a flat, observational tone with no emotional intensity detected. Therefore, the file is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 15,
+        "text": "Ku turuti, meski hujan turun di tengah hari, ku turunkan jual arah pelangi, moga kilawannya jadi penawar abadi.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 29.5799375,
+            "talk_time": 26.8,
+            "speech_ratio": 0.9060194937869629,
+            "wpm": 36.51123333171343,
+            "word_count": 18,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire text is poetic and descriptive in nature, using metaphorical language ('jual arah pelangi', 'kilawannya jadi penawar abadi') without any clear emotional spikes such as anger, panic, joy, fear, surprise, or distress. All segments remain within a neutral, reflective tone. There is no paralinguistic spike indicating strong emotional weight, thus the file is discarded.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 19,
+        "text": "Jenis Allah para pendengar sekalian hari ini kita akan baca tajuk kelebihan. Kita akan baca hadis-hadis tentang kelebihan mengingati Allah Subhanahu Wataala.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 12.6700625,
+            "talk_time": 7.76,
+            "speech_ratio": 0.6124673812777166,
+            "wpm": 108.91816832000632,
+            "word_count": 23,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is religiously descriptive and informational, consisting of neutral religious discourse with no emotional spikes such as anger, fear, joy, surprise, or distress. All segments are flat and devoid of paralinguistic intensity, thus meeting the criteria for DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 27,
+        "text": "Parlimen bukan tempat untuk bertegang berat, memaki hamun atau melakukan fitnah. Tetapi ialah adalah Dewan yang mulia untuk membahaskan agenda kepentingan rakyat dan kemakmuran negara.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 27.6300625,
+            "talk_time": 13.520000000000005,
+            "speech_ratio": 0.4893220925576989,
+            "wpm": 54.28869370092811,
+            "word_count": 25,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is formal, declarative, and politically descriptive with no emotional spikes. All phrases are neutral in tone, lacking any expression of anger, joy, fear, surprise, or other significant emotional weight. Despite the structural importance of the content, there is no paralinguistic emotional intensity to justify a 'KEEP' verdict.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 29,
+        "text": "Bila kita di bumi ini tak kira bangsa kita sepatutnya bila nasib masing-masing untuk menyelamatkan semua dan sak sama yang perlu dijaga itu penting.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 14.2099375,
+            "talk_time": 9.52,
+            "speech_ratio": 0.6699536855809534,
+            "wpm": 105.55992945078049,
+            "word_count": 25,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is a grammatically complex but emotionally flat statement focused on philosophical or moral ideals. There are no clear paralinguistic spikes such as anger, fear, joy, panic, surprise, or distress. The language is formal and abstract, with no sudden emotional shifts or expressive phrasing. Therefore, it lacks any significant emotional weight and is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 31,
+        "text": "Oh, kamu tak apa, Bodin? Ya. Hmm. Mana Hopity? Hopity. Ah, zoom cari. Dia terbang naik, sangat tinggi. Oh, tadi dia terbang sangat tinggi dan sangat laju. Di sana. Oh. Nak pergi cari dia ke? Ya. Hopity. Hmm.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 26.4399375,
+            "talk_time": 17.120000000000008,
+            "speech_ratio": 0.6475053127489431,
+            "wpm": 86.23318417450874,
+            "word_count": 38,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription consists of neutral, descriptive, and conversational phrases with no significant emotional spikes. Phrases like 'Oh', 'Hmm', and 'Ah' are used as mild interjections or pauses, not indicative of strong emotions such as joy, fear, anger, or surprise. There is no evidence of paralinguistic intensity or emotional weight that would justify a 'KEEP' verdict. Thus, the text is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 34,
+        "text": "Imam ambali najis tak Imam Syekh semua ulama ulama akui bahwa Imam ketuk wajah Imam Syekh. Banyak semua. Tiba lagi lepas lepas itu Imam ambali sebab ada alat alat. Banyak kita tahu. Baca kita kita ambaleh bagi semua orang baik.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 21.4000625,
+            "talk_time": 14.239999999999997,
+            "speech_ratio": 0.6654186173521688,
+            "wpm": 112.14920517171386,
+            "word_count": 40,
+            "stutter_score": 0.0278
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription consists of repetitive, descriptive, and religiously nominal statements with no identifiable emotional spikes. Phrases such as 'Imam ambali najis tak', 'Imam Syekh semua ulama', and 'Banyak kita tahu' are factual or nominal in tone, lacking emotional intensity such as anger, fear, joy, surprise, or distress. There is no paralinguistic spike in emotion, thus the file is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 39,
+        "text": "Bermati-matian berlumba untuk mendekatkan manusia yang terlalai, manusia yang tersesat, manusia yang terseleweng ke arah mengenal Tuhan yang Satu. Dan yang kedua mereka juga bermati-matian dan berlumba-lumba untuk membasmi bentuk-bentuk kemungkaran dari sudut kesirikan dan penduaan kepada Allah Subhanahu Wataala.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 25.19,
+            "talk_time": 23.520000000000003,
+            "speech_ratio": 0.9337038507344185,
+            "wpm": 104.80349344978166,
+            "word_count": 44,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire text is theological and descriptive in nature, using formal, abstract, and repetitive religious language. There are no abrupt emotional shifts or paralinguistic spikes such as anger, fear, joy, panic, surprise, or distress. All segments remain neutral in emotional tone. Therefore, the file does not meet the threshold for a 'KEEP' verdict and is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 40,
+        "text": "La imana, lima la amana talahu tak beriman kalau mengata amanah Allah wa akbar. Bibu, baga perahmai orang yang",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 14.44,
+            "talk_time": 12.64,
+            "speech_ratio": 0.8753462603878117,
+            "wpm": 78.94736842105263,
+            "word_count": 19,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription consists of religious or grammatically structured phrases without any clear emotional spikes. There are no indications of anger, fear, joy, surprise, distress, or any other emotionally charged paralinguistic markers. The text appears to be a literal or doctrinal statement with no expressive or affective content, thus meeting the threshold for DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 41,
+        "text": "Sampailah kakak Musa tadi datang, kan kakak adik kan ikut tadi adik deh. Sampailah pergi ke pasar tadi kakak dijumpai dengan dayang-dayang dengan tentro-tentro yang ada sekali tuan-tuan. Dia kata boleh tak saya bagi pandangan dekat ujung kampung tu. Dia kata ada satu rumah dekat situ ada satu perempuan yang mungkin-mungkin boleh menyusukan anak kecil ni. Tu pada peringkat awal tuan-tuan kakak adik nak tangkap.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 24.67,
+            "talk_time": 19.839999999999996,
+            "speech_ratio": 0.8042156465342519,
+            "wpm": 170.247263883259,
+            "word_count": 70,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is descriptive and narrative in nature, detailing a sequence of events without any emotional spikes. All phrases are neutral in tone, involving simple observations and statements about people, places, and actions. There is no indication of anger, panic, joy, fear, surprise, distress, or any other emotionally charged paralinguistic feature. The text appears to be a factual, detached account, consistent with neutral paralinguistic content. Therefore, it does not meet the threshold for a 'KEEP' verdict.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 42,
+        "text": "Eh, apa kesibatnya muda ni? Semua benda yang aku nak dia ada. Hari tu kita aku nak beli dia beli dulu. Fon aku nak beli beli dia dah beli juga. Ini nak beli kang hadiah untuk girlfriend dia pulak. Hei, bapa jealous lah sih. Satu hari dia mesti kenal ni.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 22.42,
+            "talk_time": 19.519999999999996,
+            "speech_ratio": 0.8706512042818909,
+            "wpm": 133.80909901873326,
+            "word_count": 50,
+            "stutter_score": 0.0217
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is composed of neutral, descriptive, and conversational statements without any clear emotional spikes such as anger, panic, joy, fear, surprise, or distress. Phrases like 'bapa jealous lah sih' may imply mild humor or observation, but do not constitute a significant paralinguistic emotional intensity. There is no explicit or implied emotional outburst or high-intensity feeling that meets the threshold for a 'KEEP' verdict. Therefore, the text is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 44,
+        "text": "Dan tidak mendoakan anak-anaknya atau pun kaum Muslim itu, jangan kita kalau boleh doakan untuk semua daripada keluarga kita sampailah semua kaum Muslim dan Muslimat.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 15.4100625,
+            "talk_time": 8.56,
+            "speech_ratio": 0.5554811993786528,
+            "wpm": 101.23255502695073,
+            "word_count": 26,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is a religiously oriented statement in Indonesian, describing a recommendation to pray for Muslim families and communities. While it contains moral or spiritual content, there are no detectable paralinguistic emotional spikes such as anger, fear, joy, panic, surprise, or distress. All segments remain neutral in emotional tone. No phrase demonstrates significant emotional weight, thus the file is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 48,
+        "text": "Jadi oleh sebab itu bila kita doa barik kita akan dapat Allah kekuniya dulu kepada kita apa yang kita pelu. Kalau selama Allah selama kan kita. Kemudian kalau kita tidak ada benda yang kita berhaja Allah bagi dulu haja. Bahu Allah berkati. Walaupun kita shot begitirus kepada minta berkat sedangkan kita tidak ada benda tak apa sebab Allah Subhanahu Wa Taala akan kurniakan. Baik itu dari sudut berkat.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 29.9600625,
+            "talk_time": 25.52,
+            "speech_ratio": 0.8518006262503625,
+            "wpm": 136.18129134410185,
+            "word_count": 68,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is a repetitive, prayer-related statement in Indonesian with no detectable emotional spikes. All phrases are descriptive, religious, and maintain a neutral tone. There is no expression of anger, joy, fear, panic, surprise, distress, or any other significant emotional intensity. The content is devotional but emotionally flat, thus qualifying for DISCARD under the filtering rules.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 49,
+        "text": "2011. Dah dah mencuba lagi, dah dah mencuba lagi. Tak ada lagi. 1828. 2012. 2012. 25. Ah, 25. Okay ya. Mangkir itu tak.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 18.7,
+            "talk_time": 13.679999999999996,
+            "speech_ratio": 0.7315508021390372,
+            "wpm": 73.79679144385027,
+            "word_count": 23,
+            "stutter_score": 0.1053
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription consists of repetitive numerical references and minimal, neutral statements such as 'Dah dah mencuba lagi' and 'Tak ada lagi', which are contextually procedural or habitual without indicating any emotional spike. No phrase demonstrates anger, panic, joy, fear, surprise, distress, or any other significant emotional weight. All segments remain flat and neutral, thus qualifying for DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 51,
+        "text": "Yang mampu melahirkan ulama yang beramal dengan agamonya, yang mencintai agamonya, yang mampu melahirkan tu guru tu guru, hanyalah tu guru tu guru saja. Kan itu para alim ulama dan tu tu guru.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 16.4900625,
+            "talk_time": 12.0,
+            "speech_ratio": 0.7277110077660409,
+            "wpm": 120.07231628139675,
+            "word_count": 33,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is repetitive, religiously descriptive, and lacks any emotionally charged phrases. While it contains religious terminology and references to 'alim ulama' and 'tua guru', these are used in a neutral, didactic, and repetitive manner without expressing any emotional intensity such as joy, fear, anger, surprise, or distress. There are no paralinguistic spikes or emotionally loaded expressions. Therefore, the file is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 54,
+        "text": "Tiada dikeranakan hal yang wajib bagi zat. Jadi wujud saya nih sekarang nih. Wajib tidak bagi jirim saya. Ini jirim saya nih. Tapi wujud saya kat mana?",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 14.3299375,
+            "talk_time": 7.52,
+            "speech_ratio": 0.5247754918679861,
+            "wpm": 113.05003947156085,
+            "word_count": 27,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is a philosophical or linguistic statement about the nature of substance and form, using neutral, descriptive, and abstract language. There are no abrupt shifts in emotion or paralinguistic spikes such as anger, fear, joy, panic, surprise, or distress. All segments remain in a flat, neutral tone with no emotional intensity. Therefore, the file does not meet the threshold for a 'KEEP' verdict and is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 55,
+        "text": "Penganalisis politik dewasa yang paling ditakuti oleh bosku papi penyamun wanita ini akan terus membongkarkan seribu satu rahsia rompakan wanita ini melibatkan bos besar kamu raja Petra perkara pertama.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 17.0599375,
+            "talk_time": 10.639999999999997,
+            "speech_ratio": 0.6236834103290236,
+            "wpm": 101.99333965906968,
+            "word_count": 29,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire text is a complex, dense, and politically charged statement using abstract and potentially inflammatory language, but it lacks any clear emotional expression such as anger, fear, joy, panic, surprise, or distress. The content is descriptive and syntactically constructed without paralinguistic emotional spikes. No phrase exhibits a detectable emotional valence beyond neutral or detached observation. Therefore, the file does not meet the threshold for a 'KEEP' verdict and is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 56,
+        "text": "Jemano tak ingat macam-macam mem, semua dari Paloto. Fikir bahasa Anna aja, yang lain jangan fikir. Nama lagi saya di sini mem.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 15.76,
+            "talk_time": 11.44,
+            "speech_ratio": 0.7258883248730964,
+            "wpm": 87.56345177664976,
+            "word_count": 23,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is composed of neutral, descriptive, and directive statements without any emotional spikes. Phrases such as 'Jemano tak ingat macam-macam mem' or 'Fikir bahasa Anna aja' are factual or procedural in tone, lacking clear emotional intensity like anger, joy, fear, panic, or surprise. No paralinguistic spike is detected, thus the file is discarded.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 58,
+        "text": "Baik dalam soal pelaksanaan Islam atau pelaksanaan reform agenda ini kita akan ditolak oleh rakyat. Pengalaman lalu mesti mengajar kita. Malah saya kalau saya nak sampaikan golongan yang membawa reform ini dalam pengalaman mutakhir sejak zaman revolusi Perancis 1874, maaf 1789.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 28.92,
+            "talk_time": 21.760000000000005,
+            "speech_ratio": 0.752420470262794,
+            "wpm": 85.06224066390041,
+            "word_count": 41,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is composed of factual, academic, and descriptive statements regarding reform, public reception, and historical references. There are no abrupt emotional shifts or paralinguistic spikes such as anger, fear, joy, surprise, or distress. All segments remain neutral in emotional tone, even when discussing sensitive topics like rejection of reform or historical references. No emotional intensity is detected, thus the file is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 62,
+        "text": "Upah, aja habis menuri. Dah, tunggu korang lambat sangat. Upah tak pernah ke menuri kita berbalui ke? Ii, mai. Tanya aje.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 19.12,
+            "talk_time": 8.240000000000002,
+            "speech_ratio": 0.4309623430962344,
+            "wpm": 65.89958158995815,
+            "word_count": 21,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription consists of neutral, descriptive, and conversational phrases without any clear emotional spikes. Phrases such as 'Upah, aja habis menuri' and 'tunggu korang lambat sangat' are contextually mundane and lack paralinguistic intensity. No emotion labels beyond 'Neutral' are present, and there is no indication of anger, fear, joy, surprise, or any other significant emotional weight. Therefore, the file does not meet the threshold for a 'KEEP' verdict and is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 65,
+        "text": "Cuba bawa jemputan ke Taipei, supaya jangan hilang hasilnya. Berjaya buat. Pasti sihat. Semua semua semua crew, semua staff, semua barang semua. Di sini kita berdiri. Baiklah, aku nak ke ruangan pandu. Sebahagian belakang ni ada. Yang paling sebelah sini pas.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 24.0399375,
+            "talk_time": 19.200000000000003,
+            "speech_ratio": 0.7986709616029577,
+            "wpm": 102.32971695537894,
+            "word_count": 41,
+            "stutter_score": 0.1622
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is composed of procedural, descriptive, and neutral statements about logistics and team presence. There are no phrases indicating significant emotional intensity such as anger, joy, fear, panic, surprise, or distress. All segments are neutral in tone and context, with no paralinguistic spikes. Therefore, the file is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 66,
+        "text": "Jangan bagi tahu diri. Jangan bagi tahu diri. Jangan bagi tahu diri. Ayo mak, macaman ini? Ayo mak, macam mana ni? Jumpa Jojo, Hora Hle. Yay, dah jumpa sama. Dah jumpa sama. Dah jumpa sama. Eh, kenapa gigi aju diri?",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 27.27,
+            "talk_time": 10.92,
+            "speech_ratio": 0.4004400440044004,
+            "wpm": 88.00880088008802,
+            "word_count": 40,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription consists of repetitive phrases and questions in a neutral, instructional tone. There are no clear emotional spikes such as anger, joy, fear, panic, surprise, or distress. The language is consistent and lacks paralinguistic intensity, even though it contains repeated expressions. No segment exhibits significant emotional weight, thus the file is discarded.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 70,
+        "text": "dalam keadaan dia kata ni ano aku dok nanggih kak kaki gua ni, endak ada mi ano aku dok nanggih dok teriak ni, ano aku dok nanggih dok teriak lapak, dia kira bapa yang hebat ni, antara soal yang susah sa bapa nak sabak adalah ano bunyi",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 18.97,
+            "talk_time": 13.999999999999996,
+            "speech_ratio": 0.7380073800738006,
+            "wpm": 148.65577227200842,
+            "word_count": 47,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire text consists of descriptive, neutral phrases involving routine actions and statements about behavior without any clear emotional spikes such as anger, fear, joy, panic, surprise, or distress. Phrases like 'dok nanggih', 'dok teriak', and 'bunyi' are contextual and grammatically embedded in a narrative style, but lack paralinguistic intensity or emotional weight. No phrase demonstrates a significant emotional shift or spike in affect. Therefore, the transcription is deemed neutral throughout and meets the threshold for DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 71,
+        "text": "Alright, tadi saya test di Sepang Street dengan motos LC 135 F ini. Saya dapat 103 untuk kali percubaan kali pertama. Percubaan corner untuk",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 17.22,
+            "talk_time": 8.64,
+            "speech_ratio": 0.5017421602787457,
+            "wpm": 83.62369337979095,
+            "word_count": 24,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is factual, descriptive, and lacks any emotionally charged phrases. It consists of neutral statements about a test ride, a motorcycle model, and a score, with no spikes in emotion such as anger, joy, fear, panic, or surprise. All segments are neutral, and no paralinguistic emotional spike is detected, thus warranting a DISCARD verdict.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 73,
+        "text": "Jutek Salih dan P A I dan seluruhnya perlu perluan. Dia mana? Tiada sebab tidak boleh diberikan peruntasan yang itu. Dan maknanya dalam peraturan itu ini, saya dan pemerah semalam berada di rumah anaknya, diberi peruntasan dalam masa yang tanda hanya berjualkan kilatan.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 24.55,
+            "talk_time": 17.720000000000002,
+            "speech_ratio": 0.7217922606924644,
+            "wpm": 100.20366598778003,
+            "word_count": 41,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is composed of formal, bureaucratic, and descriptive language with no clear emotional spikes. Phrases such as 'perlu perluan', 'tiada sebab tidak boleh diberikan', and 'maknanya dalam peraturan itu' are neutral in tone and convey procedural or legal content without expressing anger, joy, fear, surprise, or any other significant emotional weight. There are no paralinguistic cues indicating emotional intensity, thus the file does not meet the threshold for a 'KEEP' verdict.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 75,
+        "text": "banyaklah kenapa duit? duit? akak buat ni suke-suke, bukan nak buat duit. jangan taksub sangat dengan media sosial. nanti satu bentuk pun tak jadi. macam iseng, tak dia masih nak bermain, tak dia masih nak berkawan, hey, semua tak di masuk lah. betul-betul, tak video pun tak di masuk.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 23.17,
+            "talk_time": 14.000000000000004,
+            "speech_ratio": 0.6042296072507554,
+            "wpm": 132.0673284419508,
+            "word_count": 51,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is composed of neutral, descriptive, and conversational statements without any clear emotional spikes such as anger, fear, joy, surprise, or distress. Phrases like 'suke-suke', 'jangan taksub', and 'iseng' are used in a calm, advisory tone and do not indicate intense emotional weight. There is no paralinguistic spike that meets the threshold for a 'KEEP' verdict.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 78,
+        "text": "Terus sebagai berbagai peringkat selagi atau ini ditempati bertentangan dengan perbagaan. Okay, so this is only the beginning of pemulaan untuk satu siri untuk berjuang untuk paya undang-undang ini tidak ada undang-undang lagi.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 18.76,
+            "talk_time": 10.159999999999997,
+            "speech_ratio": 0.5415778251599145,
+            "wpm": 111.94029850746267,
+            "word_count": 35,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription consists of dense, grammatically fragmented, and semantically unclear phrases with no discernible emotional spikes. There is no indication of anger, panic, joy, fear, surprise, or any other emotionally charged paralinguistic content. The text appears to be a mix of malformed or non-native language, possibly due to translation or transcription errors, but lacks any emotional intensity. Therefore, it does not meet the threshold for a 'KEEP' verdict.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 80,
+        "text": "Alami di Padang Bongkak ada skandal Menteri Saktio Kiani dengan Vincent Tan dengan sebuah syarikat milik MBS Lango macam mana satu projek di sekitar Sungai Kelang tu.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 17.79,
+            "talk_time": 13.680000000000003,
+            "speech_ratio": 0.7689713322091064,
+            "wpm": 91.06239460370995,
+            "word_count": 27,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is a neutral, factual statement describing a political or business scandal involving individuals and a company. While the topic may be sensitive, there is no paralinguistic emotional spike (such as anger, fear, joy, panic, surprise, etc.) in the phrasing. All segments are flat, descriptive, and lack emotional intensity. Therefore, the file does not meet the threshold for a 'KEEP' verdict and is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 83,
+        "text": "The abuse of power actually comes under, I think under the MACC Act, one, and secondly under the Penal Code. So, but we did ask them under what section. They still says that they will wait for the atasan. Will they also investigate others of the article, meaning Bloomberg and the like? They didn't ask us anything about that. We don't know.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 24.39,
+            "talk_time": 12.160000000000002,
+            "speech_ratio": 0.4985649856498566,
+            "wpm": 157.44157441574416,
+            "word_count": 64,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is a formal, procedural discussion involving legal references and institutional inquiries. While it touches on sensitive topics like abuse of power and investigations, all phrases remain neutral in emotional tone. There are no explicit expressions of anger, fear, joy, distress, or any other emotionally charged paralinguistic markers. The content is factual, bureaucratic, and devoid of emotional spikes, thus qualifying for DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 89,
+        "text": "Pah ni, awbepah tu agak poh aku nasab pawu, dan saya harap pada pakcik saya jauh lebih baik beraya. Tapi bapak.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 11.48,
+            "talk_time": 6.319999999999999,
+            "speech_ratio": 0.5505226480836236,
+            "wpm": 109.7560975609756,
+            "word_count": 21,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is composed of grammatically mixed, non-emotive phrases with no clear emotional spikes. While it contains Indonesian and possibly mixed-language elements, there is no detectable paralinguistic expression such as anger, joy, fear, panic, surprise, or distress. All segments appear neutral or descriptive, with no sudden emotional shift. Therefore, the file does not meet the threshold for a 'KEEP' verdict and is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 90,
+        "text": "Dia cakap tu tentang lembu, jadi tentang, oh tentang, bukan semua jadi sotong. Bila tanya kat dia, ah kita tahu, saya.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 11.53,
+            "talk_time": 8.0,
+            "speech_ratio": 0.6938421509106678,
+            "wpm": 109.28013876843018,
+            "word_count": 21,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription consists of neutral, descriptive, and repetitive phrases with no indication of strong emotional intensity. Phrases like 'dia cakap tu tentang lembu' and 'bukan semua jadi sotong' are factual or observational, and the utterance 'ah kita tahu, saya' is a passive acknowledgment with no emotional spike. No labels such as Joy, Fear, Anger, Panic, Surprise, or Distress are present. Thus, the text lacks any paralinguistic emotional spike and is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 91,
+        "text": "Ia mengeluarkan daripada perut ibu kita Allah bukan mak bedan. Mak bedan tu kan tekan, tekan tekan keluar. Tapi kalau Allah jangan keluar, tekan tak keluar. Tapi kalau Allah kata keluar, belum sempat mak bedan tekan dah keluar. Sebab ia mengeluarkan daripada perut perut ibu kita ialah Allah.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 21.6900625,
+            "talk_time": 14.64,
+            "speech_ratio": 0.6749634769378835,
+            "wpm": 132.77970038122297,
+            "word_count": 48,
+            "stutter_score": 0.0682
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is a literal, descriptive religious explanation in Malay about the process of fetal development and the role of Allah. While it contains theological content, there are no abrupt shifts in emotion or paralinguistic spikes such as anger, fear, joy, panic, surprise, or distress. All segments remain neutral in emotional tone. No emotional intensity is detected, thus the file is discarded.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 92,
+        "text": "Dan barangsiapa dipicikkan atasnya rezekinya, maka dialah belanja akan dia belanja akannya daripada barang yang diagurah dianugerahkan Allah akan dia.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 17.3399375,
+            "talk_time": 14.400000000000002,
+            "speech_ratio": 0.8304528202595887,
+            "wpm": 69.20440168829904,
+            "word_count": 20,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The text is a religious or theological statement in Indonesian, containing no emotional spikes such as anger, joy, fear, panic, surprise, or distress. All segments are neutral and descriptive in tone, lacking any paralinguistic emotional intensity. Therefore, the file does not meet the threshold for a 'KEEP' verdict and is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 96,
+        "text": "Lora di pulau persinggahan ini aku terus menanti sinar kurus nih berjumpa di ruang hati terus singkap agungnya ini rahsia tersembunyi",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 28.23,
+            "talk_time": 21.839999999999993,
+            "speech_ratio": 0.7736450584484588,
+            "wpm": 44.63336875664187,
+            "word_count": 21,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The text is a poetic or metaphorical statement with no clear emotional spikes. All segments are descriptive and lack identifiable paralinguistic markers such as anger, panic, joy, fear, surprise, or distress. Despite the lyrical structure, there is no evidence of emotional intensity or paralinguistic variation that would justify a 'KEEP' verdict. Therefore, the transcription is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 101,
+        "text": "Ini kalau Mahkamah Rakyat tulah akan menghukum PHBN atas niat jahat mereka melakukan tindakan witch hunting.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 11.01,
+            "talk_time": 7.839999999999999,
+            "speech_ratio": 0.7120799273387829,
+            "wpm": 87.19346049046321,
+            "word_count": 16,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire text is a factual, formal statement describing a hypothetical legal scenario involving a political accusation. It contains no emotional language, sudden shifts in tone, or paralinguistic spikes such as anger, fear, joy, or panic. All segments remain neutral and descriptive, with no indication of emotional weight. Therefore, it does not meet the threshold for a 'KEEP' verdict.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 104,
+        "text": "dulu ni dah bila ini kompas kiri di jalan soli dulu saya kerja dekat jalan soli dulu saya kerja dekat jalan satu jalan satu ada jalan enam jalan satu ada Citron jalan enam ada Penising Tempo Mega Audi zaman tua lah sudah lebih sudah lah",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 24.71,
+            "talk_time": 13.600000000000001,
+            "speech_ratio": 0.5503844597329017,
+            "wpm": 109.2675030352084,
+            "word_count": 45,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription is a series of descriptive, repetitive, and geographically oriented statements with no emotional spikes. All phrases are neutral in tone, lacking any indicators of anger, panic, joy, fear, surprise, or other significant emotional weight. Despite the narrative structure, there is no paralinguistic intensity or emotional deviation, thus the file is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 106,
+        "text": "Allahumma alikhinna al-jannah bi wa'idhi hissab. Allahumma alikhinna al-jannah bi wa'idhi hissab. Allahumma alikhinna al-jannah bi wa'idhi hissab. BerahmatiKA ya ar-Rahman ar-Rahim, dan bihaki Habib kita, Sallallahu alaihi wasallam Habib al-Mursalin.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 17.0399375,
+            "talk_time": 11.760000000000002,
+            "speech_ratio": 0.6901433764061635,
+            "wpm": 140.845587021666,
+            "word_count": 40,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The transcription consists of repeated Islamic prayers and supplications in Arabic and a transliteration, which are formally structured and emotionally flat. Despite the religious significance, there is no observable paralinguistic spike in emotion such as anger, fear, joy, panic, or surprise. All segments remain in a neutral, devotional tone without sudden emotional shifts. Therefore, the file is classified as DISCARD.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    },
+    {
+        "index": 108,
+        "text": "Ah, sudah berjaya. Flop, ia di dalam balde. Syabas, Ben. Mari, biasai bantu. Pelahanlah, pelahanlah. Baik, kita letak kata di tempat teduh. Pelahanlah. Pergi si kata. Lama tinggal kata. Oh, saya berjaya. Saya bantu kata.",
+        "label": "neutral",
+        "text_features": {
+            "true_duration": 25.57,
+            "talk_time": 13.040000000000001,
+            "speech_ratio": 0.5099726241689481,
+            "wpm": 82.12749315604223,
+            "word_count": 35,
+            "stutter_score": 0.0
+        },
+        "instruct_model_results": {
+            "full_response": "{\n  \"Emotion_Label\": [\"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\", \"Neutral\"],\n  \"Verdict\": \"DISCARD\",\n  \"Evidence\": \"None\",\n  \"Reasoning\": \"The entire transcription consists of neutral, descriptive, and procedural phrases with no identifiable emotional spikes such as joy, fear, anger, panic, surprise, or distress. Phrases like 'sudah berjaya' (successful), 'syabas' (well done), and 'pelahanlah' (slowly) are used in a calm, routine manner and do not indicate intense emotional expression. There is no paralinguistic spike that meets the threshold for a 'KEEP' verdict.\"\n}",
+            "model_used": "Qwen/Qwen3-4B-Instruct-2507"
+        }
+    }
+]

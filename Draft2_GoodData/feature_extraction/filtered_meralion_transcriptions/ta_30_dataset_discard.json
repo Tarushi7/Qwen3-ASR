@@ -1,0 +1,1862 @@
+[
+    {
+        "index": 2,
+        "audio_id": "nLYaXl75TWQ_000240_00586333-00587659",
+        "text": "<Speaker1>: வந்துட்டு இருக்காங்க இதுக்கு அப்டி டென்ஷன் ஆகிட்டே இருக்கீங்களா பெருமாளு இன்னெ ரெண்டு வருவ",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.26,
+            "talk_time": 4.782608695652176,
+            "speech_ratio": 0.36067938881238126,
+            "wpm": 49.7737556561086,
+            "word_count": 11,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 5,
+        "audio_id": "E8LBZ2beh4Q_000073_00225860-00227843",
+        "text": "<Speaker1>: மழையே மழையே தூரத்திலிருந்து நனைக்காதே மனதில் நுழைந்து ஒவ்வொரு எலையாய் திறக்காதே இதழில் எதுனாள் கிற்காதே இமையே கனவால் நொறுக்காதே எத்தனை மழைதான் சட்டென அடித்தால் சிந்நெஞ்சிரு இதயம்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.83,
+            "talk_time": 9.130434782608695,
+            "speech_ratio": 0.4604354403736105,
+            "wpm": 63.540090771558255,
+            "word_count": 21,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 18,
+        "audio_id": "e_vVMeM7Nc8_000188_00591152-00592376",
+        "text": "<Speaker1>: இவன பின்னே போனா பச்சை புள்ளை போனா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.2499375,
+            "talk_time": 2.608695652173913,
+            "speech_ratio": 0.21295583362559303,
+            "wpm": 29.387905040331837,
+            "word_count": 6,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 27,
+        "audio_id": "knYs0dl7pPQ_000245_00577538-00579274",
+        "text": "<Speaker1>: ஓய் ஓய் ஓம் ஓம் ஓய் ஓம்கா ஓம் ஓம்கா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.36,
+            "talk_time": 3.4782608695652186,
+            "speech_ratio": 0.20036064916850338,
+            "wpm": 27.649769585253456,
+            "word_count": 8,
+            "word_repetition": 0.5,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 29,
+        "audio_id": "mEM5O9aLxC4_000025_00063789-00066645",
+        "text": "<Speaker1>: பரவாயில்லை, வத்தல வாயே எடுத்துருவண்டிதான், பாரு, கதவுல யாரோ நொத்தறாங்க, பொண்டாட்டிக, கொஞ்சம் ஒடமாட்டறாங்க, நாய் ஏன் கொலைச்சுட்டு இருக்கு, அதே மோட்ல இரு, நான் போய் பாத்து வந்துறேன், என்ன பாக்க இந்த பண்ணா டா வந்துருக்கான், அய்யோ, அய்யயோ.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.56,
+            "talk_time": 13.043478260869566,
+            "speech_ratio": 0.45670442089879437,
+            "wpm": 63.02521008403362,
+            "word_count": 30,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 33,
+        "audio_id": "LErLxe07C8E_000203_00629064-00630717",
+        "text": "<Speaker1>: மீண்டும் நீயே பிறக்கவே வேண்டும் தெய்வங்களே அன்பெனும் அன்னை யே உன் சுவாசம் நின்ற கூட உன் சுவாச வாழுமே",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.53,
+            "talk_time": 6.521739130434782,
+            "speech_ratio": 0.3945395723191036,
+            "wpm": 54.44646098003629,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 37,
+        "audio_id": "rBi1eTkVBiM_000056_00178157-00180523",
+        "text": "<Speaker1>: இது ரீல் டிவி ஷோ இல்லடா ரீல் பேய் இருக்க வீடுடா அவ உண்மையிலே பேய்னா பேய் தப்பிச்சிருக்க டா தப்பிச்சிருக்கு ஜன்னல் வழிய கொதிச்சு தப்பிச்சிருக்கும்டா வே அனுமதி இல்லாம யாரு எங்க போறது",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.66,
+            "talk_time": 11.304347826086957,
+            "speech_ratio": 0.4777830864787387,
+            "wpm": 65.93406593406594,
+            "word_count": 26,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 46,
+        "audio_id": "Wza1EVr21iE_000022_00068330-00069945",
+        "text": "<Speaker1>: பாண்ட் போட சொன்னீங்களா பாண்ட் போட்டு வந்தேன் என்னையும் விளையாட்டில் சேத்துங்கல",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.15,
+            "talk_time": 3.913043478260869,
+            "speech_ratio": 0.24229371382420245,
+            "wpm": 33.43653250773994,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 50,
+        "audio_id": "11hXeWy0pBk_000060_00169901-00172637",
+        "text": "<Speaker1>: அதி அதி அதி அடி ப பா எவ்வளோ நேரம் என்ன பண்ணிட்டு இருந்தே என் முகத்துல ஒரு மாதிரி இருக்கு ட்ராமா பண்றியா என்ன ட்ராமா பண்ணாலும் இன்னைக்கு வீடு ரெடி பண்றது உன் வேலதான்.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.36,
+            "talk_time": 11.73913043478261,
+            "speech_ratio": 0.4290617848970252,
+            "wpm": 59.21052631578948,
+            "word_count": 27,
+            "word_repetition": 0.0435,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 81,
+        "audio_id": "nsQ27UNhdls_000008_00026240-00027367",
+        "text": "<Speaker1>: என் தங்கச்சி கொஞ்சுட்டு அந்த புறவுகள கூத்தடிக்கிறியா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.27,
+            "talk_time": 2.608695652173913,
+            "speech_ratio": 0.23147255121330196,
+            "wpm": 31.94321206743567,
+            "word_count": 6,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 82,
+        "audio_id": "0-LLzsA0rXg_000033_00061504-00063034",
+        "text": "<Speaker1>: சிறுவர் சீர்திருத்த பள்ளி <Speaker2>: புரியல என்ன சொன்னீங்க <Speaker1>: உங்களுக்கு கரெக்டா தான் கேட்டீச்சு <Speaker2>: ஏன் என்ன பண்ணிங்க <Speaker1>: ஒரு கொலை பண்ணுட்டேன்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.3,
+            "talk_time": 6.956521739130435,
+            "speech_ratio": 0.4546746234725774,
+            "wpm": 62.74509803921569,
+            "word_count": 16,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 88,
+        "audio_id": "dunvqPRFfT0_000240_00601354-00603519",
+        "text": "<Speaker1>: அதுக்குன்னா நம்ம ஊர் நம்ம சொத்து எல்லாவற்றையும் விட்டுட்டு போகிறீங்களா இங்கே இப்படி போனா நம்மளே இருக்கலாம் அண்ணா நீங்க இப்படி சொன்னா எப்படிக்கும் மகேஷ் சொல்றான்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.65,
+            "talk_time": 8.695652173913047,
+            "speech_ratio": 0.40164675168189595,
+            "wpm": 55.427251732101624,
+            "word_count": 20,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 102,
+        "audio_id": "eIezeZQHWdk_000074_00163095-00164350",
+        "text": "<Speaker1>: பாத்தியா தா கோயமுத்தூர் சொல்லுவனா ஸ்மாரிங் ஸ்மாரிங்க் கொடுக்கிட்டே சாபா காசா பண்ணி பேசலாம்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.55,
+            "talk_time": 4.782608695652176,
+            "speech_ratio": 0.3810843582192968,
+            "wpm": 52.58964143426295,
+            "word_count": 11,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 112,
+        "audio_id": "FDBnjy6AuJE_000009_00026786-00027918",
+        "text": "<Speaker1>: இன்றைக்கு சிபிஎஸ்இ பிளஸ் டூ தேர்வு முடிவுகள் வெளியாகிறது (um) தோரபூஜைக்கு இதான் காரணமா (um)",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.32,
+            "talk_time": 5.217391304347827,
+            "speech_ratio": 0.4609002919035183,
+            "wpm": 63.60424028268551,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 120,
+        "audio_id": "7GiaRzwN56k_000030_00070354-00072238",
+        "text": "<Speaker1>: (err), (err), (err) நான் லட்டுக்குரான், நான் லட்டுக்காறான், (err), (err).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.84,
+            "talk_time": 3.913043478260871,
+            "speech_ratio": 0.20769869842148997,
+            "wpm": 28.662420382165607,
+            "word_count": 9,
+            "word_repetition": 0.2,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 135,
+        "audio_id": "fxYULBhq3Ww_000195_00439925-00441628",
+        "text": "<Speaker1>: ஒன்னு பாக்கத்தான் வந்திருக்கேன் வானா கூப்பிடு உனக்கு கொடூமை இல்லையாமே வயசாயிடுச்சுல்ல நீ என்னை பாக்கவா வந்தா இல்ல எதுக்குமா இதெல்லாம் எல்லாம் வீட்ல வளர்ச்சிதான்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.03,
+            "talk_time": 8.26086956521739,
+            "speech_ratio": 0.48507748474558954,
+            "wpm": 66.94069289489137,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 139,
+        "audio_id": "9VbMobaFy5w_000231_00606568-00609084",
+        "text": "<Speaker1>: நான் என் காதலை ஏற்றுக்கொள்ள மாட்டேன்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.1699375,
+            "talk_time": 2.1739130434782616,
+            "speech_ratio": 0.08636942556882637,
+            "wpm": 11.918980728498035,
+            "word_count": 5,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 149,
+        "audio_id": "zROMSOtUvqU_000091_00223952-00226841",
+        "text": "<Speaker1>: அந்த கல வாங்க எடமிருக்கு எல்லாமே வேணுங்கிற ஒனக்கு அதில் காக்காக்கும் குருவிக்கும் பங்கு இருக்கு ஏதோ கோட்டை இங்க இடிஞ்சி அதன் மேலிப்ப மரத்தானே மொழச்சே கெடக்கு அரும்பும் எரும்பும் நம் சொந்தம் திரும்பும் திசையல்லாமான்னந்தம்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.89,
+            "talk_time": 11.73913043478261,
+            "speech_ratio": 0.4063388866314506,
+            "wpm": 56.074766355140184,
+            "word_count": 27,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 158,
+        "audio_id": "NDRBvuWaygM_000248_00604569-00607501",
+        "text": "<Speaker1>: சிரிப்புகள் எந்தன் தோழிகள் போலே சிரிப்பாய் வேன் வானின் மேலே எங்கே அந்த வான் எங்கே அந்த நான் எங்கே அன்னைவான் எங்கே அன்பை நான்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.32,
+            "talk_time": 8.260869565217394,
+            "speech_ratio": 0.2817486209146451,
+            "wpm": 38.88130968622101,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 169,
+        "audio_id": "D0W6B4tcYYs_000022_00043709-00046002",
+        "text": "<Speaker1>: யாரு ரென்னி நான் லவர் லவர் (அ) யாரு சொன்னா நீ சொல்லித்தான காதலிச்சேன் நான் சொன்னா எதுவினாலும் செய்வியா சொல்றா சொல்றாங்கிறல அப்போ பண்ட் கழவ்டுட்டு நாட் ரூட்ல ஓட முடியுமா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.93,
+            "talk_time": 10.43478260869565,
+            "speech_ratio": 0.4550711996814501,
+            "wpm": 62.79982555604012,
+            "word_count": 24,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 188,
+        "audio_id": "zpdikrxQr0I_000033_00095577-00097026",
+        "text": "<Speaker1>: எங்கயும் காணாமே, ஒருவள கோவில்லே விட்டிருப்பிங்களோ, கொஞ்சம் யோசிச்சு பாருங்க, இருக்கலாம், சரி விடுங்க, பரவால, போய்ப்போது, நான் கெளம்புறேன்.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.49,
+            "talk_time": 6.521739130434783,
+            "speech_ratio": 0.4500855162480872,
+            "wpm": 62.11180124223603,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 194,
+        "audio_id": "V8mlRYJSoY0_000047_00150835-00153788",
+        "text": "<Speaker1>: இப்போதா இப்போதா அப்பாடா இவன்களை ஒரு முடிவு கொண்டாங்கன்னா இனிமேல் தள்ளி நின்னு வேடிக்கை பத்தா போதும் <Speaker2>: பவுல விட்ட புள்ளை ஒரு லூசு பைய்க்கு கட்டி குடுக்கிறாங்களே இயயயோ <Speaker1>: நம்மதிருநகர் சரவணம்பேட்டை மகாலிங்கம் எய் இறக்கிகடா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.53,
+            "talk_time": 11.73913043478261,
+            "speech_ratio": 0.3975323547166478,
+            "wpm": 54.85946495089739,
+            "word_count": 27,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 203,
+        "audio_id": "wQvafNelE80_000127_00366215-00367706",
+        "text": "<Speaker1>: யாராது சொல்லுரா இரண்டு பேருக்கும் ஒரே மயிலா கல்யாணம் முடிச்சுருவோம் சொல்லுரா எல்லாரும் கேட்கிறால்லா சொல்லுமொட்டா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.91,
+            "talk_time": 5.217391304347825,
+            "speech_ratio": 0.34992564080132965,
+            "wpm": 48.2897384305835,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 217,
+        "audio_id": "dtH_bcqX_2Y_000045_00130510-00132499",
+        "text": "<Speaker1>: பயமா வயிறு வலிக்குது கம்மியா இருபது போரட்டான்னு சாப்பிட்டேன் அதுக்கதா கம்மியா சாப்பிட கூடாதுனு அந்த நாசமா போன நாயு ஒரு பத்து போரட்டா எக்ஸ்ட்ரா எடுத்துக்கிட்டு தர மாட்டேன்னு",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.89,
+            "talk_time": 9.565217391304351,
+            "speech_ratio": 0.4809058517498417,
+            "wpm": 66.36500754147814,
+            "word_count": 22,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 220,
+        "audio_id": "mhr1CefspOQ_000016_00055174-00057825",
+        "text": "<Speaker1>: நான் தா சாராய சக்கரவர்த்தி சங்கர் என்ன உள்ளே கூப்பிட மாட்டியா வால்வால் உட்காருமா ப்ளீஸ் உன் வீடுதானு நினைச்சிக்க சொல்லுங்க சார் நான் செக் டெபாசிட் பண்ணிட்டேன் பணம் இந்நேரத்துக்கு வந்திருக்கணும் இன்னும் கிளியராக்கல கண்டிப்பா நாளைக்கு கிளியரயும்.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.51,
+            "talk_time": 12.608695652173912,
+            "speech_ratio": 0.47562035655126034,
+            "wpm": 65.63560920407393,
+            "word_count": 29,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 229,
+        "audio_id": "T7Yk-6izJyc_000051_00116315-00117873",
+        "text": "<Speaker1>: ஏய் மாப்பிள்ளை லூசா ஓட வந்தான்டே நீங்க லூசா போட",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.5700625,
+            "talk_time": 3.478260869565217,
+            "speech_ratio": 0.2233941494817517,
+            "wpm": 30.828392628481744,
+            "word_count": 8,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 231,
+        "audio_id": "O8hG6gaISvc_000065_00181497-00184363",
+        "text": "<Speaker1>: கும்பகோணம் நகராட்சி சாலைகள் விரிவுப்படுத்த இடங்கள் அச்சிட முயற்சி தீர்மானம் உருவானதாக நிறைவேற்றப்பட்டது",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.66,
+            "talk_time": 4.3478260869565215,
+            "speech_ratio": 0.15170363178494492,
+            "wpm": 20.9351011863224,
+            "word_count": 10,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 237,
+        "audio_id": "NTyceoBGTe4_000059_00155989-00158410",
+        "text": "<Speaker1>: என் பேச்ச கேளுடா எல்லாரும் இருந்து ஓடிருக்கடா இது ரீயல்டி ஷோவிலதா ரீயல் பேய் இருக்குற வீடுடா அவன் உண்மையா பேய்னா பேய் தப்பிச்சிருக்கடா தப்பிச்சிருச்சு ஜன்னல் வழிய கொதிச்சு தப்பிச்சிருக்குடா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.2000625,
+            "talk_time": 10.0,
+            "speech_ratio": 0.41322207329009997,
+            "wpm": 57.02464611403379,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 240,
+        "audio_id": "hef5NjyYr38_000001_00008561-00010837",
+        "text": "<Speaker1>: இப்போ நான் சொல்றதுக்கு நீங்க புரியுமா இல்லையா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.7500625,
+            "talk_time": 2.608695652173914,
+            "speech_ratio": 0.11466762573394751,
+            "wpm": 15.824132351284751,
+            "word_count": 6,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 243,
+        "audio_id": "wtWDu1UDzuA_000020_00040956-00042596",
+        "text": "<Speaker1>: டாக்டர் கழுத்து டாக்டர் நீங்கலாம் பாருங்கலாம் இரண்டு கால் மேல இரண்டு கால் கழுத்தியா ஆமாம் டாக்டர் இரண்டு வாலுடா டாக்டர் கழுகுதான்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.4099375,
+            "talk_time": 7.391304347826089,
+            "speech_ratio": 0.45041636190424783,
+            "wpm": 62.15745794278618,
+            "word_count": 17,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 246,
+        "audio_id": "3Cx5Y_dWfT8_000019_00046610-00047931",
+        "text": "<Speaker1>: tell me what is an electric bell? Tell me, thank you, Miss.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.21,
+            "talk_time": 5.217391304347827,
+            "speech_ratio": 0.3949577066122503,
+            "wpm": 54.504163512490535,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 262,
+        "audio_id": "avQT4q35yXs_000076_00221736-00223389",
+        "text": "<Speaker1>: நான்டு சொல்லாம கெளமா வந்து இருக்கே பகவாருக்கியா அப்பா எப்படி இருக்கிறார் அவருக்குன்னா ராகுமூர்த்தி நீ எப்படி இருக்கீர் இருக்கும்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.5399375,
+            "talk_time": 6.521739130434782,
+            "speech_ratio": 0.39430252565554025,
+            "wpm": 54.41374854046455,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 267,
+        "audio_id": "fGrgbA_xC_E_000007_00028289-00030739",
+        "text": "<Speaker1>: சார் சாரு சாரு சாaru சாரு சா Aru சாரு சா, சாரு சா சாரு சா படி சாரு சா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.5,
+            "talk_time": 7.391304347826088,
+            "speech_ratio": 0.3016858917480036,
+            "wpm": 41.63265306122449,
+            "word_count": 17,
+            "word_repetition": 0.2308,
+            "redundancy_score": 0.3333
+        }
+    },
+    {
+        "index": 285,
+        "audio_id": "V5eXKYiaHCw_000017_00054532-00055742",
+        "text": "<Speaker1>: நான் வச்ச கொள்ள தண்ணு குதிரை என்ன தூக்கி எடுக்கிறதா சண்டாளி போகும்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.0900625,
+            "talk_time": 4.3478260869565215,
+            "speech_ratio": 0.35961981891793543,
+            "wpm": 49.62753501067509,
+            "word_count": 10,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 296,
+        "audio_id": "s__KHdaMXeQ_000238_00653429-00654642",
+        "text": "<Speaker1>: நேற்றுவரை நடந்ததெல்லாம் இன்று முதல் மாறாதோ மனம் தினம் துடிக்கிறது உயிரது வலிக்கிறது இமையும் இரண்டும் தவிக்கிறதே",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.1399375,
+            "talk_time": 5.6521739130434785,
+            "speech_ratio": 0.4655850916072244,
+            "wpm": 64.25074264179696,
+            "word_count": 13,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 299,
+        "audio_id": "wh7Fn6IElUI_000155_00352466-00354218",
+        "text": "<Speaker1>: உனக்கு என்ன அர்ஜண்ட் எல்லாத்தையும் ஒன்னு சொல்லிப்பண்ணுவாங்களா என் பணம் தானே குடு என்ன தெரியுமா நீங்க என்னக்கு நம்பிக்கை இருந்ததால நீங்க இதை சேர்த்துக்கிட்டீங்க",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.5299375,
+            "talk_time": 8.260869565217394,
+            "speech_ratio": 0.4712435264083169,
+            "wpm": 65.03160664434772,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 307,
+        "audio_id": "EkcCpu528sc_000137_00326343-00328487",
+        "text": "<Speaker1>: அண்ணா இங்க இருக்கான் எங்க பாத்தியா காரி முஞ்சு கசை போட்டியா பாத்தியா நீ எத்திரும்ப வந்தேன் நான் கொடுக்க ஆளே காணும் கொன்னுட்டானா இப்பாவிளா என்ன பண்றது அண்ணா மனக்கென்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.44,
+            "talk_time": 10.0,
+            "speech_ratio": 0.46641791044776115,
+            "wpm": 64.36567164179104,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 316,
+        "audio_id": "PxUXvfWNyEg_000073_00160958-00162305",
+        "text": "<Speaker1>: என்ன படருச்சு நீ அந்த பணத்தா மஜித் திரும்பக் கொடுத்துடலாம் நீ சொன்ன மாதிரி அந்த சந்தோஷம் வரட்டும் அது",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.47,
+            "talk_time": 6.521739130434783,
+            "speech_ratio": 0.48416771569671735,
+            "wpm": 66.81514476614699,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 319,
+        "audio_id": "9lFsggR1LJ4_000124_00320770-00322431",
+        "text": "<Speaker1>: பிளீஸ் நடந்த சம்பவம் பத்தி பேசுங்க எழுதுங்க இனிமே நடக்காம இருக்க முயற்சி பண்ணுங்க ஆனா எங்கள படம் புடிச்சு எங்க கருத்துக்கள் வேண்டாமே",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.6199375,
+            "talk_time": 7.826086956521741,
+            "speech_ratio": 0.47088546250680796,
+            "wpm": 64.98219382593948,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 328,
+        "audio_id": "0OKi-18gx_Q_000008_00018782-00019988",
+        "text": "<Speaker1>: என் பக்கத்திலே வச்சிக்கணும் ஆனா நான் உங்களால உங்க எல்லாருக்கும் வெட்கமா இல்ல உங்களுக்கும்தான்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.06,
+            "talk_time": 4.782608695652174,
+            "speech_ratio": 0.396567885211623,
+            "wpm": 54.72636815920398,
+            "word_count": 11,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 335,
+        "audio_id": "ASGvGh5dgUE_000053_00113864-00115305",
+        "text": "<Speaker1>: அனிக் அனிக் அந்த இடத்துல நான் நச்சுமெய் பாம்பு பாத்தேன் எனக்கு தெரிஞ்சது உனக்கு தெரியல எனக்கு கேட்கிறது மத்தவங்கள கேள",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.4000625,
+            "talk_time": 6.956521739130435,
+            "speech_ratio": 0.4830896906961643,
+            "wpm": 66.66637731607068,
+            "word_count": 16,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 342,
+        "audio_id": "zmGQgJRwsUI_000087_00216326-00217818",
+        "text": "<Speaker1>: அய்யோ சண்டை அரசாங்கம் சீக்கிரமா ஓடுங்க சீக்கிரமா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.9299375,
+            "talk_time": 2.608695652173914,
+            "speech_ratio": 0.17472917433002744,
+            "wpm": 24.11262605754378,
+            "word_count": 6,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 352,
+        "audio_id": "RDJSeKZDyWE_000001_00004880-00007365",
+        "text": "<Speaker1>: bye mom, bye, (ah), reethu, (ah), saindhri, சீக்கிரம் வந்துடா, பகவன் கோவில் போலாம், (hm), பாப்பா கிட்ட கோர்ட் காலிஸ்ட் அதிகமாச்சுமா, அதனால திருநெல்வேலி அருணாச்சலம் கிட்ட ஷிப்ட் ஆய்ட்டேன்.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.8400625,
+            "talk_time": 10.434782608695652,
+            "speech_ratio": 0.4200787582034326,
+            "wpm": 57.970868632073696,
+            "word_count": 24,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 358,
+        "audio_id": "9VbMobaFy5w_000088_00240129-00241381",
+        "text": "<Speaker1>: புள்ளி ஆதா சார் உள்ளி வச்சு கொழம்போட மறந்து இருக்கேன் அது எங்களை சொல்லுடா எனக்கு பூஸ்ட்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.52,
+            "talk_time": 5.652173913043479,
+            "speech_ratio": 0.4514515904986805,
+            "wpm": 62.30031948881789,
+            "word_count": 13,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 359,
+        "audio_id": "ICAUHsLTIZM_000199_00519485-00521105",
+        "text": "<Speaker1>: அள்ளிப்பூ நெறத்தழகி ஆமாறம் பூவழகி இன்னைக்கு எப்படின்னு இருக்கீங்க போய் வந்த பொண்ணை எடுத்துட்டு போ",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.2,
+            "talk_time": 5.217391304347825,
+            "speech_ratio": 0.322061191626409,
+            "wpm": 44.44444444444445,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 360,
+        "audio_id": "dFwlvG9klb8_000003_00014531-00016135",
+        "text": "<Speaker1>: எம்பி அட்மிஸ் டிங்கிர்றது யார் டிங்கிர்ரது நீயா நீயாடா நம்ம ஊருக்கு தான் டின்னுவன் சார் டேய் நீதானா டிங்கிர்ல வாயைத் திற",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.04,
+            "talk_time": 7.391304347826087,
+            "speech_ratio": 0.46080451046297305,
+            "wpm": 63.591022443890274,
+            "word_count": 17,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 366,
+        "audio_id": "FqICk4TVktI_000003_00007341-00009087",
+        "text": "<Speaker1>: முடியுமா பஜி உனாலா நான் பண்ணிட்ட அரிவி இவனுக்கு போய் எப்படி பண்ற மெடிக்கப் போலாம் நாமதுடா மெடிக்கப் பண்ற பஜி போட்டோம்டா போ பஜி என்னடா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.46,
+            "talk_time": 8.695652173913047,
+            "speech_ratio": 0.49803277055630274,
+            "wpm": 68.72852233676976,
+            "word_count": 20,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 368,
+        "audio_id": "pfcT2Scw8Ec_000033_00073318-00075893",
+        "text": "<Speaker1>: இப்போது நமது புதிய தலைமுறை செய்தித்தொடர்பில் ஒளிபரப்பாகும் வீடு உடன் மனசுடன் கணக்கில் மேலும் பல பரபரப்பான தகவல்களுடன் நேரலையில்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.75,
+            "talk_time": 6.521739130434781,
+            "speech_ratio": 0.25327142254115653,
+            "wpm": 34.95145631067961,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 371,
+        "audio_id": "PDyNCT6YkKg_000068_00144579-00145834",
+        "text": "<Speaker1>: ஏ கில்லே என்ன பண்ற நீ தொட்டுச்சுட்கிட்டன்னா தொட்டுச்சா பாத்தாது தினக்காரனை கழுவணும் சரி நைட்ல எரிதா இல்லையா போடு போடு போடு போட போடு போடு போடும் போடு போடு போடி போடு போடு போண்டு போடு போடு போண்ட் போடு போடு போன்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.55,
+            "talk_time": 12.55,
+            "speech_ratio": 1.0,
+            "wpm": 157.76892430278883,
+            "word_count": 33,
+            "word_repetition": 0.5862,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 386,
+        "audio_id": "n1GMBcWaAMQ_000062_00147448-00148596",
+        "text": "<Speaker1>: இங்கே இங்கே இங்கிலாந்து இங்கே இங்கெல்லாம் இங்கே இங்கோடா இங்கே இங்க",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.48,
+            "talk_time": 3.9130434782608705,
+            "speech_ratio": 0.3408574458415392,
+            "wpm": 47.038327526132406,
+            "word_count": 9,
+            "word_repetition": 0.6,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 390,
+        "audio_id": "zXwgGYunOow_000055_00120095-00121816",
+        "text": "<Speaker1>: சரி சரி சரி",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.21,
+            "talk_time": 1.304347826086957,
+            "speech_ratio": 0.07579011191673195,
+            "wpm": 10.459035444509007,
+            "word_count": 3,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 396,
+        "audio_id": "mTKOQhDbjgQ_000014_00025879-00027787",
+        "text": "<Speaker1>: அண்ணா இல்லேனோ ஜீப் ரெடி பண்ணிட்டியா வந்திட்டியா இப்ப என்ன உங்க அப்பா விக்கி நேரத்து accident ஆயிடுச்சு இடுச்சுறனா கண்டுபிடிக்கணும் அதானா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.08,
+            "talk_time": 7.391304347826087,
+            "speech_ratio": 0.38738492389025614,
+            "wpm": 53.45911949685535,
+            "word_count": 17,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 400,
+        "audio_id": "Z0ppbI2ygWM_000061_00144811-00146348",
+        "text": "<Speaker1>: கூப்ப்டா இவ்ளோ வந்துருப்பா போல எதுக்குக் குளோரோ ஃபோம் கொடுத்துத் துகுனாங்க",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.37,
+            "talk_time": 3.913043478260871,
+            "speech_ratio": 0.2545896862889311,
+            "wpm": 35.133376707872486,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 411,
+        "audio_id": "J5BlxaA6sbQ_000014_00032443-00034728",
+        "text": "<Speaker1>: எந்த ஆஸ்பத்திரி, எத்தன வருஷ சர்வீஸ், இவளை ஜானகி செல்ல கூட்டிட்டு இருப்போ, இந்த பரு ஜானகி பெரிய ரவுடி பாத்து நடந்துக்க முக்கியமா அவ முழுகா இருக்கா, ஜாக் கர்த்தையா பாத்துக்கணும், நே, போ.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.8599375,
+            "talk_time": 11.304347826086955,
+            "speech_ratio": 0.4945047564581904,
+            "wpm": 68.2416563912303,
+            "word_count": 26,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 419,
+        "audio_id": "IBMOinnTsS8_000114_00311034-00312324",
+        "text": "<Speaker1>: ரொம்ப அலறான்டா நாமளும் ஒரு பிளேஸ்டேஷன் வாங்கணும்டா எங்க பாட்டே கேட்டா ஒத்திப்பாரு இல்லடா நாமளுமே ஒன்னு வாங்கணும்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.9,
+            "talk_time": 6.086956521739131,
+            "speech_ratio": 0.47185709470845977,
+            "wpm": 65.11627906976744,
+            "word_count": 14,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 427,
+        "audio_id": "Z0idHBecwB0_000165_00371093-00373456",
+        "text": "<Speaker1>: ஏய் என்னாச்சு பிரச்சனை ஆச்சு இப்படி பேச முடியாது போலீஸ் நெருங்கிட்டாங்க நீ கூட வரவேல்லே வருண்டா இன்னொரு மணிநேரத்துல பணம் தரவா ready இரு என்னாச்சு",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.6399375,
+            "talk_time": 8.695652173913043,
+            "speech_ratio": 0.36783735887258767,
+            "wpm": 50.761555524417105,
+            "word_count": 20,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 434,
+        "audio_id": "ZXlRAnrEWvw_000204_00518675-00520700",
+        "text": "<Speaker1>: எங்கே போறீங்க புதுசா அட்மிட்டானா அந்த கழுதை அது escape பண்ணிச்சுட்டாங்க போய் புடிங்கப்பா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.25,
+            "talk_time": 4.782608695652174,
+            "speech_ratio": 0.23617820719269994,
+            "wpm": 32.59259259259259,
+            "word_count": 11,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 448,
+        "audio_id": "p057UY1mrtU_000019_00056300-00057951",
+        "text": "<Speaker1>: என்ன நந்து சொல்லாம கமழாம வந்து இருக்கே பகவாருக்கியா அப்பா எப்படி இருக்கிறார் அவருக்குன்னா ராகுமூர்த்தி நீ எப்படி இருக்க",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.51,
+            "talk_time": 6.521739130434784,
+            "speech_ratio": 0.39501751244305167,
+            "wpm": 54.51241671714112,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 475,
+        "audio_id": "VjuiNib6OVQ_000004_00009585-00011285",
+        "text": "<Speaker1>: ஒன்னெல்லாம் நம்பி ஒருத்தி கழுத்து நீட்டிடறே பெரிய விஷயம் இதுல தாளி கட்டுற நேரத்துல ஓடிப்போய் எனக்கு கேட்ட பேர் வாய்க்குறது உன்னா நானும் ஓடிப்போல",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.0,
+            "talk_time": 8.26086956521739,
+            "speech_ratio": 0.4859335038363171,
+            "wpm": 67.05882352941177,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 478,
+        "audio_id": "PSzubE6Iy4Y_000053_00118645-00121469",
+        "text": "<Speaker1>: அத்தே அந்த எம்ஜிஆர் படம் எதுவும் <Speaker2>: அவ மாயங்கூட நிம்மதியா வாழக்கூட மாப்பிள்ளை என்னடா ஒண்ணும் பேசாம பேந்த பேந்த முழிகா மாப்பிள்ளை சொல்றது சரிதான் உன்னெல்லாம் நம்ப முடியாது சூடத்த பறித்து கறுப்பு சாட்சியா வச்சு சத்தியம் பண்றா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.24,
+            "talk_time": 12.608695652173916,
+            "speech_ratio": 0.4464835570883115,
+            "wpm": 61.61473087818697,
+            "word_count": 29,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 486,
+        "audio_id": "enFcSuBheQ4_000034_00087934-00089834",
+        "text": "<Speaker1>: குத்திரி குத்து குத்தி கொன்று உனளாம் போய் லவ் பண்ணு பாரு நாயன் குத்திரி இதெல்லாம் ஒரு வாழ்க்கையா பெய் வண்டை பைல லவ் பண்ண பாரு போடி",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.9900625,
+            "talk_time": 9.130434782608695,
+            "speech_ratio": 0.4808006704879826,
+            "wpm": 66.3504925273416,
+            "word_count": 21,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 489,
+        "audio_id": "euYNjLTdToQ_000212_00523198-00525305",
+        "text": "<Speaker1>: இது எல்லாத்தையும் தாண்டி இப்போ உனக்கு கஷ்டம் கொடுக்க கூடாதுன்னா அவளே சாகுங்கிறா உங்க அம்மா உயிருடா இருக்கணுமா இல்லெங்காருது டாக்டர் கையிலல்ல உங்க கையிலதான் இருக்கு",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.07,
+            "talk_time": 8.695652173913047,
+            "speech_ratio": 0.4127029982872827,
+            "wpm": 56.95301376364499,
+            "word_count": 20,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 498,
+        "audio_id": "4SBtslzbOxg_000027_00053624-00055851",
+        "text": "<Speaker1>: மேடம் உங்க ரொம்ப வோர்வஞ்சினேன் என்ன்கூட ஆடும்போது பேய்யா அழுகை இருந்தீங்க இவன்கூட ஆரும்போது ஃபிகர்ராக சேவலமா இருக்கிறீங்க இப்பதான் நீதி தோறமா நியூட்ரல் இருக்கீங்க ஆனா தண்ணை கட்டி மறந்துட்டீங்களா மேடம்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.27,
+            "talk_time": 10.434782608695652,
+            "speech_ratio": 0.46855781808242714,
+            "wpm": 64.66097889537494,
+            "word_count": 24,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 505,
+        "audio_id": "YmwEqIIEsaE_000017_00068318-00069827",
+        "text": "<Speaker1>: உருவம் மாறும் பருவங்கள் மாறும் உள்ளம் மாறுமா பின்னில் பறவை பறந்திடும் போதும் மறந்தான் நீடமா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.0800625,
+            "talk_time": 5.217391304347825,
+            "speech_ratio": 0.34597942179270313,
+            "wpm": 47.745160207393035,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 508,
+        "audio_id": "TCGMtqPsYX0_000059_00148053-00149065",
+        "text": "<Speaker1>: மித்லா நீ முதல்ல அழாதே சரி நான் உன்னுடா தான் இருப்பேன் வரேன்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.12,
+            "talk_time": 4.3478260869565215,
+            "speech_ratio": 0.42962708369135594,
+            "wpm": 59.28853754940712,
+            "word_count": 10,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 521,
+        "audio_id": "go4KdhadPjo_000161_00378727-00380037",
+        "text": "<Speaker1>: வலது பக்க தோள்லப்பா தோள்லதானா நம்ம எங்க போறவரைக்கு நீ வாரு கார்த்திகா என்ன விஷயம் அது வந்து",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.1099375,
+            "talk_time": 6.086956521739131,
+            "speech_ratio": 0.4643009565636092,
+            "wpm": 64.07353200577806,
+            "word_count": 14,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 525,
+        "audio_id": "odi6uVVS7vo_000057_00136290-00138291",
+        "text": "<Speaker1>: சாண்ட்ரோ",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.0000625,
+            "talk_time": 0.43478260869565233,
+            "speech_ratio": 0.021739062500212306,
+            "wpm": 2.999990625029297,
+            "word_count": 1,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 527,
+        "audio_id": "0unftuwG94Q_000238_00623205-00624959",
+        "text": "<Speaker1>: உங்க பொண்ணு தப்பிச்சதா அவனால ஜீரணிக்க முடியல அதனால அவள கொலை பண்ணப் போறேன்னு சொன்னா அந்த ஆள யார்னு தெரிஞ்சுக்கத்தான் உங்க பொண்ணை ப்ளோல் பண்ணு",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.5499375,
+            "talk_time": 8.695652173913047,
+            "speech_ratio": 0.4954805208800913,
+            "wpm": 68.37631188145258,
+            "word_count": 20,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 528,
+        "audio_id": "EpdgEM577Go_000010_00026754-00029265",
+        "text": "<Speaker1>: சிபிசிஐடி போதிய சாட்சியங்களை சமர்ப்பிக்காதது பொது மக்களிடையே பல கேள்விகளை எழுப்பியுள்ளது",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.11,
+            "talk_time": 3.913043478260869,
+            "speech_ratio": 0.15583606046439144,
+            "wpm": 21.50537634408602,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 531,
+        "audio_id": "e_OuBhCTZlg_000022_00078022-00080653",
+        "text": "<Speaker1>: மாரி அந்த பூந்தமிழ் கெனா போடுறா போடுறா நா உடனே இருங்கமா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.3000625,
+            "talk_time": 3.913043478260871,
+            "speech_ratio": 0.1487845695522918,
+            "wpm": 20.53227059821626,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 546,
+        "audio_id": "jINQszCauLE_000051_00136645-00138861",
+        "text": "<Speaker1>: யார்கோட்டுலந்து யாருக்கு பணம் போனோ உனக்கென்னடிகுமார் வைரவி what is happening பொங்கலடி பேசுவொண்ணும் பிரச்சனை இல்ல வைரவியை புடிச்சுடுறேன் ஏய் யாரு நீ இந்த கொலை வேண்டாம் இது எங்க கோப்ட் கைமாச்சிடுவ",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.16,
+            "talk_time": 10.869565217391306,
+            "speech_ratio": 0.4905038455501492,
+            "wpm": 67.68953068592057,
+            "word_count": 25,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 548,
+        "audio_id": "T7Yk-6izJyc_000100_00218722-00220606",
+        "text": "<Speaker1>: மேக்கப் பாத்தியா என்னப்ப டான்ஸ் இன்னும் ஆரம்புல இல்ல என்னடி என்னச்சு முகம் இப்படி வியங்கி இருக்கு அது ஒன்னும் இல்லப்பா ஊர்ல அப்பா அடிச்சாரா எதுக்கு.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.8499375,
+            "talk_time": 8.695652173913043,
+            "speech_ratio": 0.4613093371748868,
+            "wpm": 63.66068853013439,
+            "word_count": 20,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 549,
+        "audio_id": "8FA8pnqrrZY_000011_00026170-00028242",
+        "text": "<Speaker1>: ஹை சிதார்த் நான் பாரத் உன்னோட அண்ணன் நான் டைம்ல வர முடியல லக்ஷி அவர்காக நீ இருந்திருக்க நான் செய்ய வேண்டியது நீ செஞ்சிருக்க thanks for doing that.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.72,
+            "talk_time": 10.0,
+            "speech_ratio": 0.48262548262548266,
+            "wpm": 66.6023166023166,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 550,
+        "audio_id": "C_p1VeCNycM_000021_00040221-00041288",
+        "text": "<Speaker1>: ஒரு வழக்கு குடிச்சிருந்தானா இடிச்சதுக்கு பிறகு நிறுத்தி இருப்பாளா வந்தா இடிச்சா போய்ட்டா இத பாருங்க",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.67,
+            "talk_time": 5.217391304347826,
+            "speech_ratio": 0.4889776292734607,
+            "wpm": 67.47891283973759,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 551,
+        "audio_id": "PffEhzxIwWU_000013_00035863-00037514",
+        "text": "<Speaker1>: நண்பர்களின் உதவியில்லாமல் இவ்வுலகில் எந்த காதலும் வென்றதாய் சரித்திரம் இல்லை திருமணத்திற்கு அழைத்துங்கள் முடிந்தால் வருகிறேன் சென்று வாருங்கள்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.51,
+            "talk_time": 6.08695652173913,
+            "speech_ratio": 0.3686830116135148,
+            "wpm": 50.87825560266504,
+            "word_count": 14,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 563,
+        "audio_id": "HA-a-qK42MU_000060_00179041-00180971",
+        "text": "<Speaker1>: பொண்ணுக்குள்ள நான் எடுத்த புதையல் எங்கே கண்ணுக்குள்ள நான் வளர்த்த கனவு எங்கே மண்ணுக்குள்ள தேர்தா மகளே",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.2900625,
+            "talk_time": 5.652173913043479,
+            "speech_ratio": 0.2930096215625781,
+            "wpm": 40.43532777563577,
+            "word_count": 13,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 565,
+        "audio_id": "dao_OZ4PLj8_000181_00452529-00454022",
+        "text": "<Speaker1>: உன்ன போ சொன்னாங்களா என்ன கேசு பிராத்தல இப்போதான் சே வாயை முடிக்கிட்டு நிகாதுனு ஹே நீ போ வேலை பார்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.93,
+            "talk_time": 6.956521739130436,
+            "speech_ratio": 0.4659425143422931,
+            "wpm": 64.30006697923645,
+            "word_count": 16,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 571,
+        "audio_id": "aQCJ4peWnn8_000232_00572434-00575192",
+        "text": "<Speaker1>: எங்கே யாருங்க கேக்குறீங்களா தெரியுமா என்ன பண்ணுறீங்க கெடப்பிங்க சின்னா பொண்ணுங்க யாருங்க இல்லையா போனா சொல்லுறாங்க ஏய் ரெடி ரஸ்கல்ஸ்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.58,
+            "talk_time": 6.956521739130437,
+            "speech_ratio": 0.25223066494309054,
+            "wpm": 34.80783176214649,
+            "word_count": 16,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 574,
+        "audio_id": "0Fpg3Bd4uu8_000004_00012625-00015431",
+        "text": "<Speaker1>: தெரிஞ்சா நீ ஏதாவது இப்படி பண்ணுவீங்களா என்னடா பண்ணிட்டு இருக்கேங்க இல்லனா சாவு அடிச்சுருவேன் உன்னுலே சொல்றேன்டா இல்லனா சாகுடுச்சுருவேன் இல்லனா சாவதுக்குள்ளே சொல்றேன் டா இல்லனா இல்லனா எங்கடா செல்ல போகுன்னு சொல்றேன்டான் இல்லனா இல்லைனு சொல்றேன்டானா இல்லனா அடிக்காதா ரெய்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.0500625,
+            "talk_time": 13.478260869565217,
+            "speech_ratio": 0.4805073382480063,
+            "wpm": 66.31001267822487,
+            "word_count": 31,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 575,
+        "audio_id": "So0TXCTkLBc_000082_00202805-00204466",
+        "text": "<Speaker1>: ஹலோ காளி ஜெகை எங்க கூட இருக்கிறது அவர்களுக்கு தெரிஞ்சு போச்சு உன்ன தேடிட்டு வரறாங்க அவரு சரண்டர் பண்றதுதான் சரி வேற வழியில்லை",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.61,
+            "talk_time": 7.826086956521741,
+            "speech_ratio": 0.471167185823103,
+            "wpm": 65.02107164358821,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 587,
+        "audio_id": "PffEhzxIwWU_000009_00023607-00025060",
+        "text": "<Speaker1>: சமயத்தில் உயிருக்கே ஆபத்து நேரலாம் உறந்ததிலிருந்து சென்றே வளர்ந்தோம் செத்தாலும் ஒன்னவே சாகுமென நாம் எங்கேறும் அண்ணா சரி கவனமாக கேளுங்கள்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.5399375,
+            "talk_time": 6.956521739130436,
+            "speech_ratio": 0.47844234125012136,
+            "wpm": 66.02504309251673,
+            "word_count": 16,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 601,
+        "audio_id": "2TMVRwvZcrE_000021_00074150-00076948",
+        "text": "<Speaker1>: பட்டி பாட்டி பாட்டி பாட்டி",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.98,
+            "talk_time": 1.7391304347826093,
+            "speech_ratio": 0.06215619852689812,
+            "wpm": 8.577555396711936,
+            "word_count": 4,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 608,
+        "audio_id": "9lFsggR1LJ4_000255_00644851-00646901",
+        "text": "<Speaker1>: அந்த பொண்ணுக்கு அவ்வளவு கோவம் யாரு கிட்ட இருந்து வந்திருந்தோம்னு நினைச்சேன் இப்ப புரிது அவ அப்பா கிட்ட இறந்தானாம் எங்க வந்துட்டு கொன்னுடுவான்டா கொன்னுடுவன்டா கொன்னுவான்டா கொல்லுவான்டா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.5099375,
+            "talk_time": 9.130434782608695,
+            "speech_ratio": 0.4451712630820399,
+            "wpm": 61.433634305321505,
+            "word_count": 21,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 609,
+        "audio_id": "Hvp3xer1yUs_000116_00331483-00333574",
+        "text": "<Speaker1>: நேற்று வரைக்கும் கனவில் யுத்த சத்தம் கேட்டேன் இன்று முத்த சத்தம் கேட்கிறேன் சாமி பூதம் பார்த்து நடுங்காத நானும் சிறு பெண்ணைக் கண்டு நடுங்குகிறேன்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.91,
+            "talk_time": 8.260869565217394,
+            "speech_ratio": 0.39506788929781894,
+            "wpm": 54.519368723099,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 612,
+        "audio_id": "sfaAXEiJ-gM_000030_00066370-00069061",
+        "text": "<Speaker1>: ஆனா அந்த பொண்ணு நல்லா குடிச்சி போதைல இருந்தா அவளை அங்கே விட்டுட்டு வந்தா அந்த ரவுடிகள் மறுபடியும் வந்து எதாவது தொந்தரவு பண்ணுவாங்கன்னு நான் அவளை இங்கே புட்டுட்டு வந்தேன்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.9000625,
+            "talk_time": 10.000000000000002,
+            "speech_ratio": 0.3717463481729829,
+            "wpm": 51.300996047871635,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 613,
+        "audio_id": "esuDcnVhsVM_000203_00487523-00488963",
+        "text": "<Speaker1>: உங்களை எல்லாம் வீட்டுக்கு போக சொல்லுறேன் நீங்க போய் உங்க பொண்ணுடா டிவி பாருங்க இன்னும் நானும் என் பொண்ணு காப்பாத்துறேன்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.4,
+            "talk_time": 6.9565217391304355,
+            "speech_ratio": 0.48309178743961356,
+            "wpm": 66.66666666666667,
+            "word_count": 16,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 616,
+        "audio_id": "dNYpUJKjU1s_000002_00003647-00004716",
+        "text": "<Speaker1>: ஹலோ சொல்லுமா sorry daddy அவசரப்பட்டு தப்பை போனேன் உங்கள ரொம்ப கஷ்டப்படுத்திட்டேன்.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.69,
+            "talk_time": 4.3478260869565215,
+            "speech_ratio": 0.4067189978443893,
+            "wpm": 56.12722170252572,
+            "word_count": 10,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 617,
+        "audio_id": "PDyNCT6YkKg_000144_00294599-00296435",
+        "text": "<Speaker1>: கும்பராசி அவிட்டநச்சித்திரன் தான் இனி நாலாம் பாதம் வேற சந்திராஷ்டமண்டா இன்னைக்கு ரொம்ப பேசின அழஞ்சு போயிடுவேன் உக்கார Madam நீங்க உள்ளே வரலாம் நமஸ்காரம் சுவாமி உக்கார",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.3699375,
+            "talk_time": 9.130434782608695,
+            "speech_ratio": 0.4970313471457753,
+            "wpm": 68.590325906117,
+            "word_count": 21,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 636,
+        "audio_id": "WNsIMlwcxFg_000007_00015996-00018048",
+        "text": "<Speaker1>: சரி சரி",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.52,
+            "talk_time": 0.8695652173913047,
+            "speech_ratio": 0.042376472582422255,
+            "wpm": 5.847953216374269,
+            "word_count": 2,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 644,
+        "audio_id": "EJKfyNj2eGk_000010_00015939-00017260",
+        "text": "<Speaker1>: tell me what is an electric bell? Tell me, thank you, Miss.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.21,
+            "talk_time": 5.217391304347827,
+            "speech_ratio": 0.3949577066122503,
+            "wpm": 54.504163512490535,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 660,
+        "audio_id": "BIIgvePTi70_000165_00407113-00409058",
+        "text": "<Speaker1>: ஹரி எங்க இருக்குன்னு காட்டுங்க, (err), very good, இப்போ B, (ah), right, அதுதான் B, C, எங்க இருக்குன்னா காட்டு, கமிமா.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.4599375,
+            "talk_time": 7.826086956521739,
+            "speech_ratio": 0.4021640334930027,
+            "wpm": 55.498636622034375,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 668,
+        "audio_id": "YWJyULAud2U_000261_00594118-00596242",
+        "text": "<Speaker1>: (ah) இவங்க எல்லாம் கதை சொல்றதுக்கு வந்துட்டாங்க",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.24,
+            "talk_time": 2.608695652173912,
+            "speech_ratio": 0.12281994595922374,
+            "wpm": 16.949152542372882,
+            "word_count": 6,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 676,
+        "audio_id": "LWQTHLuGH2g_000002_00002918-00004178",
+        "text": "<Speaker1>: (um) (ah) (err) மாப்பிள்ளை வேணாம்டா இப்படி வீறி வேணாம்டா சூடானே போஷ்ட்டுமின்டா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.6,
+            "talk_time": 4.347826086956523,
+            "speech_ratio": 0.3450655624568669,
+            "wpm": 47.61904761904762,
+            "word_count": 10,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 684,
+        "audio_id": "Rc1QUeaZvjU_000065_00174312-00176551",
+        "text": "<Speaker1>: நாங்க உன்னை பேய்னு நினைச்சு திரட்டுறன்னு தப்பா நெனைக்காத மத்தவங்கள கண்ணுக்கு வேணாம் நீ பேய்யா தெரியலாம் ஆனா எங்களுக்கு பொறுத்து வரைக்கும் நாங்க கோம்பர சாமி மாநி",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.3800625,
+            "talk_time": 9.130434782608695,
+            "speech_ratio": 0.40797181788963705,
+            "wpm": 56.30011086876991,
+            "word_count": 21,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 697,
+        "audio_id": "SI1301ukEZs_000094_00220409-00221806",
+        "text": "<Speaker1>: இது வேணாம் இதுவும் வேணாம் இதுலென்னு பாரு இப்போடு பாருங்க பாருங்க வேறெதா காட்டுங்க இதுலெ இது பாருங்க இதுலெ",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.97,
+            "talk_time": 6.521739130434783,
+            "speech_ratio": 0.46683887834178833,
+            "wpm": 64.42376521116678,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 702,
+        "audio_id": "wh7Fn6IElUI_000379_00806692-00808590",
+        "text": "<Speaker1>: மூர்த்தி கண்ணு கீழ போடு இல்ல பையன் மெள சத்தம் ஆடு பாண்டியன் வேண்டா பிரச்சனை உனக்கு எனக்கு தான் குழந்தை உயிரோட விளையாடாத",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.98,
+            "talk_time": 7.826086956521739,
+            "speech_ratio": 0.4123333486049388,
+            "wpm": 56.90200210748156,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 708,
+        "audio_id": "rDur8d94tXk_000002_00006900-00008572",
+        "text": "<Speaker1>: அந்த பொண்ணுதான் பாத்தியாங்க நான் பாக்கலையே எங்க போரி உருண்டை பார்த்துக்கிட்டே பண்றேப்பாப்பேன் வாடா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.7100625,
+            "talk_time": 4.782608695652174,
+            "speech_ratio": 0.2862112990691791,
+            "wpm": 39.497159271546714,
+            "word_count": 11,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 709,
+        "audio_id": "4fNgiUJFfUg_000004_00011828-00014786",
+        "text": "<Speaker1>: ஆமா, <Speaker2>: இப்போ, நான் வந்துட்டு போகலாம்னு, <Speaker1>: அப்பா, <Speaker2>: என்ன, சொல்ற, <Speaker1>: இப்போ, <Speaker2>: நான் வந்துட்டு, போகலாம்னு.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.5899375,
+            "talk_time": 5.217391304347828,
+            "speech_ratio": 0.17632316068081683,
+            "wpm": 24.332596173952716,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.2
+        }
+    },
+    {
+        "index": 723,
+        "audio_id": "B9qeSbDzM5Y_000075_00157379-00159026",
+        "text": "<Speaker1>: ஏய் யமனா என்ன ஆச்சுடி ஏன் அழுகிற இதுக்குள்ளே அந்த பொண்ணு அடிச்சா என்ன பிராபலம்னு சொல்லுடீ கேட்ட்டிட்டு இருக்க சொல்லவே மாட்டேன்னு",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.47,
+            "talk_time": 7.391304347826087,
+            "speech_ratio": 0.44877379161056996,
+            "wpm": 61.93078324225865,
+            "word_count": 17,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 735,
+        "audio_id": "RxdvvTNprws_000007_00014851-00016029",
+        "text": "<Speaker1>: இது நான் சொல்றேன் நீங்க கேட்கலாம்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.78,
+            "talk_time": 2.1739130434782608,
+            "speech_ratio": 0.1845427031815162,
+            "wpm": 25.466893039049236,
+            "word_count": 5,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 754,
+        "audio_id": "ywtFZ4YJyfQ_000008_00024056-00025978",
+        "text": "<Speaker1>: நினைக்கவே இல்லை மறப்பதால் நினைவெல்லாம் நீயே நிறைகிறாய் மறப்பதால் நீயும் நினைக்கிறாய் மறதியும்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.2299375,
+            "talk_time": 4.347826086956523,
+            "speech_ratio": 0.22609673520553686,
+            "wpm": 31.201349458364074,
+            "word_count": 10,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 755,
+        "audio_id": "OGpw7lJXe38_000062_00210516-00211929",
+        "text": "<Speaker1>: படம் முழுசா தெரிய மாட்டேங்கிறது கொஞ்சம் இறங்குகிறீங்களா அம்மா மாமா இனிமேனா நான் உனக்கு முழுசா தெரிஞ்சு படம் பரவாயில்ல வந்துடா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.1399375,
+            "talk_time": 6.9565217391304355,
+            "speech_ratio": 0.4919768378842152,
+            "wpm": 67.8928036280217,
+            "word_count": 16,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 762,
+        "audio_id": "GaztEQtlHrU_000002_00004794-00006549",
+        "text": "<Speaker1>: அம்மாதிரி பைத்தியக்காரம் பழகும்டா மச்சான் நோ நீ வேற ஒன்னு கொடுங்க டேய் நான் சொல்றது சும்மா அங்கே பாத்துடு இது பாருடா குடிட",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.5400625,
+            "talk_time": 7.826086956521739,
+            "speech_ratio": 0.446183527368944,
+            "wpm": 61.57332677691427,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 763,
+        "audio_id": "nGehuL5THg8_000030_00058475-00060637",
+        "text": "<Speaker1>: யாருக்கு என்னகொற வச்சு சாமி யாருக்கு என்னை கொற வச்சு சாமியே பேசாம சுத்திருந்த உமா பூமி பேசாம சுத்தி இருந்த உமா பூமீ",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.62,
+            "talk_time": 7.826086956521739,
+            "speech_ratio": 0.361983670514419,
+            "wpm": 49.95374653098982,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 765,
+        "audio_id": "0F7DmMt_sDs_000005_00008561-00010269",
+        "text": "<Speaker1>: ஹா ஹா பயம் முடுத்தாதே விட மாட்டேன் கொளுத்திடுவேன் போ நல்ல வீரமா சொல்றா இங்க அவ்ளோ பெரிய பொம்பனா வா போய்டு போ போ",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.08,
+            "talk_time": 8.26086956521739,
+            "speech_ratio": 0.48365746868954285,
+            "wpm": 66.74473067915692,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 772,
+        "audio_id": "5aqmxuSFQV0_000000_00002331-00004955",
+        "text": "<Speaker1>: சத்தமா உடனா, நம்மளுக்கு தெரியுமா, மாப்பிள்ளை, எங்கிட்ட பாத்தாலே ரூம்ல கட்டி வச்சிருக்கான், மாப்பிள்ளையே வடக்கதான் டயர்ட் ஒட சத்தம் இருக்குது, அப்போ மொத்த ரூமையும் விட்டுட்டு அந்த ஒத்த ரூமாவ பாத்துறோம், இல்லே பாத்துறா.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.24,
+            "talk_time": 11.304347826086957,
+            "speech_ratio": 0.4308059384941676,
+            "wpm": 59.45121951219513,
+            "word_count": 26,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 783,
+        "audio_id": "J5BlxaA6sbQ_000181_00451070-00452563",
+        "text": "<Speaker1>: உன்ன போ சொன்னாங்களா என்ன கேசு பிராத்தல இப்போதான் சே வாயை மூடிக்கிட்டு நிகாண்டனு இப்போ வேலை பார்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.93,
+            "talk_time": 6.086956521739132,
+            "speech_ratio": 0.4076997000495065,
+            "wpm": 56.26255860683188,
+            "word_count": 14,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 812,
+        "audio_id": "PDyNCT6YkKg_000031_00055077-00056701",
+        "text": "<Speaker1>: நண்பர்கள் இப்போது நம்மளுக்கு மிகவும் பிடித்தமான பாடல் ஒன்றை கேட்கலாம்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.24,
+            "talk_time": 3.478260869565217,
+            "speech_ratio": 0.21417862497322765,
+            "wpm": 29.556650246305423,
+            "word_count": 8,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 817,
+        "audio_id": "T7Yk-6izJyc_000208_00482854-00485478",
+        "text": "<Speaker1>: எருவோட்டியே சோறு ஊட்டுற எழப்பாழையே நெனச்சு பாக்குற இன் ஒருநாள் இன்ப பெருநாள் பூமி பணம் பங்கும் திருநாள் புதுசா புதுசா பலபட்ட தொழிகட்டிடுவோம் கற்பம் பட்டி கற்பம் பட்டிக்கலகலக்கும் நீ கர்ப்பு சாரில் பொங்க வெச்சாய் இனி இனிக்கும்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.24,
+            "talk_time": 12.608695652173916,
+            "speech_ratio": 0.4805143160127255,
+            "wpm": 66.3109756097561,
+            "word_count": 29,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 821,
+        "audio_id": "MRk6nU6g2cE_000036_00113357-00116258",
+        "text": "<Speaker1>: hi, cutie, <Speaker2>: நீயா, அம்மா, <Speaker1>: இங்கேதான் வந்த, வாழ்க்கை ரசிக்க வந்த, <Speaker2>: என்னக்குமே வேதனைல இருக்க போய்டு, <Speaker1>: கடவுள் படிச்சுக்க கூட நீ இவ்ளோ அழகா, உன்னா இவ்ளோ அழுர பண்ணி இருக்க, <Speaker2>: (err), இது உன் பேலியா, <Speaker1>: (hm), (hm), (hm).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.01,
+            "talk_time": 13.47826086956522,
+            "speech_ratio": 0.4646074067413037,
+            "wpm": 64.1158221302999,
+            "word_count": 31,
+            "word_repetition": 0.037,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 829,
+        "audio_id": "D_ktT7Gsabo_000004_00006978-00009167",
+        "text": "<Speaker1>: தா பாரு தனியும் மனுசன் அருந்தி என் பிள்ளை வளத்தவனா அவன்கட்டிட்டு வரவல்லவன் வழக்கத் தெரியாது எனக்கு எதிர்பார்க்கிறேன்னு சொன்னா மரியாதை கெட்டோம் வேற மாப்பிள்ளை பாத்துக்கோ எழுந்து போ",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.89,
+            "talk_time": 9.565217391304351,
+            "speech_ratio": 0.4369674459252787,
+            "wpm": 60.30150753768844,
+            "word_count": 22,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 843,
+        "audio_id": "PDyNCT6YkKg_000227_00508293-00510170",
+        "text": "<Speaker1>: கொஞ்சம் கொஞ்சம் போலத்தான் என்னை கொடுக்க வந்து நின்றுகிறாய் பல்லு ஒடுஞ்சு சின்ன புள்ள போலத்தான் என்ன கண்டது உன்னைப் போற்றுறே சுமா சுமா சிண்டை ஏன் தூக்குறே",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.77,
+            "talk_time": 9.130434782608699,
+            "speech_ratio": 0.48643765490722957,
+            "wpm": 67.12839637719765,
+            "word_count": 21,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 845,
+        "audio_id": "LErLxe07C8E_000009_00022709-00025441",
+        "text": "<Speaker1>: விக்கி <Speaker2>: பொண்ணுல்லம்மா வேலை செஞ்சுச்செஞ்சு டயர்ட் ஆகிட்டியா பில்ட்ரஸ் எடுத்துக்கிட்டா எல்லாம் சரியா போயிருக்கும் டாக்டர் சொன்னாரு <Speaker1>: வைத்தியக்காரா இந்த அம்மகிட்ட போய் செல்ல கூட தெரியலடா உனக்கு அழக்கூடாது.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.32,
+            "talk_time": 9.565217391304351,
+            "speech_ratio": 0.35011776688522517,
+            "wpm": 48.31625183016105,
+            "word_count": 22,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 846,
+        "audio_id": "ICAUHsLTIZM_000195_00513656-00515259",
+        "text": "<Speaker1>: அல்லிப்பூ நிறத்தழகு ஆவாரம் பூவழகு அத்திமர செந்தழகு கனலியே கனலியே",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.0399375,
+            "talk_time": 3.4782608695652186,
+            "speech_ratio": 0.2168500263523607,
+            "wpm": 29.925303636625763,
+            "word_count": 8,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 852,
+        "audio_id": "39wF3xitVR4_000196_00502672-00503682",
+        "text": "<Speaker1>: மச்சான் வரான்டா ரெடியாரு ஆறடி distanceல இருக்கான் மூனு வரனா",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.1,
+            "talk_time": 3.9130434782608696,
+            "speech_ratio": 0.38743004735256137,
+            "wpm": 53.46534653465346,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 853,
+        "audio_id": "BIIgvePTi70_000048_00128023-00129384",
+        "text": "<Speaker1>: வயசாயிச்சுடில்ல சார் கவலைப்படாதீங்க சார் நம்மளா இருக்கோம்னு அம்மா சொல்லிட்டாரு சாக்ரேடிஸ் மேல உதாமா வாயில உதூங்கி",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.61,
+            "talk_time": 5.652173913043478,
+            "speech_ratio": 0.415295658563077,
+            "wpm": 57.31080088170463,
+            "word_count": 13,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 875,
+        "audio_id": "vj8lmklP2ME_000009_00022423-00023935",
+        "text": "<Speaker1>: சொல்லுங்கலாம் ஆரோடரும் பராதீபடையன் பற்றாது பத்தும் அரிக்கெடுத்துவிடும் இது கறிக்காரி மாத்திரம் உள்ளதல்ல போ போ போ",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.1299375,
+            "talk_time": 5.652173913043479,
+            "speech_ratio": 0.3735754964647725,
+            "wpm": 51.5534185121386,
+            "word_count": 13,
+            "word_repetition": 0.1111,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 885,
+        "audio_id": "vj8lmklP2ME_000055_00180846-00182210",
+        "text": "<Speaker1>: என்ன ஒரு காத்து சுகமா இருக்குல்ல மனசுக்குள்ள ஒரு ஒரு புத்துணர்ச்சி கொண்டு வந்து சேர்க்குதுல்ல",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.64,
+            "talk_time": 5.217391304347827,
+            "speech_ratio": 0.38250669386714276,
+            "wpm": 52.78592375366569,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 890,
+        "audio_id": "Bxp70P11xSI_000006_00019605-00021332",
+        "text": "<Speaker1>: அது ரமேஷ் அது ரமேஷ்தான் இல்லையா இல்லையா இல்லை இல்லையா இன்னும் நாலு நிமிஷம் இருக்குச்சு",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.27,
+            "talk_time": 5.217391304347825,
+            "speech_ratio": 0.30210719770398525,
+            "wpm": 41.69079328314997,
+            "word_count": 12,
+            "word_repetition": 0.25,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 894,
+        "audio_id": "m63BL4DWZJM_000232_00544198-00545334",
+        "text": "<Speaker1>: நான் உன்னைப் பார்த்துத்தான் சொல்றேன் எங்கடா புடிச்சிங்க இவன எங்க புடிச்சிங்க",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.3699375,
+            "talk_time": 3.9130434782608696,
+            "speech_ratio": 0.34415699103542735,
+            "wpm": 47.493664762888976,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 898,
+        "audio_id": "Xl1-UHwiFBw_000062_00166497-00168620",
+        "text": "<Speaker1>: சார் பிளீஸ் கௌதம் மேதா ஆபத்தில இருக்கிற மாதிரி எனக்கு தெரிகிறது தயவுசெய்து இவளையெல்லாம் முழுமையா தேட சொல்லுங்க சார் பிளீஸ்சார் விட்டா ஹாஸ்பிடலிலே தலையை மாற்றிப்போடுவோம் போலிருக்கு எடுத்துப்போம்மா காக்க",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.23,
+            "talk_time": 10.0,
+            "speech_ratio": 0.47103155911446065,
+            "wpm": 65.00235515779556,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 907,
+        "audio_id": "qCrkwjclNpc_000036_00121808-00124260",
+        "text": "<Speaker1>: பாராசிகித்தாயே இந்த பாவமனுக்கு காட்சி கொடுத்திருக்கியே அம்மா பேய் எது சாமிதன்கூட தெரியல பரீயோன் பொம்பளா சாமிவோ கோயந்தா கோயந்தா குமந்திட்டு இருக்கான் பார் கபோதி என்னவோ போங்கடா சாமி சரணமயா பபா சாமி ஆர்த்து எடுத்துங்க ஆமாம்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.52,
+            "talk_time": 12.173913043478262,
+            "speech_ratio": 0.49648911270302865,
+            "wpm": 68.51549755301795,
+            "word_count": 28,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 911,
+        "audio_id": "cCvXMP-r0Xw_000030_00077442-00078824",
+        "text": "<Speaker1>: இந்த ஜெனரிக் மெடிசின் ரகசியம் இங்கேயே உன்னோட அழிஞ்சிப்போடும் உண்மைக்கு எப்பவும் முடிவே கிடையாது இன்னும் வேகமா வரும்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.82,
+            "talk_time": 6.086956521739132,
+            "speech_ratio": 0.44044547914176063,
+            "wpm": 60.781476121562946,
+            "word_count": 14,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 919,
+        "audio_id": "JOgkMcMHW_g_000014_00044040-00046294",
+        "text": "<Speaker1>: ஹாட்ஸ் ஹாட்ஸ் யார் துமுகக்க கூடாது அப்டி துமுகினியா உங்க எல்லாத்தையும் சரி பாடல் நடத்தோம் இன்னிக்கை கம்பராமாயணத்தை பத்தி நான் பாட நடத்தப்போறேன்",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.54,
+            "talk_time": 7.826086956521741,
+            "speech_ratio": 0.347208826819953,
+            "wpm": 47.91481810115351,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    }
+]

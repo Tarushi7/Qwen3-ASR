@@ -1,0 +1,704 @@
+[
+    {
+        "index": 3,
+        "text": "Tanya-tanya, bagi orang ni, pernah dah pernah, setamat pernah pernah, semua dah pernah. Sangat mesra dengan kita, mengikhlaskanlah, apa tu? Ah, tadi berasa tu, mesti ada kita satu mungkinlah, diperintah semuanya dengan suka minyak ini dan betul sehari. Jadi saya dengan si kupon dari di sana, setamat, si kupon dari setamat pernah minum dah, tidak pernah lebih, tidak pernah lebih dari satu minum dah. Masih terada pada pada waktu ini, setamat pernah, ada tu, jangan.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 38.9600625,
+            "talk_time": 0.0,
+            "speech_ratio": 0.0,
+            "wpm": 117.04293338851805,
+            "word_count": 76,
+            "stutter_score": 0.0556
+        }
+    },
+    {
+        "index": 7,
+        "text": "Ha, Jojo tahu. Anak itik Didi kau kecil, mesti boleh sampai. Ha, enggak lah, betul juga. Kek kek. Biar Lily tolong. Yay! Sungai dapat bersih. Eh, anak itik nak buat apa tu? Kek kek. Kek kek. Kek eh? Didi, sampah sampah ni macam mana? Ah, enggak lah, macam mana ni? Hmm, Jojo tahu. Kita panggil Captain Bersih. Captain Bersih, kami perlukan bantuan di sungai. Jangan risau, Captain Bersih.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 44.85,
+            "talk_time": 17.37299999999998,
+            "speech_ratio": 0.3873578595317721,
+            "wpm": 90.96989966555184,
+            "word_count": 68,
+            "stutter_score": 0.0781
+        }
+    },
+    {
+        "index": 9,
+        "text": "Kali nak pelajari sedikit. Ah, tu boleh. Jangan dekat dengan jari itu. Jari itu kita gunakan apa nih sarang apa nih sarang laba-laba. Yeah. Ah, ada zombie bawah. Kijung kita turun bawah. Mana potiba deluxe? Bawah he. Kijung kita turun bawah sama-sama. Itu jurn mati lah. Oh awak awak semua di peri perlu tutup itu. Aduh kesayang kita perlu tempat di. Tolong jelah. Kita semua tinggal. Itu zombie tengah lu. Mana mana zombie? Tengah. Tak bawah he? Yeah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 51.14,
+            "talk_time": 19.000000000000007,
+            "speech_ratio": 0.3715291357059055,
+            "wpm": 93.85999217833398,
+            "word_count": 80,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 26,
+        "text": "Tunggu betul tidak? Kita nak menggalakkan Malaysia asli, yang original Malaysia, yang mana keindokannya dipertahankan dan dihormati. Apa yang indok? Apa yang akal? Apa yang tunjangan? Tetapi sahabat-sahabat saya, saya pun dah binau. Tunjangan negara ini adalah perbagaan sesuatu. Agamanya yang asli, agama negara ini Islam. Tetapi yang pernah kita ada apa lagi? Bangsa perasnya, bangsa tunjangnya lagi. Tetapi negara ini sudah kita kena orang China pemilik juga negara ini, orang India pemilik Malaysia.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 54.59,
+            "talk_time": 0.0,
+            "speech_ratio": 0.0,
+            "wpm": 82.43267997801796,
+            "word_count": 75,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 36,
+        "text": "Eh, cucu, tengok atas tu, Didi, atas pokok, Didi, hati hati, tolong, Didi tak berani turun. Macam mana ni, cucu? Kau kawan, cepat pergi ke atas semua, Didi, ke atas semua, ke atas semua, tolong. Kuat lagi, ke atas semua, ke atas semua, tolong. Hah, Jojo, Nana, kenapa ni? Tu, Didi atas pokok, tolong, Didi tak berani turun. Oh, sekejap ya Didi, squat, squat, senyap, squat, lama, Didi bergerak sekarang.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 40.89,
+            "talk_time": 6.800000000000001,
+            "speech_ratio": 0.16629982880899977,
+            "wpm": 102.71460014673515,
+            "word_count": 70,
+            "stutter_score": 0.0303
+        }
+    },
+    {
+        "index": 61,
+        "text": "Saya nak pak di saya di lopak ni. Oh. Saya nak bawa. Saya akan bace awa. Bace, bace, bace. Oh kapal kecil. Saya akan serangnya. Hati-hati kapal kecil. Gergasi akan serang. Bace, bace, bace. Oh, bing. Saya cepat lupa paling besar. Oh. Oh, yang ni paling besar. Bace, bace, bace. Buka. Yang ni lebih besar dari yang tu. Bace, bace, bace. Yeah. Oh, yang ni adalah lopak yang paling paling besar. Bing. Yeah. Hati-hati.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 53.3299375,
+            "talk_time": 21.223999999999972,
+            "speech_ratio": 0.3979753398360906,
+            "wpm": 85.50544429196077,
+            "word_count": 76,
+            "stutter_score": 0.1806
+        }
+    },
+    {
+        "index": 89,
+        "text": "Anak emas, dapat merampat dan jurang nampaknya. Anak emas, anak emas, bukan?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 34.12,
+            "talk_time": 1.8400000000000034,
+            "speech_ratio": 0.05392731535756165,
+            "wpm": 21.101992966002346,
+            "word_count": 12,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 107,
+        "text": "Welcome back lagi langkah dimulai dengan saya Haika dan juga Shihada sini Atun Daniel pelak layan tamu di kak luas sampai makan-makan. Tak aja kita makan-makan ni. Pergi sana keluar tak tak aja punya. Saya tunggu-tunggu bawas setau jurajak makan keluar tak tak aja punya. You mau makan sekarang ke? Mau makan sekarang? Oh yeah, sangat lama. Kali ni nanti lagi pelak pel",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 44.52,
+            "talk_time": 16.208000000000006,
+            "speech_ratio": 0.36406109613656795,
+            "wpm": 88.94878706199461,
+            "word_count": 66,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 108,
+        "text": "Aduh paling sana. Aduh, ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia paling sana. Ini dia p",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 43.81,
+            "talk_time": 0.0,
+            "speech_ratio": 0.0,
+            "wpm": 398.539146313627,
+            "word_count": 291,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 115,
+        "text": "Janganlah nilai kami dalam masa satu tahun setengah. Tapi kita tolak apa-apa perkara yang boleh. Apa yang menyebabkan perkata harapan menang? Di antaranya kita tolak politik wang, kita tolak rasuah, kita tolak kleptokrasi. Kemudian rakyat yakin dan mereka undi perkata harapan dan kita menang. Bila kita menang",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 34.9199375,
+            "talk_time": 0.0,
+            "speech_ratio": 0.0,
+            "wpm": 82.47437441719362,
+            "word_count": 48,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 150,
+        "text": "pernah ni pernah ni macam tu kan, tu saya rasa macam ni tahu je budaya ni cuma satu lagi tak boleh nak besar sangat, asal jenser jenster yang besar orangnya satu sebab orang kan tak lulus lagi dari AOSK, tak boleh nak tak panjang, tak boleh nak panjang juga, tak boleh sangat, aku itu je yang aku boleh katakan, kata kata kata, which means untuk saya juga tension, ni aku ni aku ni macam tu.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 43.27,
+            "talk_time": 17.107000000000003,
+            "speech_ratio": 0.3953547492489023,
+            "wpm": 103.99815114397965,
+            "word_count": 75,
+            "stutter_score": 0.0563
+        }
+    },
+    {
+        "index": 152,
+        "text": "Eh, macam punya tengoklah tempat ni. Itu kan rumah Tata. Rumah Tata. Ye, kita dah lama. Tata, Tata. Lidi, Darna, Jojo, kenapa dah tak balik? Kami tersalah jalan lah Tata. Ya, ke? Kalau macam tu, tidurlah ke rumah Tata lulu. Esok Tata akan tawali ya. Ye, boleh main ke rumah Tata lagi. Orang ray. Eh. Ah, Tata. Kongkowin masuk. Orang.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 41.07,
+            "talk_time": 16.39999999999999,
+            "speech_ratio": 0.3993182371560748,
+            "wpm": 87.65522279035793,
+            "word_count": 60,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 161,
+        "text": "Nah cerita berita tuan-tuan Allah berikan benar tuh git, jadilah ini ada. Sejuk pula, kata. Sepatu bawa bawa mana tu takdo? Tak berani bawa bawa ke bawah. Separamen saya tak tahu dengan yang itu. Nah ada lagi tuan-tuan, ada lagi, masih ada lagi. Air tu baru kaput ke bawah, belasah baru itu. Belum berkaput ke bawah, belum kak peningalak. Oh tuan-tuan, walah walah. Ini sejak Allah. Tapi kita belum jitu. Sepatu mana alam itu?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 37.85,
+            "talk_time": 5.68000000000001,
+            "speech_ratio": 0.15006605019815086,
+            "wpm": 122.06076618229855,
+            "word_count": 77,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 181,
+        "text": "apa dia jawab ni kapal pelang, kapal selat Cina, jangan apa sama, macam dia boleh, Malaysia juga boleh untuk pelang, dia boleh lelalu untuk masuk cari search and skill dah tahu dia guna jet, dia guna kapal terbang, guna kapal bapa hari lapan hari pada kapal terbang tu dah pergi ke London, itu yang Cina malah ini kita cari dan subuh subuh ni, mau naik bermain, naik bermain, nasi besar, se",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 57.7499375,
+            "talk_time": 18.640000000000004,
+            "speech_ratio": 0.32277091208973174,
+            "wpm": 73.76631359990648,
+            "word_count": 71,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 205,
+        "text": "Kalau kita campur atau balang, apa dah? Tujuh bahagian. Sunat, tapi semua buat sekali, campur sekali masak. Mana tu boleh makan? Kita boleh makan sebab kita tak kita tak tak yakin. Mana? Atau ada pendapat yang kata boleh? Itu dia. Itu dia. Kalau kalau nak begitak ada. Hahaha. Hahaha. Hahaha. Hahaha. Hahaha.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 52.6799375,
+            "talk_time": 15.664000000000001,
+            "speech_ratio": 0.2973427977206693,
+            "wpm": 59.2255827942089,
+            "word_count": 52,
+            "stutter_score": 0.1042
+        }
+    },
+    {
+        "index": 216,
+        "text": "Jom kita duduk. K",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 53.23,
+            "talk_time": 2.16,
+            "speech_ratio": 0.04057862107833929,
+            "wpm": 4.508735675371032,
+            "word_count": 4,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 225,
+        "text": "Tak ada pun abang Omar. Hah? Musti ada punya. Hah? Sana tu, sana, sana. Huh. Orang terangkat itu. Shh. Macam mana ni? Macam mana ni? Omar, kenapa ni? Ada orang jahat di kedua. Hmm hmm. Dia bukan cangkuk. Hah? Mana mana? Tak ada siapa pun. Ada Mama.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 45.5,
+            "talk_time": 14.768000000000013,
+            "speech_ratio": 0.32457142857142884,
+            "wpm": 61.978021978021985,
+            "word_count": 47,
+            "stutter_score": 0.0465
+        }
+    },
+    {
+        "index": 243,
+        "text": "Kami tidak perlu berbuat apa-apa. Kami tidak perlu menjadi manusia ini. Oh, kerana itu manusia amat sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong. Sombong, sombong, sombong.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 30.44,
+            "talk_time": 71.84,
+            "speech_ratio": 2.3600525624178714,
+            "wpm": 272.01051248357425,
+            "word_count": 138,
+            "stutter_score": 0.8881
+        }
+    },
+    {
+        "index": 246,
+        "text": "Asal pelatih yang dengar kita mau pegang bola untuk bola Malaysia, okay? Dan itu bola bola Malaysia dahulu. Boleh boleh boleh boleh. Kalau bola bola bola Malaysia, bola bola Malaysia. Disisih, lawak saya tidak ada juga, okay? Cukup sudah, okay? Cukup sudah tidak ada lagi. Untuk ambil bola dahulu, okay? Kita mulai yang tengah dulu, untuk kamu yang tengah dulu, okay? Satu dua tiga semua, satu dua tiga semua, okay? Udar, udar kiri udar, rapat sedikit. Ah, yang sudah ini di sini sudah, di sini sudah kita di dalam, okay? Maka sekali lagi ya semuanya, okay? Satu dua tiga semua, satu dua tiga semua, okay? Cukup di sini sudah, udar udar kiri udar",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 50.63,
+            "talk_time": 0.0,
+            "speech_ratio": 0.0,
+            "wpm": 133.91269998024887,
+            "word_count": 113,
+            "stutter_score": 0.1101
+        }
+    },
+    {
+        "index": 290,
+        "text": "Allahu Akbar. InshaAllah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 49.94,
+            "talk_time": 2.0,
+            "speech_ratio": 0.040048057669203045,
+            "wpm": 3.6043251902282742,
+            "word_count": 3,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 302,
+        "text": "Dan dia kata kita malang beresia, esia semestia ada. Masalah soalah saya ros kita beresia masih sujo, beresia koncah, rosialah bahala pahala demi keTuhan terbelakang. Nah, saya nak kau sapa saya ni sapa sah ini, karena maiwal terpahwal berbahin. Nah, gayo solusi. Nah, tapi tidak ada. Nak mati oleh dosa itu. Jadi katakan masuk dalam terbelakang, dah dua minggu dan saya gunak gayo, masuk cedoben masuk dia. Saya kali pulbepu, bepu kata tak betul. Alifud, kali pulbepu, caya saya, tercaya lah. Dua minggu tak masuk dulu. Ah, tak kau, kalau nak kau lagi. Tapi baca pahala tu, semalajak terbelakang, alam ini, tak malam ini dahlah kota. Aha.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 52.64,
+            "talk_time": 12.520000000000007,
+            "speech_ratio": 0.23784194528875394,
+            "wpm": 121.96048632218844,
+            "word_count": 107,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 304,
+        "text": "Alhamdulillahirobbilalamin, wabihinastainalaumuridduliyawaddin, wassallahualaihsaidina MuhammadilqatimNabiin, walaalihiwasahbihiajma'in. Allahumma salli'alaihsaidinaMuhammadilfatihilmaaulikawilqatimilmasabqa, walnasirilhakilhakqa, walhadiilasiratikalmustaqim, walaalihiwasahbihihakakudurhiwamudharhiilazim. Allahumafatagainafatuhilaarifin, waruzukannafahmanNabiin, waalhamalmalakatilmukarrabil, yahiyyayakumyarhamdikayarhamarahimin. Rabbishrahihsadruyasirliamri, wahululqatamilsanya, fahukauli, qalussani, furaheMuhammadataala, qanafagabihiwabiyumihinfiddari, minaamin.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 48.6099375,
+            "talk_time": 34.16,
+            "speech_ratio": 0.7027369660781809,
+            "wpm": 28.38925682634338,
+            "word_count": 23,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 307,
+        "text": "Walau pun abang ada, tapi bukanya dengan Lira. Kila ketawu. Tungguan abang hanya pada rakana rakana abang je. Lira selalu rasa tersisih. Lira cuba tunggu abang. Tunggu sampai lewat malam. Tapi abang, apa cara pulang? Abang kemana, bang?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 38.05,
+            "talk_time": 14.39999999999999,
+            "speech_ratio": 0.3784494086727987,
+            "wpm": 59.92115637319317,
+            "word_count": 38,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 309,
+        "text": "Okay, oh, jauh. One, two, three, oh! Up, up, okay, okay. Please don't bite my hand. You name macho, macho. One, two, macho, macho, macho. Ah, I'm so scared. Come here. Knock it, knock it, knock it, knock it. One, two, three, oh! Oh, oh, okay.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 36.3,
+            "talk_time": 10.657000000000002,
+            "speech_ratio": 0.29358126721763095,
+            "wpm": 79.33884297520662,
+            "word_count": 48,
+            "stutter_score": 0.25
+        }
+    },
+    {
+        "index": 328,
+        "text": "Kemudian dia boleh tengok dia cendera-cendera dia masuk dia tengok depan dia tengok depan sekali waktu itu dia tak kenal lagi Nabi ni siapa, waktu itu dia pendeta Yahudi, dia tak kenal lagi Muhammad ni siapa. Bila dia datang dia tengok, eh Muhammad, dia kata apa? Wallahi, Arab tu, Anahu, Nasawi, Wahdi, Khalid. Pertama kali aku tengok muka dia, aku tahu dia ni bukan pembohong. Itu first time Abdullah bin Salam tengok muka Rasulullah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 31.04,
+            "talk_time": 4.720000000000002,
+            "speech_ratio": 0.15206185567010316,
+            "wpm": 144.9742268041237,
+            "word_count": 75,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 336,
+        "text": "ada dek ada dek ada dek apa gaye macam kum dia tu bateri tekan jalan tu semua semua tak di bateri je nak jalan eh ini macam jalan tak adi ke doa aku musim musing deh hah oh lah aku musim musing eh kan tek wuih aku tek tu lama tu lama oh lah ini tu pak tadi so aku musim musing so aku kenapa jalan ni gila sabojak semua",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 36.71,
+            "talk_time": 10.160000000000004,
+            "speech_ratio": 0.27676382457096166,
+            "wpm": 114.41024244075183,
+            "word_count": 70,
+            "stutter_score": 0.0303
+        }
+    },
+    {
+        "index": 360,
+        "text": "Saya pemeran. Apa ni? Apa salah hari ni? Seperti. Protei lima tu. Tadi buatlah, dal",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 44.29,
+            "talk_time": 0.0,
+            "speech_ratio": 0.0,
+            "wpm": 20.320614134116056,
+            "word_count": 15,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 382,
+        "text": "Di mana ni? Di mana? Macamai. Macamai. Kalau masuk awak, kalau yang masuk awak, dia. Ia. Biar. Biar. Biomi. Coba ni. Romping, kita dapat pani. Di bawah tak boleh tu lah. Kita tunggu hangur. Kalau makan magetin, tapi makan kayak biomi. Seperti apa? Seperti apa? Sekolah ni. Undes ini sebab apa ya? Coba ni biomi, biat biomi ni apa? Emotoh. Ada desa ni. Hah. Ambil jam lah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 46.7799375,
+            "talk_time": 8.064000000000004,
+            "speech_ratio": 0.17238158986424476,
+            "wpm": 85.93427470911007,
+            "word_count": 67,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 390,
+        "text": "Terima kasih. Hmm. Okay. Oh, kini tidak boleh. Oh, ini pun tak boleh hadir nih. Kenapa? Wah, hadir nih. Apa tu? Okay. Okay. Terima kasih. Saya klik tuan. Tidak menyebut itu. Kenapa? Agak mencurigakan. Hei, ke laptop. Hmm. Ini memang kita jaga samun. Hmm. Kenapa pun. Hmm. Uh, ada syak. Uh, SGS.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 33.86,
+            "talk_time": 12.840000000000007,
+            "speech_ratio": 0.379208505611341,
+            "wpm": 92.14412285883049,
+            "word_count": 52,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 407,
+        "text": "Bukanlah, dengarlah. Cikgu Jasmine nak pergi Kuala Lumpur. Hah, biarlah. Kalau opa ni, Cikgu Jasmine nak pergi belajar, kita nak ajak kita orang dah. Tular, nak kalsangai. Cikgu pelari, lepas ni dapat Cikgu garang, padan muka. Apa lah kau, orang tengah sedih ni. Opah tersedih tu. Kenapa mesti sedih? Kan Cikgu nak pergi belajar, pakuslah tu. Opah tak faham lah. Kita orang sayang Cikgu Jasmine. Dia baik, dia ajak kita sampai pandai, tak pernah marah. Bukak macam aku, asyik marah, macam serigalunya.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 57.48,
+            "talk_time": 16.839999999999986,
+            "speech_ratio": 0.2929714683368126,
+            "wpm": 85.59498956158664,
+            "word_count": 82,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 457,
+        "text": "Perubahan kerana kita mau sesuatu mood kita mau masa depan yang lebih baik untuk anak bangsa kita. Hari ini datang perempat sejak datuk Sri Anwar Ibrahim menjadi Menteri Kewangan selepas itu tiap-tiap tahun kerajaan amlo bersandeshnya has been standing meh mani dan batih ini. Sejak tahun 1977 kerajaan BN telah berjanji lete daripada pendapatan negara. Apakah artinya ini? Ini bermakna tiap-tiap daripada kita menanggung hutang yang dibatulik kerajaan amlo bersandeshnya ini bermakna.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 44.8600625,
+            "talk_time": 0.7199999999999989,
+            "speech_ratio": 0.016049910764167993,
+            "wpm": 98.97444971236945,
+            "word_count": 74,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 506,
+        "text": "Orang komen, jadi saya mengira mereka lihat semua. Jadi tahu, bilang jangan kira macam. Kenapa perlu sampai komen? Jumpa sekali, jumpa lagi sekali. Danci, tahu tak? Danci, dia jalan kaya tak perlu lah sampai keluar keluaknya. Semua orang tahu, dia juga semua tengok komen semua kan? Ya, saya tahu. Girah cuma skit perasaan. Tengok komen dikalikupai, cima, kiri cima. Yang pasal orang kata mengira, kita sebagaikan bos. Tapi bagi semua.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 35.78,
+            "talk_time": 3.5770000000000053,
+            "speech_ratio": 0.09997205142537745,
+            "wpm": 117.38401341531582,
+            "word_count": 70,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 518,
+        "text": "Maluba, Johor, okay okay, kita untuk Pahang, mana Pahang? Allah Pahang, Pinang, ada tak? Gedang, najap lagi, lagi sembilan, okay, Kuala Lumpur, Selangor.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 31.0400625,
+            "talk_time": 8.800000000000002,
+            "speech_ratio": 0.2835045837939277,
+            "wpm": 44.4586733676841,
+            "word_count": 23,
+            "stutter_score": 0.0526
+        }
+    },
+    {
+        "index": 521,
+        "text": "apa? boleh, boleh, boleh, boleh. mana? jalan, tak cintanya tak jalan, tak pernah bertemu, tak pernah, tak pernah, awak salah nama. jangan lupe, beri kerjasama, beri kerjasama, dengan. baik saya ada wakil punya kak jalan, ada masalah kak, jangan lu problem. dari kak salma pasal tu, pasal perempuan ada sekarang. tiga kali saya beri kerjasama dengan bila penjawat awak menjalankan tugas. sekali, beri kerjasama dengan penjawat menjalankan tugas. kedua, ketiga kali, beri kerjasama untuk kami. jangan apa, berhati, serahkanlah kamu. boleh, ada tak si kami? nak kamu sekarang ini kamu tahu, bertanya siapa?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 51.9300625,
+            "talk_time": 3.1199999999999974,
+            "speech_ratio": 0.060080805795294345,
+            "wpm": 107.45221036466113,
+            "word_count": 93,
+            "stutter_score": 0.0449
+        }
+    },
+    {
+        "index": 525,
+        "text": "Jadi, jadi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 50.31,
+            "talk_time": 1.6,
+            "speech_ratio": 0.031802822500496916,
+            "wpm": 2.385211687537269,
+            "word_count": 2,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 534,
+        "text": "Okay kita dalam permainan teku, eh teka apa? Kacak, teku apa yang rahim? Ah, teku tomu satu tingkah ngah. Ah, so tomu akan teku apa yang ngah buat, eh? Okay, tamu eh. Kepemain. Okay. Main bola. Khati. Gajah. Ada. Baca buku. Nih. Buka buku. Buku lah. Buku ya, tamu. Ah. Nih. Berada di cakoi yang. Kau? Cakoi yang? Oh cakoi yang. Ya. Jadi tu. Kepain lah. Oh, kepain. Kepain. Siapa lau? Oh, kata saya salah. Maklum. Ah, tamu tanpa. Ah. Okey. Tidak apa lu. Dia cuma tu.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 55.26,
+            "talk_time": 3.799999999999983,
+            "speech_ratio": 0.06876583423814664,
+            "wpm": 94.46254071661238,
+            "word_count": 87,
+            "stutter_score": 0.0482
+        }
+    },
+    {
+        "index": 549,
+        "text": "Aku pun percaya kamu tahu. Kau tak perlu. Dah, amat sedih nih. Saya tahu dok. Malah saya tak apa. Mama tengok apa yang terlalu lain. Saya tahu ke? Galah mawar asal sakit. Tanya. Tidak lagi sakit. Apalagi pilih tinat tu perangnya mama. Tapi mama tahu. Mama kena kuat. Mama aja sayang. Dah, ada nisa. Mama janji lagi mama hidup.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 47.6599375,
+            "talk_time": 16.65600000000002,
+            "speech_ratio": 0.3494759094050432,
+            "wpm": 74.27621993839166,
+            "word_count": 59,
+            "stutter_score": 0.0182
+        }
+    },
+    {
+        "index": 566,
+        "text": "boleh tak? Kau selfish. Ah, kau nak makan apa-apa kau buat sogong. Panggil putih apa? Tak, terlalu banyak call. Nak makan tak? Kalau kau beli kau beli sogong. Kau lamb, kau lamba bangun rul. Okay, okay, okay. Malam? Aku tak tidur. Tiba-tiba nampak itu ngah makan. Kau cakap aku ado, kau ni aku senang. Oh, tak, tak, tak. Eh, apa? Bagi tu. Kau tahu kenapa kau hitam? Kau banyak raki. Banyak raki. Kalau tak ada raki itu putih kau. Kau punya tawruh, aku hitam kecil. Oh, sudah kau, kau banyak raki. Apa? Tak pandi? Ah, tak pandi. Diam. Abis tu ni, ada, ada, ada, ada, ada. Apa kau? Tawruh.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 56.11,
+            "talk_time": 5.184000000000005,
+            "speech_ratio": 0.09238994831580832,
+            "wpm": 118.69541971128142,
+            "word_count": 111,
+            "stutter_score": 0.1028
+        }
+    },
+    {
+        "index": 574,
+        "text": "Saya kena guna. Wah, nampaknya zombie dah membunuh. Wah. Oh, bagus sangat. Apa? Tidak. Saya pun, saya pun tak pandai sangat. Just natural. Sufi di belakang saya. Wow. Sufi di belakang wah. Dia berdi belakang saya. Dia berdi belakang saya. Ah. Berdi belakang. Ah. Tidak kan. Apa dah bukan? Di belakang. Haha",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 42.73,
+            "talk_time": 15.119999999999989,
+            "speech_ratio": 0.35384975427100374,
+            "wpm": 73.01661596068337,
+            "word_count": 52,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 580,
+        "text": "Abelarasa indah rendah terlalu rindu, oh indah indahnya dunia. Hehe",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 43.48,
+            "talk_time": 9.76,
+            "speech_ratio": 0.22447102115915366,
+            "wpm": 13.799448022079119,
+            "word_count": 10,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 581,
+        "text": "Bebaskan manusia dari tekanan manusia itu bila bukan berdebat berbahagia. Saya tak mau masuk konversi itu. Tetapi ini canggol polemik sekarang ini. Saya tak ada lah orang Islam nak pegang gelar tetapi sentuh. Masuk sesuah. Tetapi nak canggol polemik sekarang. Rasuah berbilion tidak perbincangan. Penindasan tidak ada perbincangan. Puluhan orang ditangkap, ditaual atau asusah dalam negeri atau asusah negara tidak ada isu. Anak yang keluar masuk penjahaga berdebat papanya tidak ada di isu. Yang jadi isu jangan sentuh aji.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 47.4700625,
+            "talk_time": 0.0,
+            "speech_ratio": 0.0,
+            "wpm": 99.8524069775556,
+            "word_count": 79,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 586,
+        "text": "Ada kampung masjid sini macam mana uporah? Uporakat. Lapan orang. Ya masih apa ini diluar? Ada nama, saya nak menggerpan. Masjid Haji Al Amsha. Ada, ada kalau kau. Ada. Mertak. Akan dimelata anak muda. Tahu nama dia boleh pergi. Tahu. Eh, kau jalan masjid tutup? Bes. Allah. Bes. Allah masjid tutup. Ini kedai. Jual pergi kedai. Kedai apa? Nalur nih. Kedai menjawab kesannya nih. Dudu. Kita pintu lekang. Pintu lekang betul leh. Nila, nila, nila sah. Nal",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 47.42,
+            "talk_time": 18.799999999999994,
+            "speech_ratio": 0.3964571910586249,
+            "wpm": 97.42724588781104,
+            "word_count": 77,
+            "stutter_score": 0.0685
+        }
+    },
+    {
+        "index": 600,
+        "text": "Jadi kita tanya, biar kita berani salat. Sebab kita kita tanya Allah, kita tak tanya Allah ada keadaan rawatan kita tanggih mana, mau apa yang besar. Kita tanya secara lama, anak. Tapi bila kita wah, oh tu, apa? Allah letih, Allah, apa? Tanya, ini mana? Isteri saya, anak. Tapi kalau kita jitu, cair, cairnya, apa orang kau? Jatuh apa Gabriel? Ansu apa nama nama? Cair, sebab tu lah, kita harus dek dokter kira mau dah benda, lama dokter. Batu harum dekat kalau betul, kalau jauh tu, belas tayo. Ada, ada lincok, ada sik, ada top, ada tu bukan tayo.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 47.47,
+            "talk_time": 3.8400000000000034,
+            "speech_ratio": 0.08089319570254905,
+            "wpm": 125.13166210238046,
+            "word_count": 99,
+            "stutter_score": 0.0526
+        }
+    },
+    {
+        "index": 615,
+        "text": "Sudah bercari kau mana musuh tu. Okay. Okay. Kita lalu. Okay kita lari kita lari. Kita jalan lagi jalan lagi. Kita cepat belindung. Okay.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 50.12,
+            "talk_time": 8.200000000000005,
+            "speech_ratio": 0.1636073423782922,
+            "wpm": 28.73104549082203,
+            "word_count": 24,
+            "stutter_score": 0.1
+        }
+    },
+    {
+        "index": 635,
+        "text": "Kita nak, kita kita kita cari tembus dulu. Tuk apa jauh dalam ni tu? Okay. Oh, kiri, kiri, kiri, kiri. Uy, bapa tak tembus dulu. Jadi saya saya angkat first ya. Okay, tak boleh tembus ni, tak boleh tembus ni, tak boleh tembus. Jangan kuah bangang. Iya kiri kalau. Aduh, sorry guys. Paling kenapa sih kan? Tak ingat tembus. Punya pistol yang lancar tu. Tak tahu ni kiri memang tak tembus ah. Tiada punya lancar. Tak ada lagi aku. Jo. Aku ni ni ber. Kela, kela, kela. Uy, kita minyak. Uy. Mana ya? Mana ya? Mana ini? Kami sini. Mana barangan ni?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 50.31,
+            "talk_time": 12.687999999999999,
+            "speech_ratio": 0.25219638242894055,
+            "wpm": 121.6457960644007,
+            "word_count": 102,
+            "stutter_score": 0.1122
+        }
+    },
+    {
+        "index": 641,
+        "text": "Mama gembira kerana kami ada boleh tolong mama. Mari buat semula. Terima kasih sayang mama. Sama-sama. Mama, mama nak buat apa ni? Mama nak buat kue baru, tapi bahan tak cukup. Yang ada pun buah aje. Buah? Macam mana kalau buah? Potong bentuk kue. Kue buah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 44.7,
+            "talk_time": 17.867999999999995,
+            "speech_ratio": 0.3997315436241609,
+            "wpm": 63.087248322147644,
+            "word_count": 47,
+            "stutter_score": 0.0233
+        }
+    },
+    {
+        "index": 643,
+        "text": "Aku lek, aku tadi. Aduh, ad",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 52.83,
+            "talk_time": 2.0000000000000004,
+            "speech_ratio": 0.03785727806170737,
+            "wpm": 6.814310051107325,
+            "word_count": 6,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 646,
+        "text": "Boss Jen, benar sekali. Boss Jen. Hahahaha. Atrolima. Hahaha. Hah",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 41.6,
+            "talk_time": 0.0,
+            "speech_ratio": 0.0,
+            "wpm": 14.423076923076922,
+            "word_count": 10,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 654,
+        "text": "tidur, tidak tidur. Tidak tidur. Itak lagu, lagu, lagu. Betul e? Lagu apa? Lagu apa? Tama minta tama minta benda. Itu apa? Datang audition, tak buang lagi itu putih putih itu. Mas mas, benda main nak cepat. Betul tak? Benda, benda dah cepat. Ia cepat lagi. Itu dah termaci ni. Betul? Las minit, las minit, las minit, las minit, las minit. Senarai.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 41.47,
+            "talk_time": 9.640000000000004,
+            "speech_ratio": 0.23245719797443945,
+            "wpm": 89.70340004822764,
+            "word_count": 62,
+            "stutter_score": 0.1897
+        }
+    },
+    {
+        "index": 656,
+        "text": "Iman itu jangan suka, amal jangan suka, tapi jalan perjuangan kereta betul tu kal, orang membunuh, pelan tu, itu kijang tidak, pelan bu tidak, bawa ikut, jalan, okey, apa apa tidak, okey ikut ikut ikut ikut ikut, apa nak okey, tak jumpa lagi, dari ikut susah, kena luli, satu, takkan, kuntu, tak macam tak okey, nak kijang tidak, ikut apa, sampai sampai, bukan kijang, babi utara, apa?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 44.1600625,
+            "talk_time": 16.96,
+            "speech_ratio": 0.38405742745495436,
+            "wpm": 91.0324798566578,
+            "word_count": 67,
+            "stutter_score": 0.0794
+        }
+    },
+    {
+        "index": 672,
+        "text": "Taklah tuan-tuan na sembilan belas ribu lani undi dapat, undi dapat, pakatah, pakatah, pakatah, kita, kita, kita lawan tetap, lawan tetap, lawan tetap, lawan sempat. Saya yakin kita akan me akan menang. Yakin, abang yakin tak? Ini kawan saya, yakin tak? Abang saya yakin tak? Saya dah yakin.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 45.4600625,
+            "talk_time": 7.199999999999999,
+            "speech_ratio": 0.15838077653324825,
+            "wpm": 64.67215041774305,
+            "word_count": 49,
+            "stutter_score": 0.2
+        }
+    },
+    {
+        "index": 673,
+        "text": "Sing, awak berhenti di bastaok depan tu. Kenapa tansri? Eh, katanya sudah. Aku kita berhenti berhenti aja lah. Baik tansri. Eh, ada apa yuk? Kecam lagi sampai luntar tu. Aina, yuk tuan di sini, tahan teksi, jumpa di hotelan. What? Ira kilo ke? Kita nak apa yang kami cari ni? Aita cuyu apa kami cari ni? Dah dah dah, tuan. Ada nih, bila. Amin tak maaf. Okay, itu semua salah Aina. Aina bawa aja trinya. Mungkin eh San, berdekat sana.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 45.0100625,
+            "talk_time": 17.65099999999999,
+            "speech_ratio": 0.392156753836989,
+            "wpm": 106.64282014716154,
+            "word_count": 80,
+            "stutter_score": 0.0395
+        }
+    },
+    {
+        "index": 711,
+        "text": "Di mana yang amat-mamat nampak saat sebut tadi kita tengok sahaja manifesto mereka dan ucapan-ucapan, ucapan pemimpin-pemimpin DAP dalam Dewan Parlimen umpamanya yang menjadi rakan baru pemimpin yang sudah berombak sembilan puluh tiga tahun ini, yang walaupun empat puluh tahun selama ini dia membelok kepada DAP hari ini dia sudah berpeluk dengan DAP. Saya nak di tahu tuan-tuan DAP tak pernah sebut.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 40.46,
+            "talk_time": 5.159999999999982,
+            "speech_ratio": 0.1275333662876911,
+            "wpm": 97.87444389520513,
+            "word_count": 66,
+            "stutter_score": 0.0484
+        }
+    },
+    {
+        "index": 713,
+        "text": "Setiap perwakilan saya nanti akan dapat dibentuk, insya Allah. Bagaimana yang amanat gerakan telah nyatakan dengan jelas bahawa isu-isu masalah negara kita amat banyak. Mungkin waktu ini tidak ada masa untuk saya jelaskan, tetapi apa yang penting jelas dan terus mengikuti kenyataan-kenyataan yang dibuat oleh pemerintah atau tokoh-tokoh yang ada di dalam PH parti pembangkang, sama ada daripada parti Perpuhmi Bersatu Malaysia atau puan parti amanah atau puan parti PKR.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 37.43,
+            "talk_time": 7.479999999999997,
+            "speech_ratio": 0.1998397007747795,
+            "wpm": 117.01843441090035,
+            "word_count": 73,
+            "stutter_score": 0.0
+        }
+    }
+]

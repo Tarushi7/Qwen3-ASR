@@ -1,0 +1,782 @@
+[
+    {
+        "index": 26,
+        "text": "What should I? Oh, in here? What is this bullshit? What do you want? Tell me. Pork rice. Okay. Hey. No. Can I have some pork rice? Yeah, whatever. Yeah, I know. Okay. There you go. Stop it, child. Go.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 32.79,
+            "talk_time": 11.279999999999994,
+            "speech_ratio": 0.3440073193046659,
+            "wpm": 73.19304666056725,
+            "word_count": 40,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 43,
+        "text": "Wait, chill. Yeah, riding the nuts. Find a group with Luna, whatever. Let's go, let's go, let's go. Where is she? Where is she? Where is she? God damn it, guys, guys, guys, chill, guys. God damn it. Where is she? Where the fuck is she?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 31.69,
+            "talk_time": 11.839999999999998,
+            "speech_ratio": 0.3736194383086146,
+            "wpm": 92.77374566109182,
+            "word_count": 49,
+            "stutter_score": 0.0889
+        }
+    },
+    {
+        "index": 57,
+        "text": "Bailey, hold up, Marshall, clear the field. Yes, ma'am. Oh, one. Whoa, take the. Wait, wait, wait, wait, wait, wait! I'm going to shoot me. You are damn lucky. We got the RPG. You are damn lucky. We got the RPG.\u8fdb\u5165\u8fdb\u5165\u3002 Woo! They got the RPG. They got the RPG. \u662f\u4e0d\u662f\u4e00\u79cd\u723d game \u561b\uff1f\u6839\u672c\u5c31\u662f\u4e00\u4e2a\u723d game\uff0c\u6765\u7ed9\u4f60\u6253\u3002 Shut up and shoot. \u597d\uff0c\u6211\u88ab\u6740\u54e6\u3002\u54c7\uff0c\u6211\u88ab\u5c04\u51fb\u3002 Stop it! Take it out before it cuts us down. \u54ce\u5440\uff0c\u6211\u5728\u6253\u4f60\uff0c\u77e5\u9053\u5417\uff1f Not so funny when you're taking fire, huh? Why\u8fd9\u4e48\u786c\u7684\uff1f Woo! Robin's hit Bailey. You all right, Bailey? Bailey, get your butt off the game.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 51.26,
+            "talk_time": 19.199999999999996,
+            "speech_ratio": 0.37456106125634014,
+            "wpm": 162.69996098322278,
+            "word_count": 139,
+            "stutter_score": 0.0444
+        }
+    },
+    {
+        "index": 64,
+        "text": "Like this, like you can smell it. Like burning your hair, smell it. Like burning your hair, right? What? Hmm. Like burning your hair, right? Yeah, yeah, yeah. That's the favorite one. Very convenient. Yeah. This is silk, silk, silk. Good. And the price is 1800. Five one, five one, free. Yeah, five one, five one. You can use it. Yeah. After eight year, it's a normal color. I don't care.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 47.2799375,
+            "talk_time": 0.0,
+            "speech_ratio": 0.0,
+            "wpm": 92.63971637018344,
+            "word_count": 73,
+            "stutter_score": 0.087
+        }
+    },
+    {
+        "index": 71,
+        "text": "Don't need nobody. Don't",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 31.1299375,
+            "talk_time": 0.0,
+            "speech_ratio": 0.0,
+            "wpm": 11.564430542142913,
+            "word_count": 6,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 72,
+        "text": "Damn it! What the fuck you doing? Nothing. Really? 'Cause I keep hearing a laugh for that. This, that, go away. What? Go watch your linear entertainment. Go watch. Born, just go away. Shit! Fuck you! What the fuck?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 46.23,
+            "talk_time": 7.559999999999995,
+            "speech_ratio": 0.1635301752109019,
+            "wpm": 50.61648280337443,
+            "word_count": 39,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 87,
+        "text": "Jimmy Brooks. I think it's best for both of us if we pretend this never happened. Well, I agree. You saved my life. You're a good man, and I uh, here. You want a pen? It's one of them steel ones. Oh. That's very kind of you. But I'm not a good man, Jimmy Brooks. Not usually. You see, I was in Blackwater. I killed people. And maybe I should have killed you. Should I have killed you, Jimmy Brooks? Me?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 45.44,
+            "talk_time": 17.84,
+            "speech_ratio": 0.39260563380281693,
+            "wpm": 113.55633802816902,
+            "word_count": 86,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 111,
+        "text": "Must be stored in temple area. We don't allow any people, any organization, to take donation box, charity kits, and poverty bearers. The temple's management has cleaned on its own expenses. We have a site where they can take a poverty, a fresh water bath, and they can come to fulfill their poverty. In front of mainly 1,000 police people are the station in Batikirs for their tycoon festival and security purpose.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 51.15,
+            "talk_time": 20.240000000000006,
+            "speech_ratio": 0.3956989247311829,
+            "wpm": 87.97653958944282,
+            "word_count": 75,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 112,
+        "text": "But it's okay, cause I'm here for you to help take the load off your shoulders. Your fears, your worries, your concerns, and yes, your fees. Whatever your problem, I got you. So, what's our next move, boss? That's easy enough. We get our asses home.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 32.4,
+            "talk_time": 12.639999999999999,
+            "speech_ratio": 0.39012345679012345,
+            "wpm": 92.5925925925926,
+            "word_count": 50,
+            "stutter_score": 0.0435
+        }
+    },
+    {
+        "index": 117,
+        "text": "I think I think I'm good. Okay, let's show our cards. Yay! Show the oil. I do that all the time. Oh my god! Think one more. Like why? Why?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 59.2,
+            "talk_time": 9.68,
+            "speech_ratio": 0.1635135135135135,
+            "wpm": 32.43243243243243,
+            "word_count": 32,
+            "stutter_score": 0.0357
+        }
+    },
+    {
+        "index": 126,
+        "text": "Uh huh. Genki. Hmm. Hopefully, we get a new area. Um. Let's see. What is this shit? Show me the alliance, yeah. What ever. Oh, it's only one, two, three area left. Uh, twenty, twenty, three hundred twenty, I think. Two hundred and fifty.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 31.7300625,
+            "talk_time": 12.640000000000008,
+            "speech_ratio": 0.39836038772378746,
+            "wpm": 86.98375554728266,
+            "word_count": 46,
+            "stutter_score": 0.0238
+        }
+    },
+    {
+        "index": 132,
+        "text": "We combine with this? Yeah. Why didn't I do that? Why didn't I do that? Come on. Come on. Are you okay? No, I'm not. How about that? God damn it. Hello. Oh, it's no one here. What is this? Ah. What is this? S M G. S I G machine gun. What?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 38.88,
+            "talk_time": 14.159999999999997,
+            "speech_ratio": 0.3641975308641974,
+            "wpm": 78.7037037037037,
+            "word_count": 51,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 146,
+        "text": "Stay where you are. Fine. Just tell me what's happening. How did I get here? And where the fuck is here? Roger Chang, you are privy to the rumors about my wife, Amy. What rumors? Open the door, Joseph. This instant. Enough of your foolishness. Tell me precisely what you know. Uh, I saw a little.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 30.71,
+            "talk_time": 12.000000000000002,
+            "speech_ratio": 0.3907521979811137,
+            "wpm": 111.36437642461739,
+            "word_count": 57,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 155,
+        "text": "What's that? A lift. We'll have to leave y'all for a bit. We're heading upward. What? How? Hmm. What's wrong with her? Farrah. Oh. Whoa. This um gift doesn't seem like something you're excited about. Just means we're coming up to the end. Ah. What does that mean? You'll understand. Now, time to hold up my end of the prophecy. Follow me. Oh, two thousand.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 39.37,
+            "talk_time": 13.92,
+            "speech_ratio": 0.3535687071374143,
+            "wpm": 112.77622555245111,
+            "word_count": 74,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 161,
+        "text": "Oh, he is, he is Petra. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong. There are quite a few frauds. He was the winner. Oh, don't get me wrong.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 39.0000625,
+            "talk_time": 1.5200000000000102,
+            "speech_ratio": 0.03897429651555072,
+            "wpm": 418.4608678511733,
+            "word_count": 272,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 164,
+        "text": "Whoa, whoa, whoa! Cut the way down. Whoa! Go, go",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 48.93,
+            "talk_time": 1.68,
+            "speech_ratio": 0.034334763948497854,
+            "wpm": 12.262415695892091,
+            "word_count": 10,
+            "stutter_score": 0.1667
+        }
+    },
+    {
+        "index": 165,
+        "text": "With the priest, come on, come on. What is it, woman? Um. All right, all right, chill. So being so panic. Oh shit! What did I do?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 35.09,
+            "talk_time": 5.76,
+            "speech_ratio": 0.1641493302935309,
+            "wpm": 46.16699914505557,
+            "word_count": 27,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 170,
+        "text": "Sarah, Sarah, yo. How long have you? Hm, hm. Didn't I just tell? I don't go. I just told. Then, then, then, then. Ah, ah. No more. Oh, yeah. So hard. So hard. Hard. Oh, we are terrible. When did you arrive? Um, on the Friday. Friday. Friday is not holiday, so. Back, back, back. Yeah, yeah, yeah. Nice. Nice.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 38.7099375,
+            "talk_time": 0.0,
+            "speech_ratio": 0.0,
+            "wpm": 94.5493647464556,
+            "word_count": 61,
+            "stutter_score": 0.2632
+        }
+    },
+    {
+        "index": 174,
+        "text": "I know that you really just want to do this for the fucking point of it, but like, just, just come on, come on, come on, come on, come on. You enjoyed that so much, and it upsets me how much you enjoyed that. Come on, come",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 42.27,
+            "talk_time": 9.040000000000001,
+            "speech_ratio": 0.2138632599952685,
+            "wpm": 66.71398154719658,
+            "word_count": 47,
+            "stutter_score": 0.1395
+        }
+    },
+    {
+        "index": 176,
+        "text": "So far, so good. It's all I know. Well, well,",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 45.5599375,
+            "talk_time": 1.2799999999999998,
+            "speech_ratio": 0.028094858558574624,
+            "wpm": 14.486411444265041,
+            "word_count": 11,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 179,
+        "text": "So nice, you. You put in different pants to put in different shoes. No, you have to get both. But it's so nice. So nice, but I already have some brown, white, and colors. Yes. Yes. Nice, nice. But yeah. Ah. So so, anybody? Anybody? Anybody? Anybody? Anybody? Yeah. What do you guys think? You can't really see the color really well on camera, but it's green. Doesn't look green. Faruk bought from N. Mama, I bought. I bought. Bought a jacket hoodie, but in green. Wow. Oh my God. Oh my God. Essential T-shirt.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 51.7600625,
+            "talk_time": 7.840000000000003,
+            "speech_ratio": 0.1514681324042065,
+            "wpm": 115.91948908485186,
+            "word_count": 100,
+            "stutter_score": 0.0729
+        }
+    },
+    {
+        "index": 219,
+        "text": "All right, let's do something. Oh shit! Ratchet is a national esports titan C player. He's ranked. He's all right. I lost the diamonds. She's diamond. He's diamond. He's grandmaster. No need to tell us. I wonder who was that? You.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 32.2199375,
+            "talk_time": 10.479999999999997,
+            "speech_ratio": 0.325264442241702,
+            "wpm": 87.52344724442747,
+            "word_count": 47,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 223,
+        "text": "Thank you, God, for giving me, granting me another pregnancy, a safe one. Oh, I'm still puffy. Dry lips. Gross. Hey, mummy, giving me a foot massage. Yeah. So, mom, what are you giving me? Um, a sense of chicken. And this Chinese medicine. Are those eggs? No, this one is to clean your blood from the uterus. And this one is apparently bong onion.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 48.39,
+            "talk_time": 19.200000000000006,
+            "speech_ratio": 0.39677619342839443,
+            "wpm": 81.83508989460631,
+            "word_count": 66,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 227,
+        "text": "Future selfies. So we are at Hakim's dorm, Future Dorm, and we're gonna see how his room looks like for the next month, year. Come on, let's go. Let's see. This is. Okay, sir. Bring upstairs. Let's go. Oh my god. I'm so tired. This thing is so heavy. More. Oh, let's see.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 54.34,
+            "talk_time": 19.639999999999986,
+            "speech_ratio": 0.36142804563857167,
+            "wpm": 66.24953993375046,
+            "word_count": 60,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 237,
+        "text": "Do you think you can just take a hair dryer and blow it? Hello, Jimmy. Big name",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 50.6299375,
+            "talk_time": 1.9040000000000004,
+            "speech_ratio": 0.03760620877716866,
+            "wpm": 20.146183273483206,
+            "word_count": 17,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 242,
+        "text": "Our turret is under attack. Your leader just voiced me number one. Our turret has been destroyed. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it. Get it, get it, get it.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 45.2000625,
+            "talk_time": 68.36000000000003,
+            "speech_ratio": 1.5123872892874877,
+            "wpm": 341.1499707550183,
+            "word_count": 257,
+            "stutter_score": 0.9328
+        }
+    },
+    {
+        "index": 257,
+        "text": "Oh. Okay. Ah. Buter. Oh",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 57.99,
+            "talk_time": 0.39999999999999947,
+            "speech_ratio": 0.006897740989825822,
+            "wpm": 5.173305742369373,
+            "word_count": 5,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 276,
+        "text": "Love me. I love you as well. You left here in Bangkok. You came here for the show. Where did you come from? From Belarus. Are you living where? In China. You travel from China. New Trump.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 31.7700625,
+            "talk_time": 10.927999999999997,
+            "speech_ratio": 0.3439716242295714,
+            "wpm": 69.87710521501177,
+            "word_count": 37,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 288,
+        "text": "I don't care what's happening. I don't understand. It's like you. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue. We don't want to argue.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 56.1,
+            "talk_time": 15.32,
+            "speech_ratio": 0.2730837789661319,
+            "wpm": 170.05347593582886,
+            "word_count": 159,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 289,
+        "text": "New skill, Arrow Net. Yeah, I'm going to use my new skill. Huh? Wait, I'm telling you, I learned a new skill. Arrow Net. Skill. Can you? Hmm. This skill is very good. It can reverse time. This is the skill, the freeze thing skill. Since you found it, no",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 48.12,
+            "talk_time": 16.109,
+            "speech_ratio": 0.3347672485453035,
+            "wpm": 64.83790523690773,
+            "word_count": 52,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 290,
+        "text": "Hah",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 32.8600625,
+            "talk_time": 0.0,
+            "speech_ratio": 0.0,
+            "wpm": 1.8259247072338953,
+            "word_count": 1,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 292,
+        "text": "Come on, come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on, come on, come on! Come on, come on",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 42.89,
+            "talk_time": 86.00000000000003,
+            "speech_ratio": 2.0051294007927263,
+            "wpm": 478.4332012124038,
+            "word_count": 342,
+            "stutter_score": 1.0
+        }
+    },
+    {
+        "index": 315,
+        "text": "The party president, who is also Marang MP, delivered his closing address at the party's annual meeting. He also warned legislators that they had taken an oath to uphold Islam as the religion of the federation.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 32.24,
+            "talk_time": 11.120000000000001,
+            "speech_ratio": 0.3449131513647643,
+            "wpm": 68.85856079404466,
+            "word_count": 37,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 340,
+        "text": "Maybe this wasn't such a good idea. Why you? It's hammer time. Wow! Wow",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 35.76,
+            "talk_time": 6.735999999999999,
+            "speech_ratio": 0.18836689038031318,
+            "wpm": 26.84563758389262,
+            "word_count": 16,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 356,
+        "text": "ASMR\u73b0\u573a\uff0c\u5feb\u4e00\u70b9\uff0c\u5feb\u4e00\u70b9\uff0c\u5feb\u4e00\u70b9\uff0c\u5feb\u4e00\u70b9\u3002\u54e6\uff0c\u54ce\u5466\uff0c\u592a\u591a\u3002Oh my god. \u54ce\uff0c\u4f60\u8fd8\u6709\u4eba\u5403\u54e6\uff0c\u6211\u8fd8\u6ca1\u6709\u4eba\u5403\u54e6\u3002\u54e6\u3002Oh my god, \u8fd9\u771f\u7684\u597d\u539a\u554a\u3002\u597d\u539a\u4e0d\u662f\u3002\u54c7\u3002\u6211\u6ca1\u6709\u60f3\u5230\u554a\uff0c\u539f\u6765\u86c7\u4eec\u914d\u9e21\uff0c\u5176\u5b9e\u662f\u5f88\u53ef\u4ee5\u7684\u3002\u7ed9\u4f60\u5566\uff0c\u7ed9\u6211\u8fd8\u6709\u4e00\u70b9\u559c\u6b22\u3002\u54c8\u54c8\u54c8\uff01\u54c8\u54c8\uff01\u54c8\u54c8\u3002\u5c0f\u7c73\u6912\u3002\u54c7\uff0c\u5403\u5403\u3002\u54c8\u54c8\u54c8\u54c8\u54c8\u54c8\uff01\u554a\uff0c\u7ed9\u6211\u3002\u8fd9\u7167\u7247\u7ed9\u4f60\u4e86\uff0c\u5bf9\u5bf9\u5bf9\u3002\u6765\uff0c\u5feb\u70b9\uff0c\u5feb\u70b9\uff0c\u5feb\u70b9\uff0c\u5feb\u70b9\u3002",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 43.87,
+            "talk_time": 17.239999999999984,
+            "speech_ratio": 0.39297925689537233,
+            "wpm": 166.85662183724642,
+            "word_count": 122,
+            "stutter_score": 0.1695
+        }
+    },
+    {
+        "index": 403,
+        "text": "Axel, Olivia. Oh, Axel! Oh my gosh, I can't believe you're here. \u6211\u5728\u8fd9\u91cc\u554a. This really scary lady showed up and knocked us out. Now we're in these smelly boxes. What's long? \u6211\u597d\u4e45\u6ca1\u6709\u770b\u5230\u8fd9\u4e2a\u4e24\u4e2a\u3002\u5feb\u53bb\uff01\u6211\u5e26\u4f60\u8fc7\u53bb\u3002\u6211\u4e00\u76f4\u5728\u627e\u4f60\u4eec\u5462\u3002\u6240\u4ee5\u662f\u8fd9\u4e2a\u8001\u4eba\u5bb6\u6293\u4f4f\u4ed6\u4eec",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 52.5700625,
+            "talk_time": 15.040000000000006,
+            "speech_ratio": 0.2860943907000302,
+            "wpm": 87.88271841982306,
+            "word_count": 77,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 414,
+        "text": "I am the god of the world. Oh, oh, oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh, oh!\u4e0b\u9762\u7684\u4eba\u54e6\uff0c\u4e0d\u9519\uff0c\u55e8\u7684\uff0c\u4e0d\u9519\uff0c\u55e8\u7684\uff0c\u4e0d\u662f\u6211\u554a\uff01\u8fd9\u8fb9\u7684\u4eba\u90fd\u4f1a\u98de\u7684\u554a\uff01\u554a\uff0c\u597d\u4e86\uff0c\u597d\u4e86\uff0c\u7b97\u4e86\uff0c\u4f60\u4eec\u90fd\u98de\u4e86\uff0c\u4f60\u4eec\u98de\u98de\u98de\u554a\uff01\u554a\uff01\u88c5\u6b7b\uff01\u54c8\u54c8\u54c8\u54c8\u54c8\uff01\u5237\u9b3c\u6e38\u620f\uff01",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 41.2800625,
+            "talk_time": 8.880000000000013,
+            "speech_ratio": 0.2151159533733752,
+            "wpm": 110.46494902957087,
+            "word_count": 76,
+            "stutter_score": 0.3056
+        }
+    },
+    {
+        "index": 416,
+        "text": "All right, all right. Let's see this. I just heading towards capital city. Hit, hit, hit, hit, hit, hit. Where? Oh god, fix my eyes. All these vices, oh.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 52.53,
+            "talk_time": 10.8,
+            "speech_ratio": 0.20559680182752713,
+            "wpm": 34.266133637921186,
+            "word_count": 30,
+            "stutter_score": 0.2308
+        }
+    },
+    {
+        "index": 423,
+        "text": "I think I'm getting the hang of it, Frank. Sure you are. It's simple, but it can save your ass. What to do now? Where you were headed, Aiden? Upstairs. You have to go up one level. One level. From there, you're gonna go to the sideway. Right to the sideway? The main wing is full of infected. So you have several floors to climb. Ah, I remember.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 44.89,
+            "talk_time": 13.760000000000016,
+            "speech_ratio": 0.30652706616172903,
+            "wpm": 94.8986411227445,
+            "word_count": 71,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 424,
+        "text": "Oh! Let's do it! Say X,",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 43.74,
+            "talk_time": 14.0,
+            "speech_ratio": 0.3200731595793324,
+            "wpm": 9.602194787379972,
+            "word_count": 7,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 457,
+        "text": "We're all their eventual victims. They killed me. They ripped me apart. Ah! And took what they needed. Why are they two looking the same? They will destroy what they wish to control. Ah! Ah! Rubik. He's Rubik. He's Rubik. Control him. Too much. Too",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 59.72,
+            "talk_time": 12.0,
+            "speech_ratio": 0.20093770931011387,
+            "wpm": 48.22505023442733,
+            "word_count": 48,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 465,
+        "text": "I love you guys. Thank you. See, I told you guys it would be a good idea. What's in the box? What's in the box? I was quite happy with a clap box because I need one. Wow! Fancy chocolate. Yes, I knew it. My mom was right. So cute. So cute. I'll read this on camera. I'll read this in private. No, dear, dear, dear. I'll read this in private. It seems there's a lot of words that make it personal. I will not read this for clap. I mean, I'll pretend to cry.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 47.24,
+            "talk_time": 17.121999999999986,
+            "speech_ratio": 0.3624470787468244,
+            "wpm": 128.28111769686706,
+            "word_count": 101,
+            "stutter_score": 0.0309
+        }
+    },
+    {
+        "index": 473,
+        "text": "Well, better than nothing. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know? He's already seen it. Why would he know?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 35.56,
+            "talk_time": 0.0,
+            "speech_ratio": 0.0,
+            "wpm": 696.8503937007873,
+            "word_count": 413,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 481,
+        "text": "Next time, we'll to kids to kids to deduct tax. Don't put that line. Okay, you ah to kids to deduct tax taxable. Not taxable. Normal school. So good. Okay, so good. Not good. Yes, sir. Used to be famous shopping complex.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 30.4200625,
+            "talk_time": 9.734999999999996,
+            "speech_ratio": 0.3200190663645085,
+            "wpm": 86.78483155647692,
+            "word_count": 44,
+            "stutter_score": 0.025
+        }
+    },
+    {
+        "index": 485,
+        "text": "For this husband and wife, their main concern is that the extension of the MCO will disrupt the education of their child, who is about to sit for the school leaver certificate or SPM this year. They have no choice but to depend on e-learning facilities, despite the problems caused by poor internet connectivity in their area. For this husband and wife, their main concern is that the extension of the MCO will disrupt the education of their child, who is about to sit for the school leaver certificate or SPM this year. They have no choice but to depend on e-learning facilities, despite the problems caused by poor internet connectivity in their area.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 53.0,
+            "talk_time": 17.119999999999994,
+            "speech_ratio": 0.32301886792452816,
+            "wpm": 131.32075471698113,
+            "word_count": 116,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 487,
+        "text": "Let me live. I'll be fine. I'm just doing. Let's go. Let's",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 59.33,
+            "talk_time": 1.9999999999999993,
+            "speech_ratio": 0.03370975897522332,
+            "wpm": 16.180684308107196,
+            "word_count": 16,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 489,
+        "text": "Jackie, you're bleeding. What? I'm bleeding. What? What",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 39.44,
+            "talk_time": 1.5200000000000002,
+            "speech_ratio": 0.0385395537525355,
+            "wpm": 15.212981744421906,
+            "word_count": 10,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 496,
+        "text": "I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him. I'm going to touch him.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 56.02,
+            "talk_time": 3.079999999999991,
+            "speech_ratio": 0.05498036415565853,
+            "wpm": 244.198500535523,
+            "word_count": 228,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 521,
+        "text": "Hmm. Oh, what if I? What the hell is that? We're going to evolve. We don't know. Today is a happy day. Bro, I saw someone over there. Probably someone. Um. Oh. Come here. Something's wrong. Oh shit. Who's going to find it first? What is that? Hide. Hmm. Wait, what?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 32.92,
+            "talk_time": 11.739999999999993,
+            "speech_ratio": 0.35662211421628165,
+            "wpm": 100.24301336573512,
+            "word_count": 55,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 538,
+        "text": "Lol. Oh, the. Hmm. Hmm. Hell yeah. Oh. I made punches. Oh shit. Touch it now. Yeah, whatever. Lol. Hmm. Alright, see. Uh huh. Okay. Almost there. Almost there. What?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 38.96,
+            "talk_time": 11.680000000000001,
+            "speech_ratio": 0.29979466119096515,
+            "wpm": 46.201232032854215,
+            "word_count": 30,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 549,
+        "text": "This may not be like the best time per se, but like, what? Yes. So, like, I was just, you know, thinking about like the start of summer and when we first met and the start of camp and, like, now that summer's over and, you know, is that like the last time we're going to see each other? You know. Sorry, Nick. What? What are you saying? Sheev. Hey, I'm kind of pouring my heart out here.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 44.35,
+            "talk_time": 16.720000000000002,
+            "speech_ratio": 0.37700112739571595,
+            "wpm": 109.58286358511837,
+            "word_count": 81,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 556,
+        "text": "I think that the top three teams were a little bit lucky. I'm pretty sure that there were few of them that have those bronze accounts, so it's easy for them to rank up easily with points. Please open the envelopes in front of you. Congratulations on winning the match! You will have a taste of the mysterious local food, plus an exclusive in-game item set. Nine matches. Oh, nine matches. Right? Precious. Precious. Precious. Okay. Okay. Okay. We are number four. Yeah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 57.0600625,
+            "talk_time": 18.487,
+            "speech_ratio": 0.3239919339380324,
+            "wpm": 90.4310260788796,
+            "word_count": 86,
+            "stutter_score": 0.0732
+        }
+    },
+    {
+        "index": 578,
+        "text": "Hey, we got a sniper, dude. You got shot. I did get shot. I saw it hit your Kevlar. I got fucking. What the? Am I good? My ears are fucking. Oh my god. Lucky son of a bitch. Look at that, dude. You alright? Yeah. My ears are ringing. Break! Break! Break! My teammate just got shot in the helmet. He's good. He's good. But we believe there's a sniper. Hey, what is that? That's the south side. Oh, dude, that's through. All right, let's let's get out here and do something about this, man.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 50.29,
+            "talk_time": 19.039999999999996,
+            "speech_ratio": 0.37860409624179747,
+            "wpm": 121.69417379200637,
+            "word_count": 102,
+            "stutter_score": 0.0306
+        }
+    },
+    {
+        "index": 585,
+        "text": "There's no time. I know. Who? Hey. \u4e0a\u9762\u5462\uff1f\u4e0a\u9762\u5462\uff1f\u968f\u4fbf\u5462\uff1f\u4e00\u5b9a\u8981\u8fdb\u53bb\u5462\uff1f\u4e00\u6837\u5462\uff1f\u4ed6\u5230\u5e95\u5728\u54ea\u91cc\u554a\uff1fWhere are you? Where are you? Ah, here. Here you locked the damn door. \u54ce\u5466\uff01 Whoa! Whoa! Whoa! Whoa! Whoa! Whoa! Now we are talking. Now we are talking. Now we talking. Okay, okay, okay, okay, okay. Okay, bro. Okay, bro.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 53.7299375,
+            "talk_time": 12.880000000000004,
+            "speech_ratio": 0.2397173828836113,
+            "wpm": 83.75219122486416,
+            "word_count": 75,
+            "stutter_score": 0.1831
+        }
+    },
+    {
+        "index": 592,
+        "text": "Hey guys, we passed through Lado. Look at the best cake in the world, chocolate cake. Yeah, let's go in. All right, Joe. And so, I even got some. What is what you got? Latte with almond milk. Latte with almond milk, and then I got English breakfast, and of course, I got the best cake in the world. Oh my god, it looks beautiful. Oh, this is beauty. Let's eat, Lado. Oh my god, I swear to God, it's the best.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 50.65,
+            "talk_time": 19.343999999999994,
+            "speech_ratio": 0.3819151036525172,
+            "wpm": 100.69101678183614,
+            "word_count": 85,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 608,
+        "text": "I get it. That's not who we are. Exactly. We're not criminals. We're just kids, and we still have time to choose what life we want to live. You're my brother, and I love you. I. I love you too, Sean. It's gonna be all right. Promise. You promise? For real this time? I do.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 39.63,
+            "talk_time": 13.679999999999982,
+            "speech_ratio": 0.34519303557910624,
+            "wpm": 90.84027252081755,
+            "word_count": 60,
+            "stutter_score": 0.0179
+        }
+    },
+    {
+        "index": 624,
+        "text": "Strange, ah, this ah. This turnip, ah, radish or turnip? Radish. Put radish in with the fried rice. Have you ever eaten such a thing before? I'm not saying. It's kind of like a bit of crunch. It's a bit weird to me. Yeah, because of the smell. Ah, there's like a weird radish smell. The funky, I think, slightly funky. Is it turnip, ah, turnip, ah? Radish.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 44.14,
+            "talk_time": 15.6,
+            "speech_ratio": 0.35342093339374714,
+            "wpm": 96.51110104213865,
+            "word_count": 71,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 638,
+        "text": "Hahahahahahahahahah! Oh no! Oh no! Oh no! All right. Uh, who's here? Sophia, let's go! Hahahahahahahahah! Oh! Hahahahahahahahah! Oh no! Oh! Oh! All right, it's done. Another one. Another one. Another one. Another one.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 36.1900625,
+            "talk_time": 12.400000000000002,
+            "speech_ratio": 0.34263549558666834,
+            "wpm": 61.342806467935766,
+            "word_count": 37,
+            "stutter_score": 0.2727
+        }
+    },
+    {
+        "index": 648,
+        "text": "Panem. Panem, everything alright? Panem. Panem. Talk to me. Hey. No, no, no, no, no, Panem. Oh, oh. Panem. Oh, you scare me. I'm bruised.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 56.79,
+            "talk_time": 13.760000000000002,
+            "speech_ratio": 0.2422961789047368,
+            "wpm": 27.469624933967246,
+            "word_count": 26,
+            "stutter_score": 0.4091
+        }
+    },
+    {
+        "index": 649,
+        "text": "Nice. Oh shit. Nothing happened. Oh, what the hell? So strong. Oh, what the fuck? It's not human, dude. Lol. Right in the nuts. What the fuck, bro? Hell yeah. All right, come on. One last time. Come on. Come on. Holy shit, it's so strong. Lol.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 37.9900625,
+            "talk_time": 14.160000000000014,
+            "speech_ratio": 0.3727290524989269,
+            "wpm": 77.38865920528559,
+            "word_count": 49,
+            "stutter_score": 0.0
+        }
+    }
+]
