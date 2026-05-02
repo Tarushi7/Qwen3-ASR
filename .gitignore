@@ -21,4 +21,5 @@ wheels/
 .idea/
 .vscode/
 venv/
-env/
+env/*.sh
+*.zip
