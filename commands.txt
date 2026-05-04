@@ -1,0 +1,37 @@
+Memo instructions:
+1. Copy directory /home/q-wang/metadata/speaker_diarization to your working space
+
+2. Set up conda env for diarization:
+  conda env create -f nemo.yml
+  pip install numpy
+  python -m pip install "nemo_toolkit[asr]"
+
+3. Change the input/output paths in example code
+   NUMPYARRAYDIAR.py -> example to do SD with audio files and waveform
+   post_processing_sd.py -> example to do SD with waveform in hf datasets
+
+4. run diarization code
+
+do this:
+conda env create -f nemo.yml
+conda activate nemo
+pip install numpy
+python -m pip install "nemo_toolkit[asr]"
+
+
+TO SET UP QWEN3.ASR
+
+in (base):
+conda create -n qwen3-asr python=3.12 -y
+conda activate qwen3-asr
+#this should bring you to qwen3-asr
+
+now do this:
+pip install -U qwen-asr
+pip install -U qwen-asr[vllm]
+git clone https://github.com/QwenLM/Qwen3-ASR.git
+cd Qwen3-ASR
+pip install -e
+#note: no NOT install flash attention. it will not work in this device
+
+after this you can use from qwen_asr import Qwen3ASRmodel in your python code

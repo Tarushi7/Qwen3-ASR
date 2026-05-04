@@ -1,0 +1,57 @@
+data_simulator:
+  manifest_filepath: final_manifest.jsonl
+  sr: 16000
+  random_seed: 42
+  num_workers: 1
+  session_config:
+    num_speakers: 2
+    num_sessions: 1
+    session_length: 30
+  session_params:
+    max_audio_read_sec: 25
+    sentence_length_params:
+    - 1
+    - 0.9
+    dominance_var: 0.1
+    min_dominance: 0.1
+    turn_prob: 0.8
+    mean_silence: 0.05
+    mean_silence_var: 0.01
+    per_silence_var: 0.01
+    per_silence_min: 0.0
+    per_silence_max: -1
+    mean_overlap: 0.1
+    mean_overlap_var: 0.0
+    per_overlap_var: 0.01
+    per_overlap_min: 0.0
+    per_overlap_max: -1
+    start_window: true
+    window_type: hamming
+    window_size: 0.0
+    start_buffer: 0.0
+    split_buffer: 0.0
+    release_buffer: 0.0
+    normalize: true
+    normalization_type: equal
+    end_buffer: 0.5
+  outputs:
+    output_dir: /home/tarushi/tarushi_folder/speaker_diarization_qwen_transcripts/simulation_outputs
+    output_filename: simulation_outputs
+    overwrite_output: true
+    output_precision: 2
+  background_noise:
+    add_bg: false
+    background_manifest: null
+    num_noise_files: 0
+    snr: 20
+    snr_min: null
+    snr_max: null
+  segment_augmentor:
+    add_seg_aug: false
+  session_augmentor:
+    add_sess_aug: false
+  speaker_enforcement:
+    enforce_num_speakers: false
+    enforce_time:
+    - 0.0
+    - 0.8

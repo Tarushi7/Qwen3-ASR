@@ -1,0 +1,16 @@
+{
+    "file_name": "m",
+    "num_speaker": 2,
+    "speakers": [
+        {
+            "start_time": 3.12,
+            "end_time": 7.68,
+            "speaker": "speaker_1"
+        },
+        {
+            "start_time": 9.84,
+            "end_time": 10.4,
+            "speaker": "speaker_0"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+1. Copy directory /home/q-wang/metadata/speaker_diarization to your working space
+
+2. Set up conda env for diarization:
+  conda env create -f nemo.yml
+  pip install numpy
+  python -m pip install "nemo_toolkit[asr]"
+
+3. Change the input/output paths in example code
+   NUMPYARRAYDIAR.py -> example to do SD with audio files and waveform
+   post_processing_sd.py -> example to do SD with waveform in hf datasets
+
+4. run diarization code

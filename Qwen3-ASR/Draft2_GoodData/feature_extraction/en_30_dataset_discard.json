@@ -1,0 +1,2641 @@
+[
+    {
+        "index": 5,
+        "text": "All right. Um. Hmm. This is. Hey. Oh. It's Luvina. Table. Storage room. Who?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.01,
+            "talk_time": 3.84,
+            "speech_ratio": 0.31973355537052456,
+            "wpm": 74.9375520399667,
+            "word_count": 15,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 8,
+        "text": "Hmm. Hi, there's a lot of raspberries. Nice. Whatever, woman.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.65,
+            "talk_time": 2.6400000000000006,
+            "speech_ratio": 0.2086956521739131,
+            "wpm": 47.43083003952569,
+            "word_count": 10,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 23,
+        "text": "\u55ef\uff0c\u4f60\u8fd8\u597d\u5417\uff1f\u73b0\u5728\u6211\u53ef\u4ee5\u7761\u89c9\u4e86\u3002\u4e0d\uff0c\u5443\uff0c\u4f60\u518d\u6562\u62d2\u7edd\u6211\uff0c\u6211\u6390\u4f60\u3002",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.73,
+            "talk_time": 4.959999999999999,
+            "speech_ratio": 0.3367277664630006,
+            "wpm": 97.75967413441954,
+            "word_count": 24,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 46,
+        "text": "\u0627\u0644\u0641\u0627\u062a\u062d\u0629. \u0623\u064e\u0639\u064f\u0648\u0630\u064f \u0645\u0650\u0646\u064e \u0627\u0644\u0644\u064e\u0651\u0647\u0650 \u0645\u0650\u0646\u064e \u0627\u0644\u0634\u064e\u0651\u064a\u0652\u0637\u064e\u0627\u0646\u0650 \u0627\u0644\u0631\u064e\u0651\u062c\u0650\u064a\u0645\u0650. \u0633\u064e\u0628\u0652\u0642\u064b\u0627. \u0627\u0644\u062d\u064e\u0645\u0652\u062f\u064f\u0644\u0650\u0644\u064e\u0647\u0650 \u0631\u064e\u0628\u0650\u0651 \u0627\u0644\u0652\u0639\u064e\u0627\u0644\u064e\u0645\u0650\u064a\u0646\u064e \u0631\u064e\u062d\u0652\u0645\u064e\u0646\u064c. \u064a\u064e\u0627 \u0643\u064e\u0627\u0646\u064e \u0623\u064e\u0628\u0652\u062f\u064f\u0648\u064e\u0649 \u064a\u064e\u0627 \u0643\u064e\u0627\u0646\u064e \u0623\u064e\u0633\u0652\u062a\u064e\u0642\u0650\u064a\u0645\u064b\u0627. \u0633\u0650\u0631\u064e\u0627\u0637\u064f \u0627\u0644\u0646\u064e\u0651\u0633\u0652\u062a\u064e\u0642\u0650\u064a\u0645\u0650 \u0633\u0650\u0631\u064e\u0627\u0637\u064f \u0627\u0644\u0646\u064e\u0651\u0632\u0652\u0644\u0650. \u0627\u0644\u0644\u064e\u0651\u0647\u064f\u0645\u064e\u0651 \u063a\u064e\u064a\u0652\u0631\u0650 \u0627\u0644\u0652\u0645\u064e\u0636\u064f\u0648\u0645\u0650 \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650\u0645\u0652.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.91,
+            "talk_time": 16.44,
+            "speech_ratio": 0.7503423094477408,
+            "wpm": 0.0,
+            "word_count": 0,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 48,
+        "text": "Holy shit! Whoa! Oh shit! Oh. Shh. Oh. We should have brought more people. Yeah, they just slow us down. Yeah, you're right. Come on, the docks are this way. Oh shit! But she has stealth only weapon. Do this. Nice.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.34,
+            "talk_time": 9.360000000000001,
+            "speech_ratio": 0.3302752293577982,
+            "wpm": 88.92025405786875,
+            "word_count": 42,
+            "stutter_score": 0.0263
+        }
+    },
+    {
+        "index": 51,
+        "text": "Yes. Yes. Yes. Come on. Come on. Come on. Hmm. Oh. Oh. What? Oh, crazy. Can't let him disappear on me. Hmm. What? Crazy. Yes.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.83,
+            "talk_time": 7.439999999999994,
+            "speech_ratio": 0.26733740567732645,
+            "wpm": 56.05461731943946,
+            "word_count": 26,
+            "stutter_score": 0.2273
+        }
+    },
+    {
+        "index": 64,
+        "text": "I'm sorry. I'm so so so so sorry. Shit! Shit! Shit! Shit! We've got to get the mic now.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.8000625,
+            "talk_time": 5.12,
+            "speech_ratio": 0.3999980468845367,
+            "wpm": 103.12449646241961,
+            "word_count": 22,
+            "stutter_score": 0.4444
+        }
+    },
+    {
+        "index": 66,
+        "text": "Hmm. Who is this? All right. Oh, it's a, oh, MRI. I think. All right.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.9999375,
+            "talk_time": 5.760000000000002,
+            "speech_ratio": 0.3200011111149692,
+            "wpm": 50.000173611713926,
+            "word_count": 15,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 79,
+        "text": "Hey, one of those is mine. I had to use one of them. There's only one left. There's only one left. There can't just be one left. What the hell are we gonna do now?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.63,
+            "talk_time": 6.319999999999998,
+            "speech_ratio": 0.380036079374624,
+            "wpm": 137.10162357185808,
+            "word_count": 38,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 83,
+        "text": "Shit! Shit! Shit! Shit! There's a creature. Hmm. Whatever.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.87,
+            "talk_time": 3.12,
+            "speech_ratio": 0.2870285188592457,
+            "wpm": 49.678012879484825,
+            "word_count": 9,
+            "stutter_score": 0.4
+        }
+    },
+    {
+        "index": 92,
+        "text": "I bear to you the offerings. I humbly await my reward for loyal service, unending.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.39,
+            "talk_time": 5.76,
+            "speech_ratio": 0.3514338010982306,
+            "wpm": 54.91153142159853,
+            "word_count": 15,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 93,
+        "text": "Very nice balcony. Too bad there are no chairs here. There's a place for the uh what they call that air conditioning unit.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.45,
+            "talk_time": 5.3599999999999985,
+            "speech_ratio": 0.37093425605536323,
+            "wpm": 95.50173010380624,
+            "word_count": 23,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 101,
+        "text": "Look, guys. Today, I wanna with my best friend, Heng Heng Jenga, the slapper, and we have a bet. The winner will slap the loser in the face like that. This is what gonna happen.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.2799375,
+            "talk_time": 8.719999999999997,
+            "speech_ratio": 0.3449375616533861,
+            "wpm": 83.06982562753566,
+            "word_count": 35,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 102,
+        "text": "Hmm. Um. What's this? There's a pigeon. Chase is on. Oh, there's a pigeon. Holy shit! Crazy. What? It's too quick.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.4300625,
+            "talk_time": 5.520000000000003,
+            "speech_ratio": 0.2995106500588375,
+            "wpm": 74.87766251470933,
+            "word_count": 23,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 114,
+        "text": "You are the one person I need on my side. I am on your side. You take down rocks almost what we know about Newtform. It won't work. No one cares. No one cares. Oh yo.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.49,
+            "talk_time": 7.4799999999999995,
+            "speech_ratio": 0.36505612493899464,
+            "wpm": 108.34553440702783,
+            "word_count": 37,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 115,
+        "text": "You're strong, Klim. You. You can do anything. But I'm little. Doesn't mean nothing. You' gonna see bad stuff, but. It's okay. My parents. It's so horrible. I can't imagine, sweetie. And now, you. Please. Please don't be one of them.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 30.0,
+            "talk_time": 11.359999999999998,
+            "speech_ratio": 0.3786666666666666,
+            "wpm": 96.0,
+            "word_count": 48,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 125,
+        "text": "Beaches, you're coming home! Yay! My God, guys, she is so cute. So mel sun. Okay, guys. So first jumper. She look. She look.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.48,
+            "talk_time": 6.320000000000001,
+            "speech_ratio": 0.2691652470187394,
+            "wpm": 63.88415672913118,
+            "word_count": 25,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 135,
+        "text": "What on earth was a Drake doing back there? Your guess is as good as mine. Isn't that a dream? Can't decide whether to be impressed or horrified. Either way, it is over now. Slu Fud Long.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.83,
+            "talk_time": 7.888000000000001,
+            "speech_ratio": 0.39778113968734247,
+            "wpm": 118.00302571860817,
+            "word_count": 39,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 138,
+        "text": "How old are you? We are not now, not now. It's too early. It's too early.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.44,
+            "talk_time": 2.2399999999999984,
+            "speech_ratio": 0.12844036697247696,
+            "wpm": 61.92660550458715,
+            "word_count": 18,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 139,
+        "text": "Oh! Whoa! Hey! Oh no no! I deserve that, Chris. I'm sorry. I don't know what to say. Not now. We gotta go.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.1999375,
+            "talk_time": 5.4399999999999995,
+            "speech_ratio": 0.31628021904149356,
+            "wpm": 87.20961922100007,
+            "word_count": 25,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 145,
+        "text": "Garnish with. Here we go. Okay, thank you very much. You're welcome, and your pasta. Thank you. You're welcome.\u5927\u53a8\u5e08\u5728\u90a3\u8fb9\u3002\u597d\uff0cThank you.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.43,
+            "talk_time": 6.640000000000001,
+            "speech_ratio": 0.3098460102659823,
+            "wpm": 83.99440037330845,
+            "word_count": 30,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 146,
+        "text": "Yeah! Oh, baby! Oh, yeah! This is more. This is more. Wow! Wow! Wow! Whoa!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.0499375,
+            "talk_time": 5.52,
+            "speech_ratio": 0.2040670149422711,
+            "wpm": 33.27179591450073,
+            "word_count": 15,
+            "stutter_score": 0.1818
+        }
+    },
+    {
+        "index": 149,
+        "text": "Who show? Who show",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.31,
+            "talk_time": 0.07999999999999963,
+            "speech_ratio": 0.006498781478472756,
+            "wpm": 19.496344435418358,
+            "word_count": 4,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 156,
+        "text": "What the fuck is that? I don't even know. Oh shit! Yo, okay, it's not funny.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.99,
+            "talk_time": 3.2800000000000016,
+            "speech_ratio": 0.2984531392174706,
+            "wpm": 98.27115559599636,
+            "word_count": 18,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 169,
+        "text": "We are told it has been lodged by this side. Do you expect that he will be arrested in regard to the the political involvement? Not not. Well, it's it's hard to predict what will happen, and we will take things as they come.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.3199375,
+            "talk_time": 8.08,
+            "speech_ratio": 0.3464846335887478,
+            "wpm": 118.35366196843366,
+            "word_count": 46,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 170,
+        "text": "Go to turn right. Because the cars on the left are blocking the way. Can see. Not many cars. It's clear.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.1899375,
+            "talk_time": 3.84,
+            "speech_ratio": 0.3150139202928645,
+            "wpm": 108.28603510067218,
+            "word_count": 22,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 176,
+        "text": "The one is the Stardust Memory, mah. Don't know what's the name, lah. What's your thoughts on Stardust Memory? Do you remember it? Not so. And we have the Tyrion ground type here, or with a figure that's coming out of the hatch, hatch. Wow. I never knew that you can do that actually.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.11,
+            "talk_time": 9.920000000000005,
+            "speech_ratio": 0.39506172839506193,
+            "wpm": 138.59020310633215,
+            "word_count": 58,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 190,
+        "text": "Okay, let it be. I wanna walk across this. Go, go. No, no, no. Ah! Oh man! What the hell?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.86,
+            "talk_time": 5.919999999999998,
+            "speech_ratio": 0.3983849259757738,
+            "wpm": 80.75370121130553,
+            "word_count": 20,
+            "stutter_score": 0.1875
+        }
+    },
+    {
+        "index": 201,
+        "text": "What's your name, Miss? Miss. Adler. Adler. Sadie Adler. Mrs.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.66,
+            "talk_time": 4.000000000000002,
+            "speech_ratio": 0.37523452157598514,
+            "wpm": 61.91369606003752,
+            "word_count": 11,
+            "stutter_score": 0.2857
+        }
+    },
+    {
+        "index": 210,
+        "text": "Whoa! Whoa",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.52,
+            "talk_time": 13.68,
+            "speech_ratio": 0.7008196721311475,
+            "wpm": 6.147540983606557,
+            "word_count": 2,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 211,
+        "text": "Oh shit! All right, all right. Hmm, hmm. Wait, wait, wait, wait, wait.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.74,
+            "talk_time": 6.080000000000003,
+            "speech_ratio": 0.2796688132474702,
+            "wpm": 35.878564857405706,
+            "word_count": 13,
+            "stutter_score": 0.3333
+        }
+    },
+    {
+        "index": 220,
+        "text": "And tomorrow, anytime. Tomorrow, we see. We see what we all want. New Friday. Come on, Monday. What day is today? Today is Wednesday. Friday. Then on Monday, famous movie. Tomorrow, you ask me, yeah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.5899375,
+            "talk_time": 8.048000000000002,
+            "speech_ratio": 0.39087054052495307,
+            "wpm": 101.99156748290274,
+            "word_count": 35,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 221,
+        "text": "Ah, you want a fair one, huh? I almost fell over the pants when I saw that. You remember me after all, huh? Ah, you and me, huh?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.71,
+            "talk_time": 5.039999999999998,
+            "speech_ratio": 0.39653815892997624,
+            "wpm": 132.1793863099921,
+            "word_count": 28,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 222,
+        "text": "You're on your own. Sorry. Then you better bury me deep, because if I come back, I'll come for you first. Shit.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.69,
+            "talk_time": 5.04,
+            "speech_ratio": 0.3971631205673759,
+            "wpm": 113.47517730496455,
+            "word_count": 24,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 237,
+        "text": "I'm fine. I don't need healing. What? Your arm is broken. If I show you I can do a pushup, will you stop bothering me? I dare you.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.62,
+            "talk_time": 6.32,
+            "speech_ratio": 0.3221202854230377,
+            "wpm": 91.74311926605505,
+            "word_count": 30,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 241,
+        "text": "So now you're making vegetable curry. So what's that you're mixing? Curry powder. Curry powder and some and water. Where to get the curry powder from?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.97,
+            "talk_time": 5.9200000000000035,
+            "speech_ratio": 0.32943795214245986,
+            "wpm": 96.8280467445743,
+            "word_count": 29,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 253,
+        "text": "Fair enough. Oh, good, sir. Come and let's go visit some of our fine friends in the other oil business we have here in Plainview. These men need all the help they can get.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.81,
+            "talk_time": 7.92,
+            "speech_ratio": 0.39979808177688037,
+            "wpm": 106.0070671378092,
+            "word_count": 35,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 255,
+        "text": "Let's look at the aerial. Yeah, it's a challenge, right? Yeah. Yes, it's a challenge. Yeah. Nice. I'm ready to shoot. There's somebody. Behind.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.96,
+            "talk_time": 4.079999999999998,
+            "speech_ratio": 0.2727272727272726,
+            "wpm": 108.28877005347593,
+            "word_count": 27,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 258,
+        "text": "Thousand seven houses, huh? What the? What the houses there? Long ago, when I was pulling at time, all the houses there were wooden, wooden or half concrete. Thousand houses, not just.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.16,
+            "talk_time": 7.759999999999999,
+            "speech_ratio": 0.3849206349206349,
+            "wpm": 95.23809523809523,
+            "word_count": 32,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 270,
+        "text": "We could have killed you. Maybe you should have. Maybe you should have stayed the fuck out of Jackson. Where's Abby?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.11,
+            "talk_time": 4.240000000000001,
+            "speech_ratio": 0.38163816381638177,
+            "wpm": 118.81188118811882,
+            "word_count": 22,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 272,
+        "text": "I know you've been through a lot. That's life. There's a bad time and also a good time. But trust me, everything.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.61,
+            "talk_time": 4.800000000000002,
+            "speech_ratio": 0.32854209445585225,
+            "wpm": 98.56262833675565,
+            "word_count": 24,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 273,
+        "text": "Finito. Now half of everything. Okay. Okay. Okay. Half of this. Yes. Half of this egg.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.6700625,
+            "talk_time": 5.760000000000001,
+            "speech_ratio": 0.3455295983443374,
+            "wpm": 57.588266390722886,
+            "word_count": 16,
+            "stutter_score": 0.25
+        }
+    },
+    {
+        "index": 286,
+        "text": "I know you're hiding out there somewhere. Vibrate our communication signal. How did you get this?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.1099375,
+            "talk_time": 4.640000000000001,
+            "speech_ratio": 0.3288462475471632,
+            "wpm": 72.28947683148846,
+            "word_count": 17,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 290,
+        "text": "Another secret door. I'll rig the lock. Let me know if you find the junction box. Yep, on it. Where's the junction box? Um, whoa, it's up there. What? Crazy. Found one. How do I go there?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.8699375,
+            "talk_time": 9.759999999999996,
+            "speech_ratio": 0.3772718816966603,
+            "wpm": 92.77177418770339,
+            "word_count": 40,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 292,
+        "text": "Hmm. What is Harvold? Oh, there's something inside. Wee, wee. Rations. What is this bullshit? Hmm.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.2499375,
+            "talk_time": 6.639999999999994,
+            "speech_ratio": 0.36383686245500807,
+            "wpm": 55.89060236507659,
+            "word_count": 17,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 297,
+        "text": "Oh, is there any ending? All right. Yeah, you're forgiven. Yeah, yeah, yeah. Whatever. I still want to kill you. We're oh shit. Hey, guys.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.8700625,
+            "talk_time": 5.92,
+            "speech_ratio": 0.27068966995407534,
+            "wpm": 74.07386238608143,
+            "word_count": 27,
+            "stutter_score": 0.1304
+        }
+    },
+    {
+        "index": 300,
+        "text": "Always jam here. That's why I don't like coming through here. Scary on my bicycle. My bicycle is goes underneath here, avoiding the main road. \u524d\u5148\u5187\u5481\u591a\uff0c\u4e09\u8d9f\u3002",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.72,
+            "talk_time": 7.680000000000001,
+            "speech_ratio": 0.38945233265720086,
+            "wpm": 103.44827586206897,
+            "word_count": 34,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 301,
+        "text": "No,\u54ce\uff0c\u5582\uff0cWhat? It's one underground, like under sea, under sea, like this underwater revolving spot. Okay, bye bye.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.39,
+            "talk_time": 2.912000000000001,
+            "speech_ratio": 0.17766931055521665,
+            "wpm": 76.87614399023795,
+            "word_count": 21,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 303,
+        "text": "I should do that actually, but I'm doing sniping. So, if I were to, like, run, and my heart beats too fast, I cannot hold it steady. The camera.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.66,
+            "talk_time": 7.200000000000005,
+            "speech_ratio": 0.3858520900321546,
+            "wpm": 96.46302250803858,
+            "word_count": 30,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 314,
+        "text": "You should stay home in bed if you ask me. Safer for all of us. All right, well, see you. Ah, go on now. Ah, ah, ah, ah, ah! Thank you, thank you, thank you. Gone, gone. Yes, come out, come out, come out.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.39,
+            "talk_time": 7.199999999999999,
+            "speech_ratio": 0.321572130415364,
+            "wpm": 117.90978115230014,
+            "word_count": 44,
+            "stutter_score": 0.225
+        }
+    },
+    {
+        "index": 322,
+        "text": "One of the hazards of going to my motorcycle is this place here. There are a lot of people coming out. It's very difficult to cross this road because of cars leaving the parking lot.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.9099375,
+            "talk_time": 6.159999999999999,
+            "speech_ratio": 0.3871793965249706,
+            "wpm": 135.76420397628843,
+            "word_count": 36,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 325,
+        "text": "Oh, is he? Surprise! So he's the one. So he's the one. So he's the one. So he's the one.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.6799375,
+            "talk_time": 2.88,
+            "speech_ratio": 0.19618612136461752,
+            "wpm": 98.09306068230877,
+            "word_count": 24,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 339,
+        "text": "Wait, more resilient weapon. What do you mean? Then we go back up first. Ah, it's going to be a long way up. Let's see. Okay, let's go. Where is that? Ah, we're back again.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.2600625,
+            "talk_time": 8.639999999999999,
+            "speech_ratio": 0.30573180791797605,
+            "wpm": 82.80236464445187,
+            "word_count": 39,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 347,
+        "text": "That be we did the best that we can with the time that we were given. So I think okay lah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.9100625,
+            "talk_time": 5.120000000000001,
+            "speech_ratio": 0.3965898693364188,
+            "wpm": 97.5982881570093,
+            "word_count": 21,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 349,
+        "text": "Stop! It looks so cool. I might have nightmares, cause I'm scared of everything. But that's crazy. How do people do that? Like, I don't know. So cool. I wish I could do that.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.9499375,
+            "talk_time": 8.720000000000002,
+            "speech_ratio": 0.36409280817538675,
+            "wpm": 92.69335254006404,
+            "word_count": 37,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 385,
+        "text": "Oh yeah, I found another cabin. Why always found the cabin? Hehe. How much shit told me? But you get all your accessories really like you add. No lah, this this underwater cabin hard to get. Let me need, I need gear stuff.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.82,
+            "talk_time": 8.679999999999996,
+            "speech_ratio": 0.3361735089078232,
+            "wpm": 99.92254066615027,
+            "word_count": 43,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 398,
+        "text": "What? Where am I? My house is on fire. Get me home now. Come on. Where's my wallet? Repentance or regretment. What? Yeah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.2599375,
+            "talk_time": 6.240000000000002,
+            "speech_ratio": 0.3837653127510485,
+            "wpm": 88.56122601947271,
+            "word_count": 24,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 399,
+        "text": "Really good. Out of ten, I'll give it ten. Guys, this looks really good. The chocolate cake. Should I get it? Yeah. This is so good. Oh, because I say for this one.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.98,
+            "talk_time": 6.880000000000004,
+            "speech_ratio": 0.3826473859844274,
+            "wpm": 113.45939933259176,
+            "word_count": 34,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 414,
+        "text": "But Sam, whether there's any language or in the stadium pool, you go there. Yeah. So I'm so I'm",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.4399375,
+            "talk_time": 2.9600000000000004,
+            "speech_ratio": 0.11195185313883592,
+            "wpm": 49.92447504839979,
+            "word_count": 22,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 417,
+        "text": "Hmm. All right, we're going to to the next mission, Lost Glory. Um.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.91,
+            "talk_time": 4.240000000000001,
+            "speech_ratio": 0.32842757552285057,
+            "wpm": 65.06584043377227,
+            "word_count": 14,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 418,
+        "text": "We need to get to Athens. Athens. We need to find my mother. My clothes. Spear.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.4900625,
+            "talk_time": 3.600000000000001,
+            "speech_ratio": 0.3431819400504049,
+            "wpm": 91.51518401344129,
+            "word_count": 16,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 425,
+        "text": "Hey, jailer, Kaui, take that jailer, yo. Change, change,",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.8199375,
+            "talk_time": 3.04,
+            "speech_ratio": 0.10927414916011223,
+            "wpm": 19.41053965344099,
+            "word_count": 9,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 429,
+        "text": "How do I activate this shit? Come on, come on. Is there any switch or is there a switch? I don't get it. Okay, man. Let me see. Oh, it's here. Okay. Good.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.2200625,
+            "talk_time": 6.5600000000000005,
+            "speech_ratio": 0.2601103783941852,
+            "wpm": 83.2670418639922,
+            "word_count": 35,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 430,
+        "text": "Watsons has opened its 700th outlet in Malaysia at KSL Esplanade Mall, the largest one in Klang.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.0599375,
+            "talk_time": 5.759999999999999,
+            "speech_ratio": 0.38247170680489206,
+            "wpm": 71.71344502591727,
+            "word_count": 18,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 431,
+        "text": "I'm sorry. I'm sorry that I want a happy tears. I promise. I thought. I thought you might be a dream, or that there was that something had gone wrong.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.9299375,
+            "talk_time": 6.96,
+            "speech_ratio": 0.38817759403790447,
+            "wpm": 107.08347421735294,
+            "word_count": 32,
+            "stutter_score": 0.0357
+        }
+    },
+    {
+        "index": 438,
+        "text": "And it seems that they are not willing to confront us. And again, they refuse to receive the letter from us. It only proves that they have been holding a double standard.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.63,
+            "talk_time": 8.240000000000006,
+            "speech_ratio": 0.2878099895214812,
+            "wpm": 67.06252183024799,
+            "word_count": 32,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 448,
+        "text": "Do you know who I am? Whether it's true or not, deep down, you know it in your heart. I think you're just scared. Then just don't challenge me. Sure, let's go, Nelson. Do you accept my challenge?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.98,
+            "talk_time": 6.559999999999999,
+            "speech_ratio": 0.36484983314794206,
+            "wpm": 140.15572858731923,
+            "word_count": 42,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 450,
+        "text": "Next up, we'd like to actually move on to our photo session. \u3064\u3065\u304d\u307e\u3057\u305f\u3001\u3048\u3001\u30d5\u30a9\u30c8\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u65b9\u306b\u79fb\u3089\u305b\u3066\u3044\u305f\u3060\u304d\u305f\u3044\u3068\u601d\u3044\u307e\u3059\u3002 Can we actually invite the members of Arashi to come forward to the table, please? \u305d\u308c\u3067\u306f\u3001\u30e1\u30f3\u30d0\u30fc\u306e\u7686\u69d8\u306b\u30c6\u30fc\u30d6\u30eb\u306e\u524d\u306e\u307b\u3046\u306b\u3054\u5165\u3063\u3066\u3044\u305f\u3060\u304d\u307e\u3059\u3002 \u306f\u3044\u3002",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.54,
+            "talk_time": 8.959999999999997,
+            "speech_ratio": 0.3975155279503105,
+            "wpm": 93.16770186335404,
+            "word_count": 35,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 470,
+        "text": "Oh, ah, what the hell? Yeah, that's what I'm thinking about, dude. Oh shit! Oh shit!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.86,
+            "talk_time": 2.799999999999999,
+            "speech_ratio": 0.16607354685646494,
+            "wpm": 64.05693950177937,
+            "word_count": 18,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 482,
+        "text": "Tomato, pork ribs, king, my kung pao. We should add more vegetables. Well, more vegetables. No bones. Nine bucks. Smells nice.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.4,
+            "talk_time": 8.8,
+            "speech_ratio": 0.3464566929133859,
+            "wpm": 49.60629921259843,
+            "word_count": 21,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 484,
+        "text": "Or, it all gets easier with time. Or don't worry; it's part of God's plan. I'm sorry. I was just trying to help. You know.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.85,
+            "talk_time": 5.839999999999999,
+            "speech_ratio": 0.3684542586750788,
+            "wpm": 109.77917981072555,
+            "word_count": 29,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 493,
+        "text": "Stop it, Adam! Why did you come here? Made me realize she was right. I don't agree with what Marcus is doing, but you're alive. You deserve to be free. I just hope people realize that one day.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.9399375,
+            "talk_time": 7.360000000000006,
+            "speech_ratio": 0.3514814693214823,
+            "wpm": 114.61352260483108,
+            "word_count": 40,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 514,
+        "text": "Okay. I just put in a few days ago. I've been doing some remodeling and adding some light and stuff to the house. Wow, ini jelas banget ya, Gang. Lampunya gerak.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.7,
+            "talk_time": 7.120000000000002,
+            "speech_ratio": 0.3136563876651983,
+            "wpm": 84.58149779735683,
+            "word_count": 32,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 524,
+        "text": "Show me this. Where are they? And I said, Ah!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.77,
+            "talk_time": 2.08,
+            "speech_ratio": 0.10014443909484834,
+            "wpm": 28.88781896966779,
+            "word_count": 10,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 529,
+        "text": "No. It can't be happening. It can't be true. Why did they say I'm safe now? If it's coming back, what's coming back? What's coming back? Huh? I was so close. Yallah, tolonglah, Ya Allah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.1900625,
+            "talk_time": 9.279999999999996,
+            "speech_ratio": 0.36839924474184993,
+            "wpm": 97.65755841217147,
+            "word_count": 41,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 533,
+        "text": "\u4e3a\u4ec0\u4e48C\u7248\u7684\u4eba\u5e2e\u52a9\u6211\u5e72\u561b\uff1f\u4e3a\u4ec0\u4e48C\u7248\u7684\u4eba\u4f7f\u7528\u8718\u86db\u53bb\u62c9\u8fd1\u8ddd\u79bb\uff1f\u5bf9\u5440\u3002\u54e6\u3002\u4f60\u4e0d\u4f1a\u3002",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.47,
+            "talk_time": 6.24,
+            "speech_ratio": 0.3788706739526412,
+            "wpm": 123.8615664845173,
+            "word_count": 34,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 535,
+        "text": "Sasha! Hey, she's over here! No, no, no, no!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.23,
+            "talk_time": 2.560000000000001,
+            "speech_ratio": 0.2502443792766374,
+            "wpm": 58.651026392961874,
+            "word_count": 10,
+            "stutter_score": 0.3333
+        }
+    },
+    {
+        "index": 543,
+        "text": "And we get so the view, so the good view, to the first view. So the driving is pretty. Whoa! It's pretty awesome.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.05,
+            "talk_time": 4.479999999999999,
+            "speech_ratio": 0.3717842323651451,
+            "wpm": 119.50207468879667,
+            "word_count": 24,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 550,
+        "text": "So we have to hold on to the walk because it's stuck. Don't always forget about this one. This is the best part. This is the most delicious part. The one that is stuck to everything else. That's crunchy bit, and by itself is delicious already. This beyond.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.71,
+            "talk_time": 8.56,
+            "speech_ratio": 0.3769264641127257,
+            "wpm": 134.7424042272127,
+            "word_count": 51,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 551,
+        "text": "What's it? Hey, wake up! What the fuck is this? Just a look at home. Holy shit! Hey.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.4,
+            "talk_time": 4.5600000000000005,
+            "speech_ratio": 0.27804878048780496,
+            "wpm": 69.51219512195122,
+            "word_count": 19,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 564,
+        "text": "Not cool long enough, love. No, don't dazzle yourselves. One, one. We're at some point. You're you're you're gone. Bye, girl.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.3000625,
+            "talk_time": 7.12,
+            "speech_ratio": 0.36891072243937034,
+            "wpm": 80.82875379289575,
+            "word_count": 26,
+            "stutter_score": 0.0909
+        }
+    },
+    {
+        "index": 575,
+        "text": "Or oh, it's still far away. Let's check out this first. All these locations to the right. What's here? Tell me. Oh, Fox, Foxy, hi. Where we going?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.25,
+            "talk_time": 7.520000000000002,
+            "speech_ratio": 0.31010309278350523,
+            "wpm": 76.70103092783505,
+            "word_count": 31,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 580,
+        "text": "Um, bridge altar incomplete shalies. What the hell that means? Let's see what's inside here.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.2200625,
+            "talk_time": 5.599999999999998,
+            "speech_ratio": 0.39380980217210704,
+            "wpm": 71.72964253849095,
+            "word_count": 17,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 585,
+        "text": "No more. I take picture with them. Except please don't. I said no. No. Stop. Okay. Bye.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.68,
+            "talk_time": 3.2800000000000016,
+            "speech_ratio": 0.17558886509635982,
+            "wpm": 57.81584582441114,
+            "word_count": 18,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 588,
+        "text": "Oh oh oh! It's it's it's it's. Gonna put this in the freezer again. Need some water.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.92,
+            "talk_time": 4.640000000000001,
+            "speech_ratio": 0.33333333333333337,
+            "wpm": 90.51724137931035,
+            "word_count": 21,
+            "stutter_score": 0.2941
+        }
+    },
+    {
+        "index": 595,
+        "text": "Okay, I'm I'm okay. I have a good feeling about this round. Really confident. I'm very confident about this round. One, two, go. Say high five. Okay, I'm going to do the oil.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.48,
+            "talk_time": 6.64,
+            "speech_ratio": 0.37986270022883295,
+            "wpm": 123.56979405034325,
+            "word_count": 36,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 597,
+        "text": "Yes.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.8099375,
+            "talk_time": 0.48,
+            "speech_ratio": 0.028554538052268187,
+            "wpm": 3.5693172565335236,
+            "word_count": 1,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 599,
+        "text": "There is kill. All together.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.02,
+            "talk_time": 6.320000000000001,
+            "speech_ratio": 0.42077230359520645,
+            "wpm": 19.97336884154461,
+            "word_count": 5,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 609,
+        "text": "All right, here we go. So excited. Oh, huh? Cleo. Yeah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.62,
+            "talk_time": 2.6400000000000006,
+            "speech_ratio": 0.20919175911251986,
+            "wpm": 52.29793977812996,
+            "word_count": 11,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 610,
+        "text": "Okay, I got the sides all unsticked. Now I have this thing here. Uh, how does it work? Is it like so? Yeah, I think so. Actually, I don't know. My back hurts.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.74,
+            "talk_time": 7.759999999999996,
+            "speech_ratio": 0.37415621986499503,
+            "wpm": 98.36065573770492,
+            "word_count": 34,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 637,
+        "text": "Yo yo yo yo, take it, take it, yo yo yo. Good friends, good friends. I can't climb up. Still climbing up. Oh, oh, fall down. Oh, oh.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.83,
+            "talk_time": 5.119999999999997,
+            "speech_ratio": 0.2871564778463263,
+            "wpm": 97.58833426808751,
+            "word_count": 29,
+            "stutter_score": 0.28
+        }
+    },
+    {
+        "index": 641,
+        "text": "That should make things easier. Then where the fuck are these medical supplies? Stop doing that!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.6500625,
+            "talk_time": 3.04,
+            "speech_ratio": 0.24031501820643178,
+            "wpm": 75.88895311782056,
+            "word_count": 16,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 644,
+        "text": "Hi, what's up? My name is Sean. Check this out. Put up, jump, produce, and drop the beat. With this talent, anak mungkin boleh menang lima puluh ribu ringgit.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.4,
+            "talk_time": 8.080000000000002,
+            "speech_ratio": 0.3607142857142858,
+            "wpm": 80.35714285714286,
+            "word_count": 30,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 648,
+        "text": "So we are here as it is already going to the court, and what I can do now is pray for him. I hope that.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.6799375,
+            "talk_time": 4.240000000000001,
+            "speech_ratio": 0.3630156411367785,
+            "wpm": 128.4253447417848,
+            "word_count": 25,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 651,
+        "text": "Find the machine and destroy it.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.0200625,
+            "talk_time": 1.9999999999999998,
+            "speech_ratio": 0.19959955339599925,
+            "wpm": 35.927919611279876,
+            "word_count": 6,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 655,
+        "text": "What? It's all burned. It's recent. These baskets, they're beehives. But why are they burned? I don't know. Let's be discreet and get out. Maybe it was an accident. They're all burned.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.22,
+            "talk_time": 8.4,
+            "speech_ratio": 0.37803780378037805,
+            "wpm": 102.6102610261026,
+            "word_count": 38,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 662,
+        "text": "All right. What should I do? Oh man. Um. Yeah. Whatever. What the fuck? Oh no! Oh no! No! No!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.1700625,
+            "talk_time": 5.360000000000004,
+            "speech_ratio": 0.2796026356199936,
+            "wpm": 62.59760498955076,
+            "word_count": 20,
+            "stutter_score": 0.125
+        }
+    },
+    {
+        "index": 664,
+        "text": "One more pearl earrings. That looks good. Saya komuda. Hahaha. Hahaha. Pirate hat. Tactical helmet. Smart rope is good. Hmm. That's good. All right. Oh.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.12,
+            "talk_time": 8.159999999999995,
+            "speech_ratio": 0.28021978021978006,
+            "wpm": 53.57142857142857,
+            "word_count": 26,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 665,
+        "text": "Shallowerest pool ever. Are we shallow? By the way, oh my God! Look at the sky. It's a dark cloud. No worries, I have raincoat.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.3600625,
+            "talk_time": 5.920000000000004,
+            "speech_ratio": 0.27715274709519244,
+            "wpm": 70.22451362209263,
+            "word_count": 25,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 668,
+        "text": "I'm waiting.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.3199375,
+            "talk_time": 0.39999999999999936,
+            "speech_ratio": 0.03246769717784683,
+            "wpm": 14.610463730031098,
+            "word_count": 3,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 673,
+        "text": "Man, the hell! Rest in peace, dude. Holy shit, he's strong. Oh, I just feel so bad for him. I think it's her, cause there's like kids.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.9199375,
+            "talk_time": 7.1200000000000045,
+            "speech_ratio": 0.3973228143234319,
+            "wpm": 100.44677890199115,
+            "word_count": 30,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 675,
+        "text": "Wait! That one's not broken. There's a note, a giant's prayer. They're asking their ancestors to watch over them, to guide them home. Wait. Wait. I think I know how it works.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.44,
+            "talk_time": 6.720000000000001,
+            "speech_ratio": 0.32876712328767127,
+            "wpm": 102.73972602739725,
+            "word_count": 35,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 683,
+        "text": "I remember how it felt. I remember how it felt.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.93,
+            "talk_time": 2.1759999999999997,
+            "speech_ratio": 0.08728439630966706,
+            "wpm": 24.06738868832732,
+            "word_count": 10,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 689,
+        "text": "So, ideas or girls singing?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.69,
+            "talk_time": 3.52,
+            "speech_ratio": 0.3292797006548176,
+            "wpm": 28.06361085126286,
+            "word_count": 5,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 694,
+        "text": "Hm? Oh shit! Bones everywhere, flesh everywhere. It's crazy here. What's this? Oh, is it? Is the way out? Holy shit! Oh my God!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.15,
+            "talk_time": 6.4799999999999995,
+            "speech_ratio": 0.2683229813664596,
+            "wpm": 64.59627329192546,
+            "word_count": 26,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 704,
+        "text": "Supposed to go to Jali. Supposed to go mah. Oh, never mind. Confused now. Okay, that's why KL is shit. So many highways.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.63,
+            "talk_time": 3.9199999999999995,
+            "speech_ratio": 0.31037212984956447,
+            "wpm": 114.01425178147268,
+            "word_count": 24,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 719,
+        "text": "Hmm. Okay. Uh, we're back. So, what should we do? Hmm. Oh, right. Hmm.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.68,
+            "talk_time": 4.88,
+            "speech_ratio": 0.3112244897959184,
+            "wpm": 57.39795918367347,
+            "word_count": 15,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 726,
+        "text": "I don't drink anymore. I don't drink anymore. No wine, one. Buy some. Hmm.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.19,
+            "talk_time": 2.3200000000000007,
+            "speech_ratio": 0.1903199343724365,
+            "wpm": 78.75307629204266,
+            "word_count": 16,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 729,
+        "text": "All right, chill. Shit. Oh, it's so dark. What's that?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.34,
+            "talk_time": 2.5600000000000005,
+            "speech_ratio": 0.2475822050290136,
+            "wpm": 69.63249516441006,
+            "word_count": 12,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 747,
+        "text": "I have to pull a move to go. Can I just let you one? What the freak? Hold on, he's a dream chaser.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.4299375,
+            "talk_time": 3.039999999999999,
+            "speech_ratio": 0.24457081944297784,
+            "wpm": 111.02227987872023,
+            "word_count": 23,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 752,
+        "text": "Here you have interruptions of that. Even how strong you have all these internet connection.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.7499375,
+            "talk_time": 3.9200000000000004,
+            "speech_ratio": 0.3646532828679237,
+            "wpm": 83.72141698498247,
+            "word_count": 15,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 753,
+        "text": "Hah",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.39,
+            "talk_time": 0.8,
+            "speech_ratio": 0.07699711260827719,
+            "wpm": 5.7747834456207885,
+            "word_count": 1,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 758,
+        "text": "Brothers, what happened to your legs, man? Don't eat dinner.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.3299375,
+            "talk_time": 3.5200000000000005,
+            "speech_ratio": 0.34075714398078405,
+            "wpm": 63.89196449639701,
+            "word_count": 11,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 760,
+        "text": "I demand to know why we are here. Shh. Kyle, you don't have to do this. You in or out? Do as I'm told. Sorry, sir. Good. And the most. No, no, no, please. Who's that? Amun. The new son of a bitch.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.07,
+            "talk_time": 6.479999999999995,
+            "speech_ratio": 0.2692147901952636,
+            "wpm": 114.66555878687163,
+            "word_count": 46,
+            "stutter_score": 0.0714
+        }
+    },
+    {
+        "index": 764,
+        "text": "Where? Done. Just a bit more. Um, it's here, right? Hmm. There's a cave over here. What the hell? There's a cave. Oh no! Oh no!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.93,
+            "talk_time": 6.079999999999998,
+            "speech_ratio": 0.29049211657907303,
+            "wpm": 77.40086000955567,
+            "word_count": 27,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 765,
+        "text": "Let's make a better change. Vote. Know your rights, and vote right now. Hmm. Walkman Gangnam Style.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.2,
+            "talk_time": 4.32,
+            "speech_ratio": 0.3857142857142858,
+            "wpm": 96.42857142857143,
+            "word_count": 18,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 768,
+        "text": "Closing the vault. All right, this is a new quest. Whatever. Wait, wait, wait. Chill, yo.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.72,
+            "talk_time": 4.560000000000002,
+            "speech_ratio": 0.358490566037736,
+            "wpm": 75.47169811320754,
+            "word_count": 16,
+            "stutter_score": 0.25
+        }
+    },
+    {
+        "index": 774,
+        "text": "Hey, it's okay. Oh my god! Oh my god!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.6499375,
+            "talk_time": 3.2799999999999985,
+            "speech_ratio": 0.3079830280694134,
+            "wpm": 56.33835879318541,
+            "word_count": 10,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 777,
+        "text": "It's magnificent, my dear. Magnificent, ever more free. That's that's us. If we keep seeking, we will find freedom.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.25,
+            "talk_time": 5.680000000000002,
+            "speech_ratio": 0.2804938271604939,
+            "wpm": 65.18518518518518,
+            "word_count": 22,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 787,
+        "text": "Magical turtle resident in two.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.6499375,
+            "talk_time": 9.84,
+            "speech_ratio": 0.4344382848738545,
+            "wpm": 13.245069660788248,
+            "word_count": 5,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 800,
+        "text": "Oh, oh! Hey,\u6765\uff0c\u6211\u4eec\u73b0\u5728\u9009\u6211\u4eec\u7684MVP\uff0c\u6211\u4eec\u8bb2\u53f7\u7801\u554a\uff0c\u4e09\u3001\u4e8c\u3001\u4e00\uff0c\u4e00\u628a\u3002\u54e6\uff0c\u4e0d\u8981\uff01\u610f\u601d\u8fd9\u4e2a\u3002",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.5500625,
+            "talk_time": 5.599999999999998,
+            "speech_ratio": 0.28644409704572543,
+            "wpm": 95.14036080447313,
+            "word_count": 31,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 801,
+        "text": "So I really like to wish you a very happy Lunar New Year.\u606d\u559c\u53d1\u8d22\uff0c\u606d\u559c\u53d1\u8d22\uff0c\u65b0\u5e74\u5feb\u4e50\uff0c\u606d\u559c\u53d1\u8d22\uff0cHappy Chinese New Year\uff0c\u606d\u559c\u53d1\u8d22\uff0c\u606d\u559c\u53d1\u8d22\uff0c\u606d\u559c\u53d1\u8d22\uff0cHappy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese New Year\uff0c Happy Chinese",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.6699375,
+            "talk_time": 0.3999999999999915,
+            "speech_ratio": 0.025526585539986452,
+            "wpm": 1619.661852512175,
+            "word_count": 423,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 804,
+        "text": "Yeah, how about this? How about this? Yeah. Oh my! It's so annoying. Come here, bitch! Yeah, attack me! Holy fuck!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.82,
+            "talk_time": 6.1599999999999975,
+            "speech_ratio": 0.32731137088204026,
+            "wpm": 70.13815090329437,
+            "word_count": 22,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 806,
+        "text": "Hey, who's there? Fucking Helen, you scared me. I'm sorry. Who's that? Ever heard of knocking? No way. It was so last year.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.3,
+            "talk_time": 5.680000000000004,
+            "speech_ratio": 0.3712418300653597,
+            "wpm": 101.96078431372548,
+            "word_count": 26,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 807,
+        "text": "I really wanted to believe we could. Yeah, you owe me a pizza. That's right, I do. But I don't think.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.5,
+            "talk_time": 5.840000000000002,
+            "speech_ratio": 0.3156756756756758,
+            "wpm": 74.5945945945946,
+            "word_count": 23,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 808,
+        "text": "I've never done this. I'm so sleepy, dude. I can't breathe anymore. It's so hot. I'm falling asleep. See.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.73,
+            "talk_time": 4.639999999999999,
+            "speech_ratio": 0.33794610342316084,
+            "wpm": 104.87982520029134,
+            "word_count": 24,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 818,
+        "text": "Really? You mean? Tell me more. Just too late to report. All right.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.57,
+            "talk_time": 4.2399999999999975,
+            "speech_ratio": 0.3664649956784786,
+            "wpm": 67.41573033707866,
+            "word_count": 13,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 819,
+        "text": "I'm very thirsty. Unfortunately, before that, I have to go back to my motorcycle because I got a bottle of water there. Hopefully, nobody has poisoned it.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.25,
+            "talk_time": 4.960000000000003,
+            "speech_ratio": 0.3480701754385967,
+            "wpm": 117.89473684210526,
+            "word_count": 28,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 821,
+        "text": "Hell yeah! Fuck the bridge. It's an old method. We climb. Or we can pick. What? So cool! Wow! Hell! It's warm. Where the skin? Where's this? Nice.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.1699375,
+            "talk_time": 8.239999999999993,
+            "speech_ratio": 0.29251041114308446,
+            "wpm": 66.0278355250167,
+            "word_count": 31,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 825,
+        "text": "Oh shit! What? Oh no shit! Whatever.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.78,
+            "talk_time": 2.000000000000001,
+            "speech_ratio": 0.14513788098693767,
+            "wpm": 30.478955007256896,
+            "word_count": 7,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 835,
+        "text": "Let's go!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.6399375,
+            "talk_time": 0.3999999999999999,
+            "speech_ratio": 0.031645726096351336,
+            "wpm": 14.240576743358105,
+            "word_count": 3,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 855,
+        "text": "Damn, this for you guys. All right, thank you. So I'll see you guys again. I'm trying to do for another bike. Goodbye. That is cool. Goodbye, guys. Ciao.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.94,
+            "talk_time": 5.999999999999998,
+            "speech_ratio": 0.30090270812437303,
+            "wpm": 93.27983951855566,
+            "word_count": 31,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 874,
+        "text": "Whoa! Thank you, my best friend. I've got a new guy here with me. You can give your greetings when you reach the surprise. For now, we've got to keep moving.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.87,
+            "talk_time": 5.919999999999995,
+            "speech_ratio": 0.29793658782083515,
+            "wpm": 99.64771011575239,
+            "word_count": 33,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 878,
+        "text": "Oh shit! Oh, oh, dude.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.63,
+            "talk_time": 0.799999999999998,
+            "speech_ratio": 0.05869405722670565,
+            "wpm": 22.01027146001467,
+            "word_count": 5,
+            "stutter_score": 1.0
+        }
+    },
+    {
+        "index": 887,
+        "text": "What the fuck is that? What the fuck? I don't want to know, man. Let's go. Shit, it's moving. God damn it!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.55,
+            "talk_time": 4.480000000000002,
+            "speech_ratio": 0.2706948640483385,
+            "wpm": 90.63444108761328,
+            "word_count": 25,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 891,
+        "text": "\u70c8\u65e5\u884c\u8005\uff0c\u54e6\uff0c\u73a9\u706b\u7684\uff0c\u53e6\u5916\u4e00\u4e2a\u4eba\u5417\uff1f\u55e8\uff0c\u8fd9\u662f\u54e6\uff0c\u8fd9\u662f\u6e29\u5bb6\u4eba\u5417\uff1f\u73a9\u706b\u7684\u90a3\u4e2a\u4eba\u51fa\u6765\u4e86\u3002",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.8900625,
+            "talk_time": 9.119999999999996,
+            "speech_ratio": 0.3391587505607321,
+            "wpm": 73.63314979279056,
+            "word_count": 33,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 894,
+        "text": "Look at me. Speak. Speak out. I can't speak. You dare not, right? So you better fucking stay here.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.72,
+            "talk_time": 5.600000000000001,
+            "speech_ratio": 0.3160270880361175,
+            "wpm": 67.72009029345372,
+            "word_count": 20,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 896,
+        "text": "Right. It seems. Oh, he's he's scared. Why? Oh. Right. There's a warrior. What the heck?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.61,
+            "talk_time": 4.079999999999998,
+            "speech_ratio": 0.3514211886304908,
+            "wpm": 93.0232558139535,
+            "word_count": 18,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 897,
+        "text": "No! God, please, no, no, no!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.55,
+            "talk_time": 3.4400000000000004,
+            "speech_ratio": 0.25387453874538746,
+            "wpm": 26.568265682656826,
+            "word_count": 6,
+            "stutter_score": 1.0
+        }
+    },
+    {
+        "index": 899,
+        "text": "What types of noodles here? What kind of noodles? Then so weird. Is it noodles? Nissuan here. Maggie noodles. Vegetables, egg, corn, kimchi. Also got glass noodles.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.94,
+            "talk_time": 8.560000000000004,
+            "speech_ratio": 0.39015496809480416,
+            "wpm": 73.83773928896991,
+            "word_count": 27,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 902,
+        "text": "No thanks, Toke. We don't need them. But I want you to have them. Come along. Let me show you something.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.9300625,
+            "talk_time": 6.159999999999999,
+            "speech_ratio": 0.38669025937594403,
+            "wpm": 82.86219843770229,
+            "word_count": 22,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 916,
+        "text": "This is all bullshit. Oh shit! Stop. No. Oh shit. Um. Bird.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.55,
+            "talk_time": 3.359999999999999,
+            "speech_ratio": 0.16350364963503644,
+            "wpm": 35.03649635036496,
+            "word_count": 12,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 917,
+        "text": "Should I go up the traditional way through the very, very, very scary looking place?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.16,
+            "talk_time": 3.6000000000000005,
+            "speech_ratio": 0.2960526315789474,
+            "wpm": 74.01315789473684,
+            "word_count": 15,
+            "stutter_score": 0.2727
+        }
+    },
+    {
+        "index": 925,
+        "text": "Wow, it it runs really well. Oh, what the heck! Oh, eee! Chill. Where's my health, by the way? I don't even know. Okay. All right. All right. And dodging. All right. Oh my God. The the the clouds, dude.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.16,
+            "talk_time": 7.439999999999998,
+            "speech_ratio": 0.3883089770354905,
+            "wpm": 131.52400835073067,
+            "word_count": 42,
+            "stutter_score": 0.0789
+        }
+    },
+    {
+        "index": 938,
+        "text": "Hello. \u6211\u884c\u6211\u884c\u3002 Hello. \u5ba2\u5b98\uff0c\u6ca1\u4e8b\u513f\u6ca1\u4e8b\u513f\u3002 \u8fdb\u53bb\u5427\uff0c\u8d70\u5427\u8d70\u5427\u8d70\u5427\u3002 \u6211\u6bcf\u6b21\u770b\u5230\u8fd9\u79cd\u75b2\u60eb\uff0c\u793e\u755c\u7684\u75b2\u60eb\u3002 \u8fd9\u4e2a\uff1f\u8fd9\u91cc\u9762\u5417\uff1f\u5bf9\u3002",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.8,
+            "talk_time": 9.999999999999996,
+            "speech_ratio": 0.3731343283582088,
+            "wpm": 98.50746268656715,
+            "word_count": 44,
+            "stutter_score": 0.075
+        }
+    },
+    {
+        "index": 948,
+        "text": "We're weighing everything. Okay, so this is eight oh five. This one is wow. That's same. Okay, this is wow. Eight six. Oh my god. Forty baht a day. Okay.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.9000625,
+            "talk_time": 6.799999999999999,
+            "speech_ratio": 0.32535787871447747,
+            "wpm": 91.86575398997013,
+            "word_count": 32,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 951,
+        "text": "Probably fish. Yeah, whatever. Bon bon bon bon bon bon bon bon bon bon bon. Oh, you've been a crocodile. Seriously? I don't like crocodiles. Well, watch out. Crocodile! Let's have some more like you, but wet.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.26,
+            "talk_time": 5.599999999999999,
+            "speech_ratio": 0.2634054562558795,
+            "wpm": 112.88805268109125,
+            "word_count": 40,
+            "stutter_score": 0.3056
+        }
+    },
+    {
+        "index": 960,
+        "text": "Reading is power. A good habit every person should have is the reading habit. Imagine yourself.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.05,
+            "talk_time": 4.800000000000001,
+            "speech_ratio": 0.39834024896265563,
+            "wpm": 79.66804979253112,
+            "word_count": 16,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 973,
+        "text": "Lie. You have a nice place, Yanchan. Yeah. Thanks. Where are your parents? Overseas. So you take care of yourself. That must be hard. I manage.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.5100625,
+            "talk_time": 6.800000000000002,
+            "speech_ratio": 0.3883481283976,
+            "wpm": 89.09162945591999,
+            "word_count": 26,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 974,
+        "text": "We have a camera around poking at everybody. Feel like a pedophile. Pedophile. I'm actually trying to pronounce words wrongly. Rubber stamp, name tags, stationary stuff, gumming.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.4,
+            "talk_time": 7.199999999999999,
+            "speech_ratio": 0.3711340206185567,
+            "wpm": 86.5979381443299,
+            "word_count": 28,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 988,
+        "text": "Oh, you go to online. It's just for you. For the thrift shop shops, ah, they have for ah for the DIY, ah, rubber mats, which the under one is six, six two, ah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.79,
+            "talk_time": 4.160000000000002,
+            "speech_ratio": 0.24776652769505672,
+            "wpm": 125.07444907683144,
+            "word_count": 35,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 991,
+        "text": "What? That's mine. This thing, it's mine. Song Xiao, Song Zixuan. What's a torch? A torch is built with wood. That is a brazier. A brazier. Hmm. Looks like there's something written on it. Want me to read it?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.61,
+            "talk_time": 9.760000000000003,
+            "speech_ratio": 0.381101132370168,
+            "wpm": 98.39906286606794,
+            "word_count": 42,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 992,
+        "text": "Ah, so empty. So empty. So, is there anything else up that escalator there? So, is it there or there? Cross space down below. Must not forget. I came here for the cross space.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.76,
+            "talk_time": 7.199999999999993,
+            "speech_ratio": 0.3837953091684431,
+            "wpm": 108.74200426439232,
+            "word_count": 34,
+            "stutter_score": 0.0333
+        }
+    },
+    {
+        "index": 994,
+        "text": "Nice. Zak. Zak Hario. Jale. Zak Hario. Oh, so funny. Nice. Three more. Oh no. Oh no no no no no. Null. What the hell?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.2199375,
+            "talk_time": 5.359999999999999,
+            "speech_ratio": 0.19691448593517158,
+            "wpm": 55.106665840066675,
+            "word_count": 25,
+            "stutter_score": 0.3333
+        }
+    },
+    {
+        "index": 996,
+        "text": "Careful with my lashes. I'm so scared. Am I doing right right now? Is it like this, babe?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.1999375,
+            "talk_time": 3.5199999999999987,
+            "speech_ratio": 0.3142874681220318,
+            "wpm": 101.7862822895217,
+            "word_count": 19,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 999,
+        "text": "Ah, this is.\u5feb\u70b9\uff01What? What's happening out there, Emily?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.72,
+            "talk_time": 3.8400000000000007,
+            "speech_ratio": 0.30188679245283023,
+            "wpm": 56.60377358490565,
+            "word_count": 12,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1003,
+        "text": "I wasn't irritating you. I'm just answering your question.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.01,
+            "talk_time": 2.879999999999999,
+            "speech_ratio": 0.20556745182012842,
+            "wpm": 47.109207708779444,
+            "word_count": 11,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1013,
+        "text": "Choice. Every choice. He",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.1900625,
+            "talk_time": 1.6000000000000003,
+            "speech_ratio": 0.10533202216909907,
+            "wpm": 15.799803325364858,
+            "word_count": 4,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 1024,
+        "text": "Uh. Yo. Huh. Sorry to ask this. I can't believe it. Huh. Huh.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.3600625,
+            "talk_time": 5.200000000000002,
+            "speech_ratio": 0.299538092100763,
+            "wpm": 48.38692257012323,
+            "word_count": 14,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1028,
+        "text": "Yeah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.97,
+            "talk_time": 3.04,
+            "speech_ratio": 0.21760916249105225,
+            "wpm": 4.294917680744452,
+            "word_count": 1,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 1049,
+        "text": "These are very new, not that very new. I mean, it's newish. Oh, there's another one, Soonhun. There, what do they sell? Not many people there as well. And there's another restaurant there, Soonhun.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.13,
+            "talk_time": 7.000000000000004,
+            "speech_ratio": 0.3861003861003864,
+            "wpm": 122.44897959183673,
+            "word_count": 37,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1050,
+        "text": "That gun is knocking seven shades out of our lock. Grab it.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.17,
+            "talk_time": 2.0800000000000005,
+            "speech_ratio": 0.08977125593439794,
+            "wpm": 31.07466551575313,
+            "word_count": 12,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1054,
+        "text": "Please, please, please don't appear here. I think it's done. Yeah, Azarel. Oh shit! I know something's not right here.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.95,
+            "talk_time": 4.800000000000001,
+            "speech_ratio": 0.3440860215053764,
+            "wpm": 98.9247311827957,
+            "word_count": 23,
+            "stutter_score": 0.0526
+        }
+    },
+    {
+        "index": 1061,
+        "text": "Ice cream one twenty, curry puff one forty, hot dog two bucks, donut, pizza, coffee donut.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.09,
+            "talk_time": 5.6800000000000015,
+            "speech_ratio": 0.29753797799895243,
+            "wpm": 50.28810895756941,
+            "word_count": 16,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1063,
+        "text": "Okay, this one. All right, I'll go buy it. I'll be right back. How's that? Did you put it on right? Will it stay on? It should be fine. Yeah, it looks great.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.85,
+            "talk_time": 6.879999999999999,
+            "speech_ratio": 0.3299760191846522,
+            "wpm": 103.59712230215827,
+            "word_count": 36,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1068,
+        "text": "Okay. Yeah. Well, let's go. Let's move on. It's called Altair. This is one of the best games of my teenage years. I consider my teenage years as childhood.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.3500625,
+            "talk_time": 5.4399999999999995,
+            "speech_ratio": 0.33272044067109835,
+            "wpm": 117.43074376627,
+            "word_count": 32,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1071,
+        "text": "I really wanted to believe we could. Yeah, you owe me a pizza. That's right, I do. But I don't think.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.49,
+            "talk_time": 4.88,
+            "speech_ratio": 0.26392644672796106,
+            "wpm": 74.63493780421851,
+            "word_count": 23,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1074,
+        "text": "This gonna last forever. So, this is it. See you, Nana. We'll leave tomorrow.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.82,
+            "talk_time": 4.079999999999999,
+            "speech_ratio": 0.3182527301092043,
+            "wpm": 70.20280811232449,
+            "word_count": 15,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1097,
+        "text": "What the fuck, bro? Hell yeah, Mr. Piggy. Hell yeah, Mr. Piggy. All right.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.0100625,
+            "talk_time": 6.880000000000001,
+            "speech_ratio": 0.3820086687650307,
+            "wpm": 46.640593279451416,
+            "word_count": 14,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1107,
+        "text": "This is for you, Josiah. Make the woman scream. That girl. He's doing that to the girl. Oh. He's trying to pull her. The woman. The woman half is the antichrist. No",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.96,
+            "talk_time": 6.480000000000002,
+            "speech_ratio": 0.21628838451268365,
+            "wpm": 68.09078771695594,
+            "word_count": 34,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1125,
+        "text": "My mom. I just remember. I promised that we would have seen each other again on top of the world. I just. Oh my! They're coming.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.57,
+            "talk_time": 4.999999999999999,
+            "speech_ratio": 0.3017501508750754,
+            "wpm": 97.76704888352444,
+            "word_count": 27,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1127,
+        "text": "Piet, it was like some kind of hive mind in there. I saw you, and Harry\u2014he was going after this rock.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.0699375,
+            "talk_time": 4.560000000000001,
+            "speech_ratio": 0.3240952562866751,
+            "wpm": 93.81704787245857,
+            "word_count": 22,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1136,
+        "text": "All right, thanks for seeing, guys. I'll see you guys on the next one. All right, goodbye. Take care. Holy shit! Oh shit! Ah bro, bro! Oh shit! Oh oh oh! What the fuck?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.2300625,
+            "talk_time": 7.1839999999999975,
+            "speech_ratio": 0.30925444130854135,
+            "wpm": 90.40010116201798,
+            "word_count": 35,
+            "stutter_score": 0.129
+        }
+    },
+    {
+        "index": 1137,
+        "text": "Oh oh",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.49,
+            "talk_time": 10.8,
+            "speech_ratio": 0.4597701149425288,
+            "wpm": 5.108556832694764,
+            "word_count": 2,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 1144,
+        "text": "Get it? Easy. What is more? What? Where?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.19,
+            "talk_time": 2.240000000000001,
+            "speech_ratio": 0.2001787310098303,
+            "wpm": 42.89544235924933,
+            "word_count": 8,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1148,
+        "text": "What's wrong, Wan Yao Wei? Ah, he chased someone, and it's very scary. Hey, what's that? What's that? Who's that?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.56,
+            "talk_time": 5.327999999999999,
+            "speech_ratio": 0.3034168564920273,
+            "wpm": 85.42141230068337,
+            "word_count": 25,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1153,
+        "text": "Yeah, see.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.09,
+            "talk_time": 0.48,
+            "speech_ratio": 0.04757185332011893,
+            "wpm": 11.892963330029731,
+            "word_count": 2,
+            "stutter_score": 0
+        }
+    },
+    {
+        "index": 1165,
+        "text": "That's a massive win for the two Malaysians, Gozhi Fei Nurizudin, have beaten the world number one pair, and they've done it in thrilling style. Phenomenal decider.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.01,
+            "talk_time": 6.800000000000003,
+            "speech_ratio": 0.3997648442092888,
+            "wpm": 98.76543209876542,
+            "word_count": 28,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1167,
+        "text": "Oh God! My God! This is Beth. This is her watch. What? Let me see. Look, there was a cross here. So this is where she was buried. But who dug her up?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.7999375,
+            "talk_time": 7.200000000000004,
+            "speech_ratio": 0.3829799966090315,
+            "wpm": 105.3194990674836,
+            "word_count": 33,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1182,
+        "text": "It'd be so cool to live on a space station. I think you take a shit. What? Hmm.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.44,
+            "talk_time": 4.799999999999999,
+            "speech_ratio": 0.2469135802469135,
+            "wpm": 58.641975308641975,
+            "word_count": 19,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1189,
+        "text": "He, God, what happened? Oh Jesus! Oh Lord, Bonnie, what happened? Oh my God, he, darling, what happened to you? I, I don't know. I found her like this. How did this happen? Why didn't you wait for me?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.95,
+            "talk_time": 8.080000000000007,
+            "speech_ratio": 0.3856801909307879,
+            "wpm": 117.42243436754177,
+            "word_count": 41,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1206,
+        "text": "Where? Where? Ya Xuan,\u5148\u6b47\u4f1a\u513f\u3002",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.41,
+            "talk_time": 1.9200000000000004,
+            "speech_ratio": 0.18443804034582137,
+            "wpm": 46.10951008645533,
+            "word_count": 8,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1208,
+        "text": "How's it going? You ever had the urge to just jump? When you're on a high place, where the subway rolls by. Imagine if you had that urge for a minute straight, then two minutes.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.52,
+            "talk_time": 10.959999999999997,
+            "speech_ratio": 0.3842917251051893,
+            "wpm": 77.84011220196354,
+            "word_count": 37,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1211,
+        "text": "I what did I pick? Come on, um, how about Tai Chi? None, eh? Remember my chocolate from your pocket, Tai Chi? Yeah. Did you ever think about rush to call the doctor? Yeah, sir. No, what's up? Chill.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.22,
+            "talk_time": 7.5999999999999925,
+            "speech_ratio": 0.3273040482342805,
+            "wpm": 103.35917312661499,
+            "word_count": 40,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1213,
+        "text": "Huh? It was a cat? Huh? Hamato! There he is!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.7599375,
+            "talk_time": 4.3199999999999985,
+            "speech_ratio": 0.3673488910974228,
+            "wpm": 51.02067931908652,
+            "word_count": 10,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1219,
+        "text": "Town White Coffee, new one. I C C. This one is the Expo Convention Center. Oh, new one. Shall I go in yet? Go straight. Don't do going wrong. No, I.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.67,
+            "talk_time": 8.16,
+            "speech_ratio": 0.39477503628447025,
+            "wpm": 87.08272859216255,
+            "word_count": 30,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1220,
+        "text": "Shit! I hear some inside. How the fuck did they get in there? More importantly, how do we get in there?",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.27,
+            "talk_time": 4.24,
+            "speech_ratio": 0.3762200532386868,
+            "wpm": 111.80124223602485,
+            "word_count": 21,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1234,
+        "text": "You're not Gregory. Hey, be\u5b89\u9759. What are you? Oh,\u58f0\u97f3\u4e0d\u4e00\u6837\u54ce\u3002",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.56,
+            "talk_time": 4.160000000000001,
+            "speech_ratio": 0.2512077294685991,
+            "wpm": 65.21739130434784,
+            "word_count": 18,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1236,
+        "text": "Noel, where are you? Very excited. Okay, guys, make some space. The cars are coming in. Everybody, get moved to the back. All right, we have a next. Come on, come on, come on. All right, coming in. Ladies and gentlemen. Guys, make some space. Guys, to the back, please.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.77,
+            "talk_time": 8.599999999999996,
+            "speech_ratio": 0.3471941865159466,
+            "wpm": 121.11425111021398,
+            "word_count": 50,
+            "stutter_score": 0.0435
+        }
+    },
+    {
+        "index": 1240,
+        "text": "Our guys are here. Let's follow, find them. Let's go. Whoa, whoa, whoa! So much good stuff. This is a double agent. Hey, you come on. Watch out! There's a sniper behind the man. Oh no! I'm here. Come on. We're being attacked.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.97,
+            "talk_time": 6.943999999999999,
+            "speech_ratio": 0.30230735742272524,
+            "wpm": 122.76882890727036,
+            "word_count": 47,
+            "stutter_score": 0.0698
+        }
+    },
+    {
+        "index": 1241,
+        "text": "Um. Ah. Uh. What? Huh? Yeah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.84,
+            "talk_time": 2.080000000000001,
+            "speech_ratio": 0.1401617250673855,
+            "wpm": 24.258760107816713,
+            "word_count": 6,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1243,
+        "text": "Chinese too. I wrong understood what I said. Yes, and yeah, yes. You understand what I said, eh? Don't panic. I think I can. Chop is chop, chop is chop, no chop.\u53ef\u662f\u4f60\u8bf4\u7684\u201c\u6233\u201d\u6709mention\u4e00\u4e9b\u4e1c\u897f\u5417\uff1f",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.12,
+            "talk_time": 8.079999999999995,
+            "speech_ratio": 0.365280289330922,
+            "wpm": 124.77396021699819,
+            "word_count": 46,
+            "stutter_score": 0.119
+        }
+    },
+    {
+        "index": 1247,
+        "text": "It was the only thing for me to look forward to. It was my only reason to live. And then, one day, ah!\u8c01\u6293\u6211\uff1f",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.03,
+            "talk_time": 6.6400000000000015,
+            "speech_ratio": 0.36827509706045486,
+            "wpm": 86.522462562396,
+            "word_count": 26,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1258,
+        "text": "I'm coming. Five of them. One, two, three, four, five. Thank you.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.5800625,
+            "talk_time": 1.9200000000000013,
+            "speech_ratio": 0.18147340812022625,
+            "wpm": 73.72357204884187,
+            "word_count": 13,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1262,
+        "text": "It's going to be her first time riding in the convoy. She has been to the convoy before, but as a pilot, so this time she's on her own in two five R. And you can see the majority of the bikes, I would say, is taken by two five R majority. So that's awesome. It's going to be one inline four musical session.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.59,
+            "talk_time": 9.536999999999999,
+            "speech_ratio": 0.35866867243324557,
+            "wpm": 153.44114328695,
+            "word_count": 68,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1263,
+        "text": "Pull it. Good. Look the opposite side. Good. Look towards your heels and keep skating. Let's go. Speed it up. Tap. Tap. Tap. Tap. So keep breathing.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.04,
+            "talk_time": 7.600000000000003,
+            "speech_ratio": 0.36121673003802296,
+            "wpm": 79.84790874524715,
+            "word_count": 28,
+            "stutter_score": 0.1667
+        }
+    },
+    {
+        "index": 1274,
+        "text": "I brought the extra suspenders shirt just in case I need to take a shower in Golden Palace.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.1199375,
+            "talk_time": 3.76,
+            "speech_ratio": 0.3715437965896528,
+            "wpm": 106.72002668000667,
+            "word_count": 18,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1283,
+        "text": "God, Assim, Omar\u2014they're just gone, and Violet. I never thought someone would get her.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.79,
+            "talk_time": 3.440000000000001,
+            "speech_ratio": 0.2917726887192537,
+            "wpm": 81.42493638676845,
+            "word_count": 16,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1288,
+        "text": "Our media people try to tell us the half truth, but not the whole truth. But what the conclusions is the things they want to try to bring us.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.4899375,
+            "talk_time": 5.279999999999998,
+            "speech_ratio": 0.1920702802616411,
+            "wpm": 63.29588781349539,
+            "word_count": 29,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1290,
+        "text": "Hmm. Yeah. No. What is it? Oh, nothing. Speak to Theodore. All right. Uh huh. What the fuck is this bullshit? How do I speak to him? God damn it.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.0900625,
+            "talk_time": 7.520000000000002,
+            "speech_ratio": 0.31216191323704545,
+            "wpm": 74.71960689184596,
+            "word_count": 30,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1292,
+        "text": "I'm telling you that this is all on me. No. Your mother's stuff. Yeah, that journal. It was our mom's.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.86,
+            "talk_time": 3.920000000000001,
+            "speech_ratio": 0.30482115085536554,
+            "wpm": 107.30948678071539,
+            "word_count": 23,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1299,
+        "text": "Shit! Finished. I'm gonna try to reduce my health so I can do the criticals. The windbags getting even better idea.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.9199375,
+            "talk_time": 5.039999999999999,
+            "speech_ratio": 0.39009476632530143,
+            "wpm": 102.16767689472182,
+            "word_count": 22,
+            "stutter_score": 0.0
+        }
+    },
+    {
+        "index": 1305,
+        "text": "All right. Um. So, let's continue our chapter four. God damn it! All right. Oh, as well. What? Oh, all right. Speak to Acha where the stone falls. Um. Hey. Hmm.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.27,
+            "talk_time": 9.12,
+            "speech_ratio": 0.3226034665723381,
+            "wpm": 67.91651927838697,
+            "word_count": 32,
+            "stutter_score": 0.0
+        }
+    }
+]

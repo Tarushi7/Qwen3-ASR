@@ -1,0 +1,3752 @@
+[
+    {
+        "index": 1,
+        "audio_id": "RZZYq_jRzas_000004_00006295-00007839",
+        "text": "<Speaker1>: tak tahu (lah)",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.4300625,
+            "talk_time": 1.304347826086956,
+            "speech_ratio": 0.08453289324569853,
+            "wpm": 11.6655392679064,
+            "word_count": 3,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 5,
+        "audio_id": "IGAL39BgBiI_000006_00032493-00034482",
+        "text": "<Speaker1>: #(ah) melakukan tindakan yang lebih drastik, #(ah) macam itulah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.89,
+            "talk_time": 3.913043478260869,
+            "speech_ratio": 0.1967342120794806,
+            "wpm": 27.149321266968325,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 6,
+        "audio_id": "W3y70rv-QC4_000014_00013873-00015301",
+        "text": "<Speaker1>: la haula wala quwwata illa billah al aliyyul azim amma ba'd",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.2899375,
+            "talk_time": 5.217391304347827,
+            "speech_ratio": 0.36510945582147064,
+            "wpm": 50.385104903362944,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 11,
+        "audio_id": "awPhWoLmkVY_000035_00070680-00071770",
+        "text": "<Speaker1>: aku kena jo, aku lenyek dia, apa, apa, apa, (ah), apa, apa, apa.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.9,
+            "talk_time": 5.6521739130434785,
+            "speech_ratio": 0.5185480654168328,
+            "wpm": 71.55963302752293,
+            "word_count": 13,
+            "word_repetition": 0.5556,
+            "redundancy_score": 0.0909
+        }
+    },
+    {
+        "index": 15,
+        "audio_id": "1vQ0sZtALH8_000004_00011372-00014329",
+        "text": "<Speaker1>: ku turuti meski hujan turun di tengah hari kuturuti jua arah pelangi moga kilauannya jadi penawar abadi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.5799375,
+            "talk_time": 7.39130434782609,
+            "speech_ratio": 0.24987559043443178,
+            "wpm": 34.48283147995157,
+            "word_count": 17,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 27,
+        "audio_id": "11IZ6qTmzvM_000003_00004844-00007608",
+        "text": "<Speaker1>: parlimen bukan tempat untuk bertegang urat bermaki hamun atau menyebar fitnah tetapi ia adalah dewan yang mulia untuk membahaskan agenda kepentingan rakyat dan kemakmuran negara",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.6300625,
+            "talk_time": 10.869565217391305,
+            "speech_ratio": 0.3933963311661457,
+            "wpm": 54.28869370092811,
+            "word_count": 25,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 47,
+        "audio_id": "-j54mjro2dM_000042_00074642-00076588",
+        "text": "<Speaker1>: pada zaman dahulu ada seekor naga yang besar tiga satria yang hebat datang membantu tolong tolong (err) ada kecurangan",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.46,
+            "talk_time": 8.26086956521739,
+            "speech_ratio": 0.42450511640377137,
+            "wpm": 58.581706063720446,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 50,
+        "audio_id": "N0iBdmVzlrU_000020_00036242-00039084",
+        "text": "<Speaker1>: seronoknya <Speaker2>: kita dah sampai (err) hai keluarga tiar hi semua tiar ada ke ada (err) tiar dah tertidurlah kasihan tiar penat kong kuih masa untuk horay horay",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.42,
+            "talk_time": 11.73913043478261,
+            "speech_ratio": 0.4130587767340819,
+            "wpm": 57.0021111893033,
+            "word_count": 27,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 61,
+        "audio_id": "u2wGW6-CDi4_000001_00007489-00008929",
+        "text": "<Speaker1>: Bangun sekolah hari ini, (err), <Speaker2>: Mana ada sekolah hari Sabtu, <Speaker1>: Jangan bangun bapak mimpi ni.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.4,
+            "talk_time": 6.521739130434783,
+            "speech_ratio": 0.4528985507246377,
+            "wpm": 62.50000000000001,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 62,
+        "audio_id": "XJ2uRfvS9SE_000009_00024313-00026225",
+        "text": "<Speaker1>: opah dah habis menori <Speaker2>: dah tunggu korang lambat sangat opah tak pernah ke menori kita berbaloi ke e mak e tanya je",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.12,
+            "talk_time": 9.565217391304348,
+            "speech_ratio": 0.5002728761142441,
+            "wpm": 69.0376569037657,
+            "word_count": 22,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 74,
+        "audio_id": "ol2MYSDDQC0_000076_00204191-00206610",
+        "text": "<Speaker1>: ya betul betul betul pergi pergi pergi sini panas sikit",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.1800625,
+            "talk_time": 4.347826086956523,
+            "speech_ratio": 0.17981037422697,
+            "wpm": 24.81383164332185,
+            "word_count": 10,
+            "word_repetition": 0.8333,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 93,
+        "audio_id": "hQfIvNV2elw_000005_00013379-00016204",
+        "text": "<Speaker1>: gerak kan kaki awak laju cuba awak berputing laju lagi awak perlu berputing macam mana awak buat dengan bagus membawa aksi berputing nepento ya bakat saya tengok ini tudung merah saya",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.25,
+            "talk_time": 13.478260869565219,
+            "speech_ratio": 0.47710657945363605,
+            "wpm": 65.84070796460176,
+            "word_count": 31,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 94,
+        "audio_id": "sDWiaX9Y7xU_000000_00002202-00004615",
+        "text": "<Speaker1>: (oh) my god rule number two looks ya again rule number three looks ada yang bersih",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.13,
+            "talk_time": 6.9565217391304355,
+            "speech_ratio": 0.2882934827654553,
+            "wpm": 39.78450062163282,
+            "word_count": 16,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 96,
+        "audio_id": "kaY74STvqes_000286_00682853-00685676",
+        "text": "<Speaker1>: lara di pulau persinggahan ini aku terus menanti sinar kurasilangi bertemu di ruang hati terus tingkap agungnya ilalang rasi yang tersembunyi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.23,
+            "talk_time": 9.130434782608695,
+            "speech_ratio": 0.3234302083814628,
+            "wpm": 44.63336875664187,
+            "word_count": 21,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 97,
+        "audio_id": "ehDGm3yxxiM_000097_00134312-00136829",
+        "text": "<Speaker1>: (ah) dulu sebelum ini kita belajar macam-macam nabi kata be salah apa dulu (hm) nabi kata apa dulu be salah apa dulu",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.17,
+            "talk_time": 10.0,
+            "speech_ratio": 0.39729837107667854,
+            "wpm": 54.82717520858164,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0952
+        }
+    },
+    {
+        "index": 102,
+        "audio_id": "cc9IZ9DLkk0_000087_00227120-00228689",
+        "text": "<Speaker1>: gila (lah) terima kasih kerana memilih abang abang tak sangka abanglah pilihan zura yang kekal dan abadi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.6999375,
+            "talk_time": 7.391304347826089,
+            "speech_ratio": 0.4707855905685031,
+            "wpm": 64.96841149845342,
+            "word_count": 17,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 104,
+        "audio_id": "xILv8dZJMXE_000012_00028093-00030564",
+        "text": "<Speaker1>: ini jalan satu dan jalan enam jalan satu ada street crown jalan enam ada amazing tempo wagon audi jangan lupa (lah) lupa (lah) lebih mudah (lah)",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.71,
+            "talk_time": 11.304347826086959,
+            "speech_ratio": 0.4574806890362994,
+            "wpm": 63.1323350870093,
+            "word_count": 26,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 113,
+        "audio_id": "dFfIv1DvTe4_000036_00091888-00094246",
+        "text": "<Speaker1>: (oh) my God, <Speaker2>: 看他吗, <Speaker1>: 看到, liao , <Speaker2>: 看到, <Speaker1>: 他大一点, <Speaker2>: (err), if my (ah), (ah), (ah) wasn't enough ya. it doesn't hurt a little bit. <Speaker1>: 因为她不能, cha wen <Speaker2>: 这里不能, cha wen < Speaker1>: 哦, <Speaker2>: 忘记了, <Speaker1>: Okay.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.58,
+            "talk_time": 11.73913043478261,
+            "speech_ratio": 0.4978426817125789,
+            "wpm": 68.70229007633588,
+            "word_count": 27,
+            "word_repetition": 0.1304,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 114,
+        "audio_id": "VWJdoDTeLAw_000018_00033256-00034480",
+        "text": "<Speaker1>: (oh), (oh), (oh).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.24,
+            "talk_time": 1.304347826086956,
+            "speech_ratio": 0.1065643648763853,
+            "wpm": 14.705882352941176,
+            "word_count": 3,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 126,
+        "audio_id": "cbi__ba7JbA_000335_00462842-00465000",
+        "text": "<Speaker1>: tidak hitam dia tak pernah tinggal solat dia tak pernah tinggal zakat dia tak pernah tinggal puasa contoh an datang lalu ditimbang kemudian habis ditimbang",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.58,
+            "talk_time": 10.869565217391305,
+            "speech_ratio": 0.5036869887577065,
+            "wpm": 69.5088044485635,
+            "word_count": 25,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.1739
+        }
+    },
+    {
+        "index": 138,
+        "audio_id": "0udPrbtxyKg_000018_00091634-00092971",
+        "text": "<Speaker1>: dalam keadaan Allah menetapkan burung-burung itu tidak jatuh innafiza likalayatilikaumayyumin sesungguhnya",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.3600625,
+            "talk_time": 5.217391304347826,
+            "speech_ratio": 0.39052147430806006,
+            "wpm": 53.891963454512286,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 141,
+        "audio_id": "u0OFlvt4Ib4_000052_00080631-00082504",
+        "text": "<Speaker1>: (oh) boy",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.73,
+            "talk_time": 0.8695652173913047,
+            "speech_ratio": 0.04642633301608674,
+            "wpm": 6.406833956219968,
+            "word_count": 2,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 144,
+        "audio_id": "t9H37U1lp6c_000027_00051112-00052851",
+        "text": "<Speaker1>: K, (oh), kita kena, makar, (ah), dekat sini, (oh), Antak, Nisa boleh, (lah), !hey!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.39,
+            "talk_time": 6.086956521739132,
+            "speech_ratio": 0.35002625196889775,
+            "wpm": 48.30362277170788,
+            "word_count": 14,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 145,
+        "audio_id": "M96pdOLKqwc_000001_00001257-00003740",
+        "text": "<Speaker1>: (uh), Surah Al-Fatihah, (ah), alhamdulillah, rabbil alamin, arrahman, arrahim, maliki yaumuddin.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.83,
+            "talk_time": 5.217391304347826,
+            "speech_ratio": 0.21012449876551859,
+            "wpm": 28.997180829641565,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 147,
+        "audio_id": "s-cao7Kb854_000003_00005915-00007917",
+        "text": "<Speaker1>: aduh sakitnya kau orang belanja (lah) (hm) (hm) kau ada berapa kau ada ni (ah) tak cukup",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.02,
+            "talk_time": 7.391304347826089,
+            "speech_ratio": 0.3691960213699345,
+            "wpm": 50.94905094905095,
+            "word_count": 17,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 148,
+        "audio_id": "---Y3oTD6Wk_000045_00099643-00102303",
+        "text": "<Speaker1>: ini adalah ilmu ma al wunna demung dua harakat pada masrah syamim ya bisharrim minzalikumu nuramati bertemu dengan rai juga ikhfa hakiki minzalikumu ikhfa hakiki demung dua harakat dan",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.6,
+            "talk_time": 12.608695652173914,
+            "speech_ratio": 0.4740111147433802,
+            "wpm": 65.41353383458646,
+            "word_count": 29,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.037
+        }
+    },
+    {
+        "index": 168,
+        "audio_id": "HZFpZIk8LF4_000001_00008138-00010702",
+        "text": "<Speaker1>: taklah kena lutut dia takkan kena fesyen kat sini ini tak lutut ini kena dulu pastu ini keluar ni nampak tak ada tak ada tak ada kesan pun",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.64,
+            "talk_time": 12.173913043478263,
+            "speech_ratio": 0.47480160075968264,
+            "wpm": 65.52262090483619,
+            "word_count": 28,
+            "word_repetition": 0.0833,
+            "redundancy_score": 0.0769
+        }
+    },
+    {
+        "index": 196,
+        "audio_id": "uKziTsFqxh0_000045_00104474-00107128",
+        "text": "<Speaker1>: (oh), (oh), (oh).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.54,
+            "talk_time": 1.304347826086957,
+            "speech_ratio": 0.04914648930244751,
+            "wpm": 6.782215523737755,
+            "word_count": 3,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 202,
+        "audio_id": "eFpKNCykI8w_000075_00150743-00152815",
+        "text": "<Speaker1>: (err) kenapa adam <Speaker2>: adam suka main drum <Speaker1>: tapi boleh ke adam main",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.72,
+            "talk_time": 5.217391304347827,
+            "speech_ratio": 0.25180459963068663,
+            "wpm": 34.749034749034756,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 204,
+        "audio_id": "nx189nNW-z8_000034_00110653-00112975",
+        "text": "<Speaker1>: ya betul betul betul betul betul betul",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.22,
+            "talk_time": 3.0434782608695645,
+            "speech_ratio": 0.13107141519679436,
+            "wpm": 18.087855297157624,
+            "word_count": 7,
+            "word_repetition": 1.0,
+            "redundancy_score": 0.6
+        }
+    },
+    {
+        "index": 208,
+        "audio_id": "DjniF8r8wEA_000013_00077693-00080516",
+        "text": "<Speaker1>: (oh), okay, okay, okay, guys, guys, guys, girls, girls, girls, guys, girls, can see your light, duduk diam, duduk, diam, duduk, diam duduk, diam, Shh, diam, diam, diam, okay, rizwan dah fallen, okay, okay, okay boleh tahan, boleh tahan, boleh tahan relax jer, relax jer, relax jer one one, alamak tertersebut nama one pula, one relax jer, one dah tersebut sebut jer, (lah), ya, (oh) !woo!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.2200625,
+            "talk_time": 28.2200625,
+            "speech_ratio": 1.0,
+            "wpm": 140.32569913691722,
+            "word_count": 66,
+            "word_repetition": 0.4032,
+            "redundancy_score": 0.1562
+        }
+    },
+    {
+        "index": 209,
+        "audio_id": "KdClNOy1hiw_000031_00082245-00083548",
+        "text": "<Speaker1>: terima kasih",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.0200625,
+            "talk_time": 0.8695652173913047,
+            "speech_ratio": 0.06678656246014984,
+            "wpm": 9.216545619500675,
+            "word_count": 2,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 210,
+        "audio_id": "CwAFar6X3g8_000059_00114826-00116030",
+        "text": "<Speaker1>: ya nak, (hm), nak, sikit lagi kau, (hm), (hm), (hm)",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.04,
+            "talk_time": 4.347826086956523,
+            "speech_ratio": 0.36111512350137237,
+            "wpm": 49.83388704318938,
+            "word_count": 10,
+            "word_repetition": 0.1667,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 220,
+        "audio_id": "QAXIW31oKaw_000056_00114724-00117035",
+        "text": "<Speaker1>: banyak siput berok siput berok banyak jatuh mana lapa saya pernah dengar bunyi dia macam bunyi tv (ah) dengar tak dalam ni tak boleh buka",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.11,
+            "talk_time": 10.869565217391305,
+            "speech_ratio": 0.4703403382687713,
+            "wpm": 64.90696668109044,
+            "word_count": 25,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 222,
+        "audio_id": "-0nB2SJ-HZk_000002_00004941-00007570",
+        "text": "<Speaker1>: Assalamualaikum Warahmatullahi Wabarakatuh Alhamdulillah Alhamdulillah Alhamdulillah Al-Amin Al-Mursalin Al-Amin Al-Amin Al- Amin Al-Amin Al-amin Al-Amin Al- amin Al-Amin Al-AMIN Al-Amin Al-MIN Al-AMIN Al-AMIN Al-MIN Al-Amin Al- MIN Al-AMIN Al- Amin Al-AMIN Al-amin Al-amin Al-AMIN Al- amin Al-amin Al- Amin Al-amin Al- amin Al- Amin Al- Amin Al- amin Al- amin Al-AMIN Al- MIN Al-Amin Al-min Al-amin Al-min Al-Amin Al- min Al-amin Al- min Al-Amin Al- Min Al-amin Al-Min Al-amin Al- Min Al-Amin Al-Min Al-Amin Al- MIn Al-Amin Al-m",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.29,
+            "talk_time": 26.29,
+            "speech_ratio": 1.0,
+            "wpm": 264.73944465576267,
+            "word_count": 116,
+            "word_repetition": 0.6964,
+            "redundancy_score": 0.8684
+        }
+    },
+    {
+        "index": 224,
+        "audio_id": "EorORqoub0c_000029_00040783-00042059",
+        "text": "<Speaker1>: aku speechless (ah) tadi aku tak tahu macam mana dia, the boss, (err), geng.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.7699375,
+            "talk_time": 6.086956521739131,
+            "speech_ratio": 0.47666298458697476,
+            "wpm": 65.77949187300251,
+            "word_count": 14,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 231,
+        "audio_id": "bR0MHAGm_Qg_000130_00267286-00268991",
+        "text": "<Speaker1>: aku telah mengorbankan seluruh hidupku pada cinta yang teraku telah aku utukan jiwa dan raga ku menjadi hamba",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.0599375,
+            "talk_time": 7.826086956521739,
+            "speech_ratio": 0.4587406581367452,
+            "wpm": 63.30621082287084,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 241,
+        "audio_id": "OaUGg0hor0I_000005_00010142-00012738",
+        "text": "<Speaker1>: tarian sukanag pak gu kita patang tarian sukanag kita patang kita patang kita patan kita patang kita patangan kita patang kita pat ang kita patang kita patag kita patang kita",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.96,
+            "talk_time": 13.043478260869568,
+            "speech_ratio": 0.5024452334695519,
+            "wpm": 69.33744221879815,
+            "word_count": 30,
+            "word_repetition": 0.2692,
+            "redundancy_score": 0.1786
+        }
+    },
+    {
+        "index": 243,
+        "audio_id": "0df0fpXZxdI_000030_00078800-00080568",
+        "text": "<Speaker1>: (ah) manick goal sana manick",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.68,
+            "talk_time": 2.1739130434782616,
+            "speech_ratio": 0.12295888254967544,
+            "wpm": 16.968325791855204,
+            "word_count": 5,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 245,
+        "audio_id": "JfMxSvXu5po_000007_00006526-00008044",
+        "text": "<Speaker1>: Allahumma sholli wasallim ala rasulillah wa ala alihi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.1700625,
+            "talk_time": 3.4782608695652186,
+            "speech_ratio": 0.2292845444483316,
+            "wpm": 31.64126713386975,
+            "word_count": 8,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 253,
+        "audio_id": "qNc3AjTP98I_000005_00022153-00023235",
+        "text": "<Speaker1>: keluar dari rumahnya untuk melaksanakan tawaf di sekitar kaabah",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.8299375,
+            "talk_time": 3.9130434782608705,
+            "speech_ratio": 0.3613172724460202,
+            "wpm": 49.86178359755077,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 258,
+        "audio_id": "hk8MvMO9pxU_000028_00046162-00047433",
+        "text": "<Speaker1>: pegangan bukan cakap cakap pegangan (err) tekok pegangan kita bukan cakap cakap",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.71,
+            "talk_time": 5.217391304347827,
+            "speech_ratio": 0.41049498854034827,
+            "wpm": 56.64830841856806,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.1
+        }
+    },
+    {
+        "index": 266,
+        "audio_id": "-F3rGgj5AZw_000093_00165499-00168283",
+        "text": "<Speaker1>: di di jojo kenapa ni kami belum menang lagi jangan risau kita ada satu acara lagi yang penting kena kerjasama kan maaf ye jojo jojo pun minta maaf jom kita cuba lagi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.84,
+            "talk_time": 13.913043478260871,
+            "speech_ratio": 0.4997501249375313,
+            "wpm": 68.9655172413793,
+            "word_count": 32,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 269,
+        "audio_id": "zyY3JOSXraQ_000077_00146351-00147508",
+        "text": "<Speaker1>: weh aku boleh lemas budak ini",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.57,
+            "talk_time": 2.608695652173913,
+            "speech_ratio": 0.2254706700236744,
+            "wpm": 31.114952463267066,
+            "word_count": 6,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 273,
+        "audio_id": "S1iCYPTfP2E_000000_00000000-00001395",
+        "text": "<Speaker1>: 哦哦哦哦哦哦",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.95,
+            "talk_time": 0,
+            "speech_ratio": 0.0,
+            "wpm": 0.0,
+            "word_count": 0,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 283,
+        "audio_id": "cllsLwCwOj4_000000_00000000-00002890",
+        "text": "<Speaker1>: (ah) saya tulis nama",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.9,
+            "talk_time": 1.7391304347826093,
+            "speech_ratio": 0.06017752369489998,
+            "wpm": 8.304498269896195,
+            "word_count": 4,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 284,
+        "audio_id": "rpNzC6ZAXjk_000008_00030141-00032487",
+        "text": "<Speaker1>: (hm), (hm), (hm).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.46,
+            "talk_time": 1.304347826086957,
+            "speech_ratio": 0.055598799065940195,
+            "wpm": 7.672634271099745,
+            "word_count": 3,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 292,
+        "audio_id": "gUu0Yd5bF9o_000077_00234774-00237723",
+        "text": "<Speaker1>: (ah), (oh), (oh), (ah), (oh).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.49,
+            "talk_time": 2.1739130434782616,
+            "speech_ratio": 0.07371695637430525,
+            "wpm": 10.172939979654121,
+            "word_count": 5,
+            "word_repetition": 1.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 296,
+        "audio_id": "Z-p2j6K65Xk_000000_00001003-00003263",
+        "text": "<Speaker1>: kalau macam ada Petronas dekat dekat ke apa benda ke berhenti sekejap (err) ni rasa macam nak muntah (lah) <Speaker2>: berhenti sekejap sekejap sekejah sekejap <Speaker1>: bapa bapa bapa ba ba ba ba ba ba pa ba ba ba ba ba",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.6,
+            "talk_time": 16.956521739130437,
+            "speech_ratio": 0.7502885725278954,
+            "wpm": 103.53982300884954,
+            "word_count": 39,
+            "word_repetition": 0.4286,
+            "redundancy_score": 0.1622
+        }
+    },
+    {
+        "index": 299,
+        "audio_id": "YxrrBd12Zjs_000013_00046628-00049339",
+        "text": "<Speaker1>: (oh), apa lagi ni, slow slow slow, aku nak stop dia kata, dia, nak mati, jangan mati, mati, jangan mati, wei, go, go, relax, relax, relax, wei, I'm Jimmy, Jimmy.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.11,
+            "talk_time": 13.478260869565219,
+            "speech_ratio": 0.49716934229307336,
+            "wpm": 68.60936923644412,
+            "word_count": 31,
+            "word_repetition": 0.3704,
+            "redundancy_score": 0.0345
+        }
+    },
+    {
+        "index": 303,
+        "audio_id": "3Jkh9F1Vvdg_000017_00026010-00027650",
+        "text": "<Speaker1>: (ah), aduh, ingat kan dia, kita tiga orang.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.4,
+            "talk_time": 3.4782608695652186,
+            "speech_ratio": 0.21208907741251334,
+            "wpm": 29.26829268292683,
+            "word_count": 8,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 304,
+        "audio_id": "msil_mbzjns_000087_00161875-00164265",
+        "text": "<Speaker1>: (hm) kau berdua tak nak balik tak nak kita orang nak makan lagi iyalah hati hati jalan opa (um) (oh) (oh) (um) (oh)!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.9,
+            "talk_time": 10.0,
+            "speech_ratio": 0.4184100418410042,
+            "wpm": 57.74058577405858,
+            "word_count": 23,
+            "word_repetition": 0.0526,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 311,
+        "audio_id": "Zgv-HnuUGzE_000112_00225007-00226558",
+        "text": "<Speaker1>: salah satu dari mereka pun tidak tahu bagaimana membedakan antara yang halal dan haram",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.5199375,
+            "talk_time": 6.086956521739131,
+            "speech_ratio": 0.39220238623635767,
+            "wpm": 54.123929300617355,
+            "word_count": 14,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 317,
+        "audio_id": "_tYBhWXXU14_000005_00003480-00004932",
+        "text": "<Speaker1>: selepas mandi kita buat apa makan (err) air melimpah kenapa rumah didi banjir",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.52,
+            "talk_time": 5.652173913043479,
+            "speech_ratio": 0.38926817582944073,
+            "wpm": 53.719008264462815,
+            "word_count": 13,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 320,
+        "audio_id": "cZ7_W1BhZ6w_000019_00039952-00041717",
+        "text": "<Speaker1>: (oh), sakit, sakit, sakit, (oh), sakit, (oh), Sakit, sakit, sakit, sakit.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.65,
+            "talk_time": 4.782608695652174,
+            "speech_ratio": 0.2709693311984235,
+            "wpm": 37.39376770538244,
+            "word_count": 11,
+            "word_repetition": 1.0,
+            "redundancy_score": 0.4444
+        }
+    },
+    {
+        "index": 321,
+        "audio_id": "xLKxe744HHs_000005_00006202-00007654",
+        "text": "<Speaker1>: ya Allah, ya Allah, ya Allah ya Allah ya Allah ya Rabbal min birsiku, ya Allah ya Allah, ya Allah.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.5100625,
+            "talk_time": 8.695652173913043,
+            "speech_ratio": 0.5992842673085,
+            "wpm": 82.70122888857301,
+            "word_count": 20,
+            "word_repetition": 0.5625,
+            "redundancy_score": 0.6111
+        }
+    },
+    {
+        "index": 326,
+        "audio_id": "XuwpaZsIDzU_000010_00026018-00028390",
+        "text": "<Speaker1>: (ah) (wah) gembira semua ya mestilah sebab ada istana besar dapat berenang alhamdulillah kalau dapat ais krim mesti lagi best abang omar tunggu ya",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.7299375,
+            "talk_time": 10.43478260869565,
+            "speech_ratio": 0.43973072447812606,
+            "wpm": 60.6828399779814,
+            "word_count": 24,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 327,
+        "audio_id": "KS8jsHdYwZM_000004_00004204-00005863",
+        "text": "<Speaker1>: surat nah ini untuk kamu bing untuk saya dari sulakah untuk kepastian bukalah memang dari sulah",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.59,
+            "talk_time": 6.956521739130435,
+            "speech_ratio": 0.41932017716277487,
+            "wpm": 57.86618444846293,
+            "word_count": 16,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 334,
+        "audio_id": "yCSTM5xLihs_000189_00537746-00539824",
+        "text": "<Speaker1>: itu meser bergoli tengok roda panjang tu (oh) (oh) (oh), (oh), (oh) (oh).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.78,
+            "talk_time": 5.652173913043478,
+            "speech_ratio": 0.2720006695401096,
+            "wpm": 37.536092396535125,
+            "word_count": 13,
+            "word_repetition": 0.4444,
+            "redundancy_score": 0.2727
+        }
+    },
+    {
+        "index": 336,
+        "audio_id": "ri0c9ylwFOQ_000027_00056363-00058525",
+        "text": "<Speaker1>: pada malam ini bertemu untuk kuliah live online kita di bawah anjuran ataupun tajaan suruhanjaya pendidikan swasta (err)",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.62,
+            "talk_time": 7.826086956521739,
+            "speech_ratio": 0.361983670514419,
+            "wpm": 49.95374653098982,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 346,
+        "audio_id": "T2RIXaYJTD4_000004_00010666-00012147",
+        "text": "<Speaker1>: rukuk iktidal bersama taqnin iktidal bersama taqni sujud bersama taqni",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.81,
+            "talk_time": 4.347826086956523,
+            "speech_ratio": 0.2935736723130671,
+            "wpm": 40.513166779203246,
+            "word_count": 10,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 350,
+        "audio_id": "mOfDrFoGDqI_000022_00030966-00033564",
+        "text": "<Speaker1>: kau tahu ke tak tahu, slow, slow, slow, (ah), selek, selek, selek slow, slow, slow slow, slow, slow.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.98,
+            "talk_time": 7.826086956521738,
+            "speech_ratio": 0.3012350637614218,
+            "wpm": 41.570438799076214,
+            "word_count": 18,
+            "word_repetition": 0.7143,
+            "redundancy_score": 0.25
+        }
+    },
+    {
+        "index": 352,
+        "audio_id": "6ZE78KEGjP8_000223_00437583-00439328",
+        "text": "<Speaker1>: (oh) gopal itu ke pohon itu jadi pisang (lah) (wah) gila cool memang gila cool aduh (err) apa jadi tadi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.45,
+            "talk_time": 8.695652173913043,
+            "speech_ratio": 0.49831817615547525,
+            "wpm": 68.76790830945559,
+            "word_count": 20,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 355,
+        "audio_id": "IRy9HAoFSBY_000075_00162621-00164740",
+        "text": "<Speaker1>: bodoh (lah) kenapa aku jadi benda ni (err) baru aku nampak tu",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.19,
+            "talk_time": 5.217391304347825,
+            "speech_ratio": 0.24621950468842968,
+            "wpm": 33.9782916470033,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 360,
+        "audio_id": "9x_849Vgy6k_000006_00005368-00007306",
+        "text": "<Speaker1>: wa anarash sha ira bi anwarie au safhih wali adli zalika afalat anwaruz zawaheri walam taful",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.38,
+            "talk_time": 6.956521739130435,
+            "speech_ratio": 0.3589536501099296,
+            "wpm": 49.53560371517028,
+            "word_count": 16,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 365,
+        "audio_id": "P7Iep801e2g_000001_00004648-00006172",
+        "text": "<Speaker1>: saya cuba tunjuk ni pandangan dia kata (err) kawan saya ini apa nak kita menang",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.24,
+            "talk_time": 6.521739130434783,
+            "speech_ratio": 0.4279356384799726,
+            "wpm": 59.05511811023622,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 367,
+        "audio_id": "YNVDP9LqkoI_000099_00178530-00180871",
+        "text": "<Speaker1>: assalamualaikum ha kawan-kawan tahu tak kita kena tidur awal malam malam kan waktu berehat barulah bangun cergas bertenaga alhamdulillah",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.41,
+            "talk_time": 8.695652173913043,
+            "speech_ratio": 0.37145032780491427,
+            "wpm": 51.26014523707818,
+            "word_count": 20,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 368,
+        "audio_id": "28OJTcNrTrg_000037_00117451-00119139",
+        "text": "<Speaker1>: (oh) apa mana dia pergi aku tak tahu pun",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.88,
+            "talk_time": 3.913043478260871,
+            "speech_ratio": 0.23181537193488574,
+            "wpm": 31.990521327014218,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 369,
+        "audio_id": "705ySHRSD0Q_000003_00011892-00013711",
+        "text": "<Speaker1>: bismillah irrahmanirrahim bismillah irrahmanirahim assalamualaikum warahmatullahi wabarakatuh bismillah irrahman irrahim assalamualaikum warah matullahi wabarakatoh bismillah irrahman irahim assalamualaikum warah",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.1999375,
+            "talk_time": 8.260869565217394,
+            "speech_ratio": 0.45389549086184466,
+            "wpm": 62.63757773893454,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 372,
+        "audio_id": "5KU7cE_2-rc_000072_00191386-00193814",
+        "text": "<Speaker1>: maksud seroja tu masa lafaz akad betul ke aku terima nikah nya johnya johnya binte baba dengan mas kawin blah blah blah blah blah blah apa nama dia",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.28,
+            "talk_time": 12.173913043478263,
+            "speech_ratio": 0.5013967480839482,
+            "wpm": 69.19275123558485,
+            "word_count": 28,
+            "word_repetition": 0.25,
+            "redundancy_score": 0.1154
+        }
+    },
+    {
+        "index": 373,
+        "audio_id": "7qlTfNF7G5k_000038_00066668-00067883",
+        "text": "<Speaker1>: (oh) ya (oh) ya (err) (oh) ya (ah) (oh) ya",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.1400625,
+            "talk_time": 4.3478260869565215,
+            "speech_ratio": 0.3581386905509359,
+            "wpm": 49.423139296029156,
+            "word_count": 10,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 389,
+        "audio_id": "_JaxrD-ap4s_000135_00188548-00189592",
+        "text": "<Speaker1>: kita boleh berbeza pandangan dan ijtihad politik pakcik makcik otokron",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.44,
+            "talk_time": 4.3478260869565215,
+            "speech_ratio": 0.4164584374479427,
+            "wpm": 57.4712643678161,
+            "word_count": 10,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 394,
+        "audio_id": "360nuMp8hOE_000011_00034362-00036395",
+        "text": "<Speaker1>: target tu (err) (ah) tolong betul (lah) betul (lah) tu (ah) badan jangan tinggi tangan jangan tinggi tarik (oh) (err)",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.33,
+            "talk_time": 8.695652173913047,
+            "speech_ratio": 0.4277251438225798,
+            "wpm": 59.02606984751599,
+            "word_count": 20,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 399,
+        "audio_id": "nAvjeq60GGc_000006_00014257-00016585",
+        "text": "<Speaker1>: (err) korang pun apa kekurangannya (err) tok abang dah sampai (wah) comelnya mana tok abang dapat van ini (err) sarah masukkan barang jauh perjalanan kita ni",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.2899375,
+            "talk_time": 11.304347826086959,
+            "speech_ratio": 0.4853747600691053,
+            "wpm": 66.98171688953651,
+            "word_count": 26,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 405,
+        "audio_id": "-F3rGgj5AZw_000189_00346174-00347358",
+        "text": "<Speaker1>: haa tia tengok apa tu tu lembu (lah) betul pandainya tia",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.8499375,
+            "talk_time": 4.782608695652176,
+            "speech_ratio": 0.40359779919954647,
+            "wpm": 55.69649628953739,
+            "word_count": 11,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 407,
+        "audio_id": "IvjKHZ93J5Q_000037_00090471-00093104",
+        "text": "<Speaker1>: (ah) abang kenapa kamu tinggalin saya aku kagak sama kamu aku gak suka begini deh",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.3200625,
+            "talk_time": 6.521739130434785,
+            "speech_ratio": 0.24778585272868503,
+            "wpm": 34.194447676558525,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 408,
+        "audio_id": "WP7dxvN9JEM_000023_00033227-00034946",
+        "text": "<Speaker1>: (ah) dinding (err) jalan yang aku bagi tadi (err) jalan mati ke (oh) (lah) biar betul sembilan lima minit",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.1999375,
+            "talk_time": 8.260869565217394,
+            "speech_ratio": 0.48028485947797156,
+            "wpm": 66.27931060796006,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 413,
+        "audio_id": "KneATkJEu28_000000_00000967-00003910",
+        "text": "<Speaker1>: semua rakyat malaysia dan satu dunia terutamanya parliament australia amerika syarikat semua ketahui kes datuk seri anwar ibrahim adalah kes politik bukan jenayah",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.43,
+            "talk_time": 10.0,
+            "speech_ratio": 0.3397893306150187,
+            "wpm": 46.89092762487258,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 415,
+        "audio_id": "NOGt6TVqi50_000034_00062168-00064612",
+        "text": "<Speaker1>: (oh) ya cover <Speaker2>: spaghetti <Speaker1>: what's <Speaker2>: give it <Speaker1>: !aiyo! !(wah)! !(wah)! !(wah)!, !oo! sakit gila dia balik gila ke apa",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.4300625,
+            "talk_time": 8.695652173913047,
+            "speech_ratio": 0.3559406437831687,
+            "wpm": 49.11980884207726,
+            "word_count": 20,
+            "word_repetition": 0.1875,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 418,
+        "audio_id": "TkZ5jkBgBzM_000172_00343250-00345454",
+        "text": "<Speaker1>: (ah) ya ke baik pergi sekarang (oh) okay kami pergi dulu assalamualaikum waalaikumussalam (wah) omar dan hana dapat kawan baru (lah) baru kenal tadi (err)",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.0499375,
+            "talk_time": 10.869565217391305,
+            "speech_ratio": 0.49295220076661467,
+            "wpm": 68.02740370579282,
+            "word_count": 25,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 426,
+        "audio_id": "93BcfTaBR5U_000018_00040664-00042267",
+        "text": "<Speaker1>: (oh) ini kua kua hancur gearbox bunyi kua kua sudah okay sudah masuk minyak tidak ada bunyi lagi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.03,
+            "talk_time": 7.826086956521741,
+            "speech_ratio": 0.4882150315983618,
+            "wpm": 67.37367436057393,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 431,
+        "audio_id": "reb2SQ_DR_Y_000015_00049564-00051713",
+        "text": "<Speaker1>: sudahlah aku sudahlah aku sudahlah sudahlah aku sudahlah",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.49,
+            "talk_time": 3.478260869565217,
+            "speech_ratio": 0.16185485665729257,
+            "wpm": 22.335970218706375,
+            "word_count": 8,
+            "word_repetition": 1.0,
+            "redundancy_score": 0.3333
+        }
+    },
+    {
+        "index": 437,
+        "audio_id": "iIjKjDmy41o_000155_00350994-00352056",
+        "text": "<Speaker1>: (oh) ya",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.62,
+            "talk_time": 0.8695652173913047,
+            "speech_ratio": 0.08187996397281588,
+            "wpm": 11.299435028248588,
+            "word_count": 2,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 446,
+        "audio_id": "KP_t3D3bLPo_000009_00022548-00024863",
+        "text": "<Speaker1>: (err), tapi sini, kau kena, aku, aku menang, (ah), kau, kalah, kan, dia, tengah, kalah, kan, Dia, tengah, kalah, (oh), red bean juice, red bean juice.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.15,
+            "talk_time": 11.304347826086959,
+            "speech_ratio": 0.4883087613860458,
+            "wpm": 67.38660907127431,
+            "word_count": 26,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.1667
+        }
+    },
+    {
+        "index": 459,
+        "audio_id": "82ZyJwiCmcM_000001_00009308-00011978",
+        "text": "<Speaker1>: pula menceritakan kisah dengan plot dan juga watak selalunya kisah-kisah ini adalah situasi lucu yang bertujuan untuk menimbulkan ketawa dari penonton",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.7,
+            "talk_time": 9.565217391304348,
+            "speech_ratio": 0.35824784237094937,
+            "wpm": 49.438202247191015,
+            "word_count": 22,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 467,
+        "audio_id": "QRAscdv_TuY_000045_00083538-00086488",
+        "text": "<Speaker1>: tengok saya <Speaker2>: (oh), (oh), (oh) (oh), (oh). <Speaker1>: tengok, saya, <Speaker2>: (uh), (huh), (oh), (uh), (oh), (ah), (oh), (err), (oh), (um), (oh), (hm), (oh), (huh), (uh), (uh), (huh).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.5,
+            "talk_time": 11.304347826086955,
+            "speech_ratio": 0.38319823139277814,
+            "wpm": 52.88135593220339,
+            "word_count": 26,
+            "word_repetition": 0.4091,
+            "redundancy_score": 0.0833
+        }
+    },
+    {
+        "index": 468,
+        "audio_id": "cwBdVKlzFt4_000165_00417890-00420005",
+        "text": "<Speaker1>: tapi sejak ibu hilang ayah tukar kepada sebab ibu suka makan buah semangka masa pregnant saya (oh) macam itu pun ada",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.1599375,
+            "talk_time": 9.130434782608699,
+            "speech_ratio": 0.4314963020381652,
+            "wpm": 59.54648968126678,
+            "word_count": 21,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 476,
+        "audio_id": "6htMAKaNf24_000023_00085968-00087265",
+        "text": "<Speaker1>: nampak daripada luar macam milo tabur but it is not manis berkerim",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.9600625,
+            "talk_time": 5.217391304347827,
+            "speech_ratio": 0.402574548104828,
+            "wpm": 55.555287638466254,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 479,
+        "audio_id": "JvIa84M9LkA_000013_00040151-00041371",
+        "text": "<Speaker1>: (ah), (ah), (ah) (ah), (ah).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.2099375,
+            "talk_time": 2.1739130434782608,
+            "speech_ratio": 0.178044567671068,
+            "wpm": 24.57015033860738,
+            "word_count": 5,
+            "word_repetition": 1.0,
+            "redundancy_score": 0.6667
+        }
+    },
+    {
+        "index": 480,
+        "audio_id": "Y7YVao5ahVI_000004_00007131-00008619",
+        "text": "<Speaker1>: bahawa anggota perkhidmatan awam negeri selangor akan dianugerahkan satu bulan gaji bantuan khas kewangan pada tahun ini",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.88,
+            "talk_time": 7.391304347826088,
+            "speech_ratio": 0.4967274427302478,
+            "wpm": 68.54838709677419,
+            "word_count": 17,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 482,
+        "audio_id": "UOt_LQofmqQ_000203_00437434-00439408",
+        "text": "<Speaker1>: yang mampu membuatnya lalai akan pintahmu ya allah rob jika dia memang bukan untukku berikan aku keikhlasan untuk bisa merelakannya bersama orang lain",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.74,
+            "talk_time": 10.0,
+            "speech_ratio": 0.5065856129685917,
+            "wpm": 69.90881458966565,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 493,
+        "audio_id": "KoQhX6-7ktM_000082_00153130-00155293",
+        "text": "<Speaker1>: bangau tak jumpa ikan (hm) (err) buat apa dekat sampan baatann ni (hah) sampan baatann (hm) (ah) (lah) jadi mana sampan bangau (loh) tu",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.63,
+            "talk_time": 10.434782608695652,
+            "speech_ratio": 0.4824217572212507,
+            "wpm": 66.57420249653259,
+            "word_count": 24,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 497,
+        "audio_id": "HSMhH2CIzMA_000048_00081022-00082462",
+        "text": "<Speaker1>: (oh) ya (oh) ya (ah) (oh) ya (err) (err) (err)(oh) ya (oh)(oh) ya (ah)(oh) ya (err)(err)(err) (oh) ya",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.3900625,
+            "talk_time": 10.0,
+            "speech_ratio": 0.6949240144023001,
+            "wpm": 95.89951398751742,
+            "word_count": 23,
+            "word_repetition": 0.4737,
+            "redundancy_score": 0.4286
+        }
+    },
+    {
+        "index": 501,
+        "audio_id": "qTjOtWy1iB8_000000_00000000-00001206",
+        "text": "<Speaker1>: bila ada gosip masuk sepatang sikitlah cikgu cikgu masuk kereta gosip dalam kereta",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.0699375,
+            "talk_time": 5.6521739130434785,
+            "speech_ratio": 0.4682852676779377,
+            "wpm": 64.6233669395554,
+            "word_count": 13,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 509,
+        "audio_id": "LMlQzoM-tUg_000001_00000710-00002327",
+        "text": "<Speaker1>: (ah) bila masa ada katak kucing (ah) comelnya (ah) (ah) (ah).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.1600625,
+            "talk_time": 4.782608695652176,
+            "speech_ratio": 0.29595236377657425,
+            "wpm": 40.84142620116723,
+            "word_count": 11,
+            "word_repetition": 0.2857,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 512,
+        "audio_id": "bzzR_wns1U0_000003_00013105-00015972",
+        "text": "<Speaker1>: (ah) itu terpulang kepada orang melayu sama ada mereka nak support (ah) the original ataupun orang yang betul betul pada asalnya bantu orang melayu ataupun parti sebaliknya yang ingin memperjuangkan ketuanan melayu (lah)",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.67,
+            "talk_time": 14.347826086956523,
+            "speech_ratio": 0.5004473696182952,
+            "wpm": 69.06173700732472,
+            "word_count": 33,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 516,
+        "audio_id": "KpwJWqHsbSQ_000004_00009948-00012437",
+        "text": "<Speaker1>: hello, oi, geng, saya campur dulu, geng, saya ini dah boleh lari, aduh, ramai pula kat sini, (err), sudahlah, sudahlah, sudahlah sudahlah, sudahlah keluar, (err), boss.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.89,
+            "talk_time": 11.304347826086955,
+            "speech_ratio": 0.45417227103603675,
+            "wpm": 62.675773402973086,
+            "word_count": 26,
+            "word_repetition": 0.2273,
+            "redundancy_score": 0.0833
+        }
+    },
+    {
+        "index": 518,
+        "audio_id": "RvGyn5RB5H8_000049_00143327-00145050",
+        "text": "<Speaker1>: (oh) no, rokiyo kena panjat ke nak selamat kena panjat ke panjat ke tangga tu (oh) tu dia tu",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.23,
+            "talk_time": 8.260869565217394,
+            "speech_ratio": 0.4794468697166218,
+            "wpm": 66.16366802089378,
+            "word_count": 19,
+            "word_repetition": 0.0667,
+            "redundancy_score": 0.0588
+        }
+    },
+    {
+        "index": 519,
+        "audio_id": "PZupVbFtXcM_000022_00043406-00045406",
+        "text": "<Speaker1>: 拜拜拜拜拜拜",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.0,
+            "talk_time": 0,
+            "speech_ratio": 0.0,
+            "wpm": 0.0,
+            "word_count": 0,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 521,
+        "audio_id": "e_FhmZVqxYo_000127_00237184-00239152",
+        "text": "<Speaker1>: hannah jangan senyap macam ni kita nak buat apa sekarang, <Speaker2>: Kita Pindah, Okay, <Speaker1>: Where mana <Speaker2>: Anyway, just just not here. <Speaker1>: hannah",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.6899375,
+            "talk_time": 9.130434782608695,
+            "speech_ratio": 0.463710704140564,
+            "wpm": 63.99207717139783,
+            "word_count": 21,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 524,
+        "audio_id": "D7wt3BN6IW0_000100_00199165-00200738",
+        "text": "<Speaker1>: bunyi apa tu (oh) sudah weh bunyi apa tu tu bunyi babi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.7200625,
+            "talk_time": 5.217391304347826,
+            "speech_ratio": 0.331893801589391,
+            "wpm": 45.80134461933596,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.1
+        }
+    },
+    {
+        "index": 532,
+        "audio_id": "zaqnwWZUoqU_000004_00005844-00008586",
+        "text": "<Speaker1>: sekali dikata cinta selamanya setia ku berjanji bersumpah takkan ku menduakan setelah lama mata berjumpa rasa rindu membara marilah kita keluar bersama",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.4100625,
+            "talk_time": 9.565217391304351,
+            "speech_ratio": 0.34896736887427204,
+            "wpm": 48.15749690464953,
+            "word_count": 22,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 538,
+        "audio_id": "o5jgwj75pSQ_000015_00028166-00030550",
+        "text": "<Speaker1>: (err) apa ni pelik ada bulu pelepah mesti pencuri ikan punya warna macam abang eddie punya ha tu pencuri pencuri (err) kita belum habis siasat lagi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.84,
+            "talk_time": 11.304347826086957,
+            "speech_ratio": 0.4741756638459294,
+            "wpm": 65.43624161073825,
+            "word_count": 26,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 543,
+        "audio_id": "3jLwnWIgE7M_000201_00409204-00410945",
+        "text": "<Speaker1>: (oh) gopal tu ke benda tu jadi piza (lah) (wah) gila cool memang gila cool aduh (err) apa jadi tadi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.41,
+            "talk_time": 8.695652173913043,
+            "speech_ratio": 0.49946307719201855,
+            "wpm": 68.92590465249856,
+            "word_count": 20,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 546,
+        "audio_id": "VTf-IGXi0D8_000080_00314166-00315931",
+        "text": "<Speaker1>: our life untuk kehidupan kita itu dan bila kita dah makan tadi untuk hidup lalu hidup kita apa tujuan",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.6599375,
+            "talk_time": 8.260869565217394,
+            "speech_ratio": 0.46777456405026313,
+            "wpm": 64.55288983893628,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 554,
+        "audio_id": "5EaG_9tufAw_000008_00019820-00021223",
+        "text": "<Speaker1>: Membuka Aib Insan yang dah diviralkan itu",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.0399375,
+            "talk_time": 3.0434782608695645,
+            "speech_ratio": 0.21677292088156122,
+            "wpm": 29.914663081655455,
+            "word_count": 7,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 555,
+        "audio_id": "Tf8iVogevOQ_000125_00286707-00288293",
+        "text": "<Speaker1>: budak ni kenapa cinta kita diuji oleh boyfriend",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.8699375,
+            "talk_time": 3.478260869565217,
+            "speech_ratio": 0.21917294063478301,
+            "wpm": 30.24586580760006,
+            "word_count": 8,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 556,
+        "audio_id": "nUxHT4_T8QE_000125_00369618-00372083",
+        "text": "<Speaker1>: tak apa (lah) kita sebut sekadar boleh sebut tapi kita tahu (lah) untuk siapa kan okay al-fatihah bismillah irrahmanirrahim alhamdulillah resourceCulture",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.6599375,
+            "talk_time": 9.565217391304348,
+            "speech_ratio": 0.3878849000044849,
+            "wpm": 53.52811620061891,
+            "word_count": 22,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 557,
+        "audio_id": "3TdGZnAAjR4_000063_00125969-00128063",
+        "text": "<Speaker1>: dengan kata lain pada dua halakan lahabim wadapa ber ok baik dan akhirnya pada wakaf dengan orf ba merupakan orf kalakala orf kalakala",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.94,
+            "talk_time": 10.0,
+            "speech_ratio": 0.47755491881566375,
+            "wpm": 65.9025787965616,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 564,
+        "audio_id": "c-B4OXj0K6A_000014_00062474-00064054",
+        "text": "<Speaker1>: Baik, berikut beberapa lagi ringkasan berita untuk hari ini.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.8,
+            "talk_time": 3.913043478260871,
+            "speech_ratio": 0.24766097963676398,
+            "wpm": 34.177215189873415,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 568,
+        "audio_id": "Siuly-ssHpQ_000010_00016546-00017838",
+        "text": "<Speaker1>: ya kan (oh) billa ya kan (oh) stamin ini di surga",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.92,
+            "talk_time": 4.782608695652174,
+            "speech_ratio": 0.37017095167586483,
+            "wpm": 51.083591331269346,
+            "word_count": 11,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.1111
+        }
+    },
+    {
+        "index": 572,
+        "audio_id": "xH8krkHJQzc_000026_00069171-00071286",
+        "text": "<Speaker1>: !aiyo! <Speaker2>: (ah), ya, then you don't do so. <Speaker1>: !hey! !hey! !hey!, !hey! !hey!. !hey! !hey!! !hey! !hey!!, !hey! !hey!!! !hey! !hey!(ah) !hey! !hey![LAUGHTER]",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.1400625,
+            "talk_time": 11.304347826086955,
+            "speech_ratio": 0.5347357807521598,
+            "wpm": 73.79353774379807,
+            "word_count": 26,
+            "word_repetition": 0.6818,
+            "redundancy_score": 0.4167
+        }
+    },
+    {
+        "index": 577,
+        "audio_id": "RE-kGvZSxgQ_000130_00290789-00292659",
+        "text": "<Speaker1>: tetapi diriku dan juga temanmu yang kau kisah derita dan luka di dada hanya kuharap kan kau harus besar",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.7,
+            "talk_time": 8.260869565217394,
+            "speech_ratio": 0.44175773076028846,
+            "wpm": 60.96256684491979,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 600,
+        "audio_id": "274X35y7qLQ_000004_00005191-00007649",
+        "text": "<Speaker1>: rumi abihinya finnar munthzu sabaina kharifah fa hu yahwi finnaril an hatantah ila qarhiha au kamakal hadis sahih riwayat imam muslim daripada abu hurairah radhiyallahu anhu",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.5700625,
+            "talk_time": 11.304347826086959,
+            "speech_ratio": 0.46008624626359657,
+            "wpm": 63.49190198437632,
+            "word_count": 26,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 609,
+        "audio_id": "B8L0ttrWouI_000045_00083287-00085920",
+        "text": "<Speaker1>: (oh) (oh) (oh), (oh), (oh) (oh).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.33,
+            "talk_time": 2.608695652173914,
+            "speech_ratio": 0.09907693323865986,
+            "wpm": 13.672616786935055,
+            "word_count": 6,
+            "word_repetition": 1.0,
+            "redundancy_score": 0.75
+        }
+    },
+    {
+        "index": 610,
+        "audio_id": "A6K9dOmkBUM_000007_00014112-00015828",
+        "text": "<Speaker1>: ha seronok kan bertutung jom bertutung bersama tutung people dan jangan lupa dapatkan koleksi si cham sini comelnya hannah alhamdulillah",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.16,
+            "talk_time": 8.695652173913043,
+            "speech_ratio": 0.5067396371744197,
+            "wpm": 69.93006993006993,
+            "word_count": 20,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 613,
+        "audio_id": "_Ks4yli1iqs_000009_00029228-00031799",
+        "text": "<Speaker1>: !hey! !hey! !hey!, !hey! !hey!.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.71,
+            "talk_time": 2.1739130434782616,
+            "speech_ratio": 0.08455515532782036,
+            "wpm": 11.668611435239207,
+            "word_count": 5,
+            "word_repetition": 1.0,
+            "redundancy_score": 0.6667
+        }
+    },
+    {
+        "index": 636,
+        "audio_id": "ASf2uh2Ucq8_000056_00181937-00184008",
+        "text": "<Speaker1>: semuanya dah jadi senyap (oh) ya rasanya penutup telinga tu berfungi betul (wow) tengok",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.7000625,
+            "talk_time": 6.086956521739132,
+            "speech_ratio": 0.29405498276824676,
+            "wpm": 40.579587622018046,
+            "word_count": 14,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 637,
+        "audio_id": "vfL2sOPMEgo_000038_00161206-00162843",
+        "text": "<Speaker1>: (oh), terus next, (err), okay, K, terus, Jer, (oh), orang macam buat, cerita semua apa gaya ni.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.37,
+            "talk_time": 7.391304347826089,
+            "speech_ratio": 0.45151523199915017,
+            "wpm": 62.30910201588271,
+            "word_count": 17,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 642,
+        "audio_id": "hvr8qzpM2_I_000018_00082204-00084131",
+        "text": "<Speaker1>: pemuda-pemuda yang membawa (ah) pemuda-pemuda dari Mesir dari Mesir ke Palestin (ah) kepada Nabi Yaakub",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.27,
+            "talk_time": 7.391304347826089,
+            "speech_ratio": 0.3835653527673113,
+            "wpm": 52.93201868188895,
+            "word_count": 17,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 647,
+        "audio_id": "mXG_x4lP6As_000010_00033388-00034924",
+        "text": "<Speaker1>: saya nak pergi mana mana zombie <Speaker2>: kat luar (ah) <Speaker1>: tak nak turun (lah) ni jangan nak marah,",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.36,
+            "talk_time": 7.391304347826087,
+            "speech_ratio": 0.48120471014492755,
+            "wpm": 66.40625000000001,
+            "word_count": 17,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 648,
+        "audio_id": "6zhqRhkXVK4_000023_00061131-00063442",
+        "text": "<Speaker1>: (oh), Kp, (ah), duduk kat dalam tu, <Speaker2>: Okay, Nabil, <Speaker1>: (oh) ya, <Speaker2>: (oh) ya ya ya ya ya ya, <Speaker1>: Kp, (ah) <Speaker2>: (ah), (ah), (ah) <Speaker1>: (ah), (uh), (ah), (uh).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.1000625,
+            "talk_time": 11.73913043478261,
+            "speech_ratio": 0.5081860897468399,
+            "wpm": 70.12968038506389,
+            "word_count": 27,
+            "word_repetition": 0.5652,
+            "redundancy_score": 0.2
+        }
+    },
+    {
+        "index": 649,
+        "audio_id": "5SKFV-F1aO8_000001_00004591-00006936",
+        "text": "<Speaker1>: tak ada, (ah), (oh), (oh), (ah), (ah), (oh) (oh), (oh) (ah), (ah) (ah), (oh).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.4400625,
+            "talk_time": 6.086956521739131,
+            "speech_ratio": 0.2596817530558688,
+            "wpm": 35.83608192170989,
+            "word_count": 14,
+            "word_repetition": 0.8,
+            "redundancy_score": 0.3333
+        }
+    },
+    {
+        "index": 650,
+        "audio_id": "r8z2mxwlPAc_000004_00007131-00008462",
+        "text": "<Speaker1>: (ah), (oh), (oh), (uh), (oh), (ah), (oh).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.31,
+            "talk_time": 3.0434782608695645,
+            "speech_ratio": 0.2286610263613497,
+            "wpm": 31.55522163786626,
+            "word_count": 7,
+            "word_repetition": 1.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 651,
+        "audio_id": "rJJH55nJfoo_000078_00141839-00144244",
+        "text": "<Speaker1>: tidak ada yang bisa mengalahkan Allah karena Allah itu Maha Kuasa dan Maha Pengatur",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.0400625,
+            "talk_time": 6.086956521739131,
+            "speech_ratio": 0.2532005281491731,
+            "wpm": 34.941672884585884,
+            "word_count": 14,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 664,
+        "audio_id": "S2NjIUT4zBE_000000_00000000-00002327",
+        "text": "<Speaker1>: (err), jip, jip, jip jip, jip",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.27,
+            "talk_time": 2.608695652173912,
+            "speech_ratio": 0.11210552867098893,
+            "wpm": 15.470562956596478,
+            "word_count": 6,
+            "word_repetition": 1.0,
+            "redundancy_score": 0.5
+        }
+    },
+    {
+        "index": 669,
+        "audio_id": "Yu7dZqvIdWo_000045_00143464-00145514",
+        "text": "<Speaker1>: ya Allah taala berfirman yang bermaksud wahai orang yang beriman barang siapa di antara kamu yang berpaling dari agamanya yakni jadi murtad",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.4900625,
+            "talk_time": 9.565217391304351,
+            "speech_ratio": 0.4668222652470851,
+            "wpm": 64.42147260409772,
+            "word_count": 22,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 673,
+        "audio_id": "Aah04ZRzdKA_000033_00045473-00047812",
+        "text": "<Speaker1>: (err) sakitnya (ah) dia orang berapa orang (ah) siapa (ah) (oh) korang main di luar ke (err) (lah) macam mana ni man",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.39,
+            "talk_time": 9.565217391304351,
+            "speech_ratio": 0.4089447366953549,
+            "wpm": 56.43437366395895,
+            "word_count": 22,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 676,
+        "audio_id": "y6ZCqJdOSOA_000002_00007567-00008821",
+        "text": "<Speaker1>: (oh), okay, pandai.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.5300625,
+            "talk_time": 1.304347826086957,
+            "speech_ratio": 0.10409747166759599,
+            "wpm": 14.365451090128243,
+            "word_count": 3,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 679,
+        "audio_id": "pqcoEUBL_V4_000013_00036640-00038887",
+        "text": "<Speaker1>: (oh), okay, jom kita jalan-jalan, jom, jom, jaga kaki, jaga kaki, jangan jatuh, jangan jatuh, jangan terjatuh, jangan terjatuh.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.47,
+            "talk_time": 8.695652173913047,
+            "speech_ratio": 0.38698941583947694,
+            "wpm": 53.4045393858478,
+            "word_count": 20,
+            "word_repetition": 0.125,
+            "redundancy_score": 0.0556
+        }
+    },
+    {
+        "index": 686,
+        "audio_id": "rMnxVqgTB4s_000043_00118565-00121086",
+        "text": "<Speaker1>: itu gambaran (ah) kita maknanya kita kena ambil (ah) jalan yang mendekatkan kita kepada Allah jalan yang (ah) apa ni menjadikan kita orang yang mukmin orang yang bertakwa",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.2000625,
+            "talk_time": 12.173913043478263,
+            "speech_ratio": 0.4830905892982711,
+            "wpm": 66.6665013231614,
+            "word_count": 28,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 687,
+        "audio_id": "NIh89SmIEz0_000023_00034180-00036458",
+        "text": "<Speaker1>: milik anak kesayangan abah yang didaftarkan di bank offshore luar negara tak tahu pakcik makcik otto arung mari jufarzli shah ahmad bocorkan rahasia ini",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.78,
+            "talk_time": 10.434782608695654,
+            "speech_ratio": 0.45806771767759674,
+            "wpm": 63.21334503950834,
+            "word_count": 24,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 692,
+        "audio_id": "DHFGKQxfZwE_000026_00044488-00047234",
+        "text": "<Speaker1>: mari mari mari mari mari mari, (err), kecekak, one one, attack aku, mari, habis, (ah), be, (uh), one one dulu (lah) mari, mari, <Speaker2>: (oh), ya, ya, ya, ya ya, ya, ya.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.46,
+            "talk_time": 13.478260869565219,
+            "speech_ratio": 0.49083251527914123,
+            "wpm": 67.73488710852148,
+            "word_count": 31,
+            "word_repetition": 0.3333,
+            "redundancy_score": 0.2414
+        }
+    },
+    {
+        "index": 696,
+        "audio_id": "jaPK7ZowVl0_000023_00059657-00061453",
+        "text": "<Speaker1>: Kaki kau kaki kau, sekejap, sekejap, Kaki kau, (ah), Kaki kau, (lah) teruk, (ah), ya.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.9500625,
+            "talk_time": 6.521739130434782,
+            "speech_ratio": 0.3633268201954607,
+            "wpm": 50.13910118697358,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 697,
+        "audio_id": "epFLBdAJ0xY_000002_00006091-00008555",
+        "text": "<Speaker1>: (hm) (hm) (hm).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.6300625,
+            "talk_time": 1.304347826086957,
+            "speech_ratio": 0.05295755242549453,
+            "wpm": 7.308142234718243,
+            "word_count": 3,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 703,
+        "audio_id": "a2JyftfQ01c_000003_00008659-00010674",
+        "text": "<Speaker1>: saya yakin pihak berkuasa juga susah nak mengawal",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.15,
+            "talk_time": 3.4782608695652186,
+            "speech_ratio": 0.17261840543747983,
+            "wpm": 23.82133995037221,
+            "word_count": 8,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 709,
+        "audio_id": "obj-9ZKaIHY_000001_00004941-00007339",
+        "text": "<Speaker1>: nanti bila dah kerja nanti (ah) time tu (lah) kita giliran kita untuk spend dengan family pula sebelum kita kahwin nanti (ah) macam itu.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.9700625,
+            "talk_time": 10.434782608695652,
+            "speech_ratio": 0.43532563207524605,
+            "wpm": 60.074937226383945,
+            "word_count": 24,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 711,
+        "audio_id": "oXcT00wVZ0I_000013_00027111-00029709",
+        "text": "<Speaker1>: suatu kewajiban yang datang itu dirindui sembahyang zakat puasa apa saja (lah) kita rindu itu tanda orang beriman nabi kita dua bulan lagi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.98,
+            "talk_time": 10.000000000000002,
+            "speech_ratio": 0.38491147036181683,
+            "wpm": 53.11778290993072,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 718,
+        "audio_id": "Jq6C1SpMQdQ_000011_00049958-00052492",
+        "text": "<Speaker1>: b kedua menginstitusikan kredibiliti agensi penguatkuasaan undang-undang c ketiga memperkukuh akauntabiliti dan integriti politik d memupuk tadbir urus baik dalam entiti korporat",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.34,
+            "talk_time": 10.000000000000002,
+            "speech_ratio": 0.3946329913180743,
+            "wpm": 54.459352801894234,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 723,
+        "audio_id": "CVRvjSVpSWs_000021_00023069-00025101",
+        "text": "<Speaker1>: rahmat inilah di dalamnya adanya keberkatan sebab itu ulama jelas kan kepada kita antara perkara untuk mendapat barokah ataupun keberkatan rezeki",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.3299375,
+            "talk_time": 9.130434782608695,
+            "speech_ratio": 0.4491127817096681,
+            "wpm": 61.9775638759342,
+            "word_count": 21,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 728,
+        "audio_id": "Vx5MY-nv4ao_000100_00269901-00272352",
+        "text": "<Speaker1>: karena begitu sayangnya kepada umatnya cinta kepada umatnya allah swt bercakap dengan rasulullah saw ya rasul sekiranya engkau nak sekiranya engkau nah urusan ummatmu kau handle silah",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.5199375,
+            "talk_time": 11.739130434782608,
+            "speech_ratio": 0.4787585790046409,
+            "wpm": 66.06868390264044,
+            "word_count": 27,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 738,
+        "audio_id": "eBWS4E3OtU8_000010_00016735-00019517",
+        "text": "<Speaker1>: jojo kenapa ni kami belum menang lagi jangan risau kita ada satu acara lagi yang penting kena kerjasama kan maaf ye jojo jojo pun minta maaf jom kita cuba lagi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.8299375,
+            "talk_time": 13.043478260869565,
+            "speech_ratio": 0.46868514386241666,
+            "wpm": 64.6785498530135,
+            "word_count": 30,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 739,
+        "audio_id": "E_Oesv3rkH0_000070_00122837-00124068",
+        "text": "<Speaker1>: tun agak bergelut dan berkakai (err) cuba untuk mencipta naratif politik yang berpihak kepadanya",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.3000625,
+            "talk_time": 6.08695652173913,
+            "speech_ratio": 0.4948719993690382,
+            "wpm": 68.29233591292729,
+            "word_count": 14,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 749,
+        "audio_id": "Cd5BnTQE_ag_000015_00038082-00039996",
+        "text": "<Speaker1>: kalau pakatan rakyat berjaya mara ke putrajaya saya akan cadangkan kepada perdana menteri kepada kabinet kita melaksanakan satu aes automatic enforcement system",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.14,
+            "talk_time": 9.565217391304351,
+            "speech_ratio": 0.4997501249375314,
+            "wpm": 68.9655172413793,
+            "word_count": 22,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 751,
+        "audio_id": "dA3NZ3NySO0_000000_00000000-00001996",
+        "text": "<Speaker1>: 新界南方的这个寒假冬天的雪每一年降少人百万人机的时候你可以看到这个是一千零五九才而且单单三阿哥来讲讲了像酒座要建机场",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.96,
+            "talk_time": 0,
+            "speech_ratio": 0.0,
+            "wpm": 0.0,
+            "word_count": 0,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 764,
+        "audio_id": "XWoegQVJRT0_000011_00048245-00050990",
+        "text": "<Speaker1>: (err), <Speaker2>: Mak apa-apa mak, <Speaker1>: Apa-apa mak, < Speaker2>: (ah), <Speaker1>: (ah), < Speaker2>: (oh), <Speaker1>: tak pernah <Speaker2>: (ah), (ah), <Speaker3>: (ah), <S> <Speaker1>: (oh), <S> <S> <S>, <S> <S>. <S> <S><S> <S> (ah), <S><S> (ah), (ah) <S><S>",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.4599375,
+            "talk_time": 16.086956521739133,
+            "speech_ratio": 0.5858336903257385,
+            "wpm": 80.8450492649519,
+            "word_count": 37,
+            "word_repetition": 0.6061,
+            "redundancy_score": 0.2857
+        }
+    },
+    {
+        "index": 768,
+        "audio_id": "r0SZw2aQ6YA_000071_00131311-00133516",
+        "text": "<Speaker1>: (ah) ya ke baik pergi sekarang (oh) okay kami pergi dulu assalamualaikum waalaikumussalam (wah) omar dan hana dapat kawan baru (lah) baru kenal tadi (err)",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.05,
+            "talk_time": 10.869565217391306,
+            "speech_ratio": 0.4929508035098098,
+            "wpm": 68.02721088435374,
+            "word_count": 25,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 773,
+        "audio_id": "hN35wmVYOZU_000044_00112032-00114754",
+        "text": "<Speaker1>: kejut kejut teruskan anak anda lagi sekali you orang pun pening dengan ipar saya ini kenapa terus ini macam aku tak pernah beraya",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.22,
+            "talk_time": 10.0,
+            "speech_ratio": 0.36737692872887584,
+            "wpm": 50.69801616458487,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 779,
+        "audio_id": "Vfb6x9FqSVY_000025_00033777-00036125",
+        "text": "<Speaker1>: daripada huzaifah bin asid al ghaffari radhiyallahu anhu katanya rasulullah sallallahu alaihi wasallam telah menengok kepada kami semasa kami sedang ingat mengingati antara satu dengan yang lain",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 23.48,
+            "talk_time": 11.739130434782611,
+            "speech_ratio": 0.4999629657062441,
+            "wpm": 68.99488926746166,
+            "word_count": 27,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 805,
+        "audio_id": "vERTUBd9utY_000063_00132319-00135102",
+        "text": "<Speaker1>: di di jojo kenapa ni kami belum menang lagi jangan risau kita ada satu acara lagi yang penting kena kerjasama kan maaf ye jojo jojo pun minta maaf jom kita cuba lagi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.83,
+            "talk_time": 13.913043478260873,
+            "speech_ratio": 0.4999296973863052,
+            "wpm": 68.99029823931009,
+            "word_count": 32,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 810,
+        "audio_id": "FPVa0MjIWmM_000107_00196214-00198256",
+        "text": "<Speaker1>: (ah) jumpa pattan kecilnya pattan (err) itu bingo dia menyorok dekat awan (lah) kawan kawan kucing boleh terbang ke",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.4100625,
+            "talk_time": 8.260869565217394,
+            "speech_ratio": 0.40474494211947637,
+            "wpm": 55.85480201248772,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 832,
+        "audio_id": "ujv9xMBswOo_000090_00300952-00302287",
+        "text": "<Speaker1>: saya meluncut bagus untuk kamu bing pang ni meow meow sekarang ini (lah) saya pulang",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.3599375,
+            "talk_time": 6.521739130434783,
+            "speech_ratio": 0.4881564101953908,
+            "wpm": 67.36558460696392,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 837,
+        "audio_id": "NP_iQ054ON4_000042_00071505-00073144",
+        "text": "<Speaker1>: ternampak sudah bayang-bayang kekalahan najib razak zahid hamidi umno biadab orang tamak selalu rugi terlalu rakus kuasa terlalu",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.39,
+            "talk_time": 8.26086956521739,
+            "speech_ratio": 0.5040188874446242,
+            "wpm": 69.55460646735814,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 841,
+        "audio_id": "jUR-rb_IjF8_000017_00036492-00039149",
+        "text": "<Speaker1>: (hm) (oh) aku tengah cari (err) alamak nanti tolong jangan beritahu orang lain aku (err) y y y y y y (ah) (ah) (ah), (ah), (ah) (ah). (ah), (ah). (ah). (ah) (ah)! (ah) (ah)(ah) (ah) ! (ah) (ah!) (ah) (ah! ) (ah) (ah!). (ah) (ah!), (ah) (ah),(ah) (ah) !(huh)! macam mana kau boleh tahu",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.57,
+            "talk_time": 23.47826086956522,
+            "speech_ratio": 0.883637970250855,
+            "wpm": 121.94203989461799,
+            "word_count": 54,
+            "word_repetition": 0.66,
+            "redundancy_score": 0.5192
+        }
+    },
+    {
+        "index": 842,
+        "audio_id": "50Gd5MThiH0_000031_00063653-00065498",
+        "text": "<Speaker1>: bulan depan bulan januari cucu kepada mahmad ghani",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.45,
+            "talk_time": 3.478260869565217,
+            "speech_ratio": 0.18852362436667844,
+            "wpm": 26.01626016260163,
+            "word_count": 8,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 848,
+        "audio_id": "AgThveET2Aw_000034_00052065-00053251",
+        "text": "<Speaker1>: haa tia tengok apa tu tu lelem bulah betul pandainya tia",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.8500625,
+            "talk_time": 4.782608695652176,
+            "speech_ratio": 0.40359354186124974,
+            "wpm": 55.69590877685245,
+            "word_count": 11,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 850,
+        "audio_id": "hPpOThhJ_q0_000025_00097635-00099638",
+        "text": "<Speaker1>: (ah) tuan pun ini kan kuatkan sikit ruqyah itu",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.0200625,
+            "talk_time": 3.913043478260869,
+            "speech_ratio": 0.19545610700570334,
+            "wpm": 26.972942766787064,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 862,
+        "audio_id": "CXlW1KW__jo_000028_00057579-00058981",
+        "text": "<Speaker1>: terima kasih nana sama sama jom pergi taman permainan jom bye aunty wendy bye",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.02,
+            "talk_time": 6.08695652173913,
+            "speech_ratio": 0.43416237672889657,
+            "wpm": 59.91440798858774,
+            "word_count": 14,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 868,
+        "audio_id": "ybthI3svLRA_000002_00005526-00008297",
+        "text": "<Speaker1>: alhamdulillah surah al an'am ayat sembilan puluh lima sembilan puluh lima muka surat seratus empat puluh muka surat seratus empat belas",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.7000625,
+            "talk_time": 9.565217391304348,
+            "speech_ratio": 0.3453139281293805,
+            "wpm": 47.653322081854505,
+            "word_count": 22,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.15
+        }
+    },
+    {
+        "index": 870,
+        "audio_id": "SeVDUZFmMj0_000040_00115012-00116406",
+        "text": "<Speaker1>: kamu perlu senyap (oh) anak kucing (oh) mereka sangat kecil (oh)",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.9300625,
+            "talk_time": 4.782608695652176,
+            "speech_ratio": 0.34333002423012643,
+            "wpm": 47.37954334375743,
+            "word_count": 11,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 871,
+        "audio_id": "uXMqpFkc7hU_000001_00003416-00005666",
+        "text": "<Speaker1>: (ah) itu macam jerit ayah aku je (oh) sorry sorry sorry maafkan aku nak tiba",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.4900625,
+            "talk_time": 6.521739130434782,
+            "speech_ratio": 0.28998314835429123,
+            "wpm": 40.017674472892196,
+            "word_count": 15,
+            "word_repetition": 0.2727,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 872,
+        "audio_id": "ChxxECOF0c0_000020_00072997-00075780",
+        "text": "<Speaker1>: (oh) aku muam muam rasa weh dah kena pergi cari dia buka kedai ke tak ada orang ni (oh) okay tutup bagus bagus bagus bagus tutup kedai kedai semua tutup kedai semua tutup apa tu <Speaker2>: apa tu <Speaker1>: (oh), meletup jom jom jom jiom jom jom jio jom jom jomm jom jom jomp jom jom jomb jom jom jont jom jom jomt jom jom jome jom jom jombe jom jom jombo jom jom jomba jom jom jombi jom jom jompi jom jom jop jom jom jopt jom jom jopi jom jom jopy jom jom jops jom jom jopts jom jom jopis jom jom jopes jom jom jopen jom jom jopens jom jom jopend jom jom jopeng jom jom joped jom jom jopin jom jom jopia jom jom jopic jom jom jopie jom jom jopies jom jom jipes jom",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.8200625,
+            "talk_time": 27.8200625,
+            "speech_ratio": 1.0,
+            "wpm": 295.4702204569095,
+            "word_count": 137,
+            "word_repetition": 0.7594,
+            "redundancy_score": 0.0148
+        }
+    },
+    {
+        "index": 875,
+        "audio_id": "NfvG73f_j34_000010_00020330-00021779",
+        "text": "<Speaker1>: (oh) (oh) (oh), (oh), (oh) (oh). (oh), (oh). (oh). (oh) (oh)! (oh), (oh)! (oh)! (oh) (oh)(oh) (oh) buih buih buih bui buih buih buh buih buih bu ih buih buih bu buih buih bu b uih buih buih",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.4999375,
+            "talk_time": 14.4999375,
+            "speech_ratio": 1.0,
+            "wpm": 161.38000594830152,
+            "word_count": 39,
+            "word_repetition": 0.8286,
+            "redundancy_score": 0.4595
+        }
+    },
+    {
+        "index": 878,
+        "audio_id": "3ljQ5Slzrlk_000011_00013568-00015348",
+        "text": "<Speaker1>: lahir pada tahun dua ratus empat sehingga (lah) dua ratus enam puluh satu hijrah ini kelahiran (err) yang mana",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.8099375,
+            "talk_time": 8.260869565217394,
+            "speech_ratio": 0.46383484305980266,
+            "wpm": 64.00920834225275,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 879,
+        "audio_id": "RXi8ph88S18_000001_00008064-00011030",
+        "text": "<Speaker1>: (err) electrical electronic welding dan sebagainya tetapi saya menganjurkan supaya asmidah technical college dan juga pusat latihan kemahiran yang lain juga harus meneliti beberapa (err) bidang baru atas permintaan industri seperti (err) automation",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.6500625,
+            "talk_time": 14.347826086956522,
+            "speech_ratio": 0.4839054247172842,
+            "wpm": 66.77894861098521,
+            "word_count": 33,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 882,
+        "audio_id": "CK6GAMn8hWs_000068_00132773-00135614",
+        "text": "<Speaker1>: seronoknya <Speaker2>: kita dah sampai (err) hai keluarga tia hi semua tia ada ke ada (err) tia dah tidurlah kesian tia penat konggovin masa untuk horang orei",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.41,
+            "talk_time": 11.304347826086957,
+            "speech_ratio": 0.3979003106683195,
+            "wpm": 54.91024287222809,
+            "word_count": 26,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 886,
+        "audio_id": "iEglmNDKQHA_000004_00009628-00012562",
+        "text": "<Speaker1>: 亲爱的浮游的马来西亚的同胞大家晚上好 malam ini rakyat negeri sembilan sudah bangkit betul adakah kita sudah bangkit untuk ubah che wan sembilan yang rajin tolak janji nak ubah betul",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.34,
+            "talk_time": 10.434782608695652,
+            "speech_ratio": 0.35565039566106516,
+            "wpm": 49.079754601226995,
+            "word_count": 24,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 900,
+        "audio_id": "LUqGplvxZPo_000022_00071344-00072648",
+        "text": "<Speaker1>: (hm), (hm), (hm).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.0300625,
+            "talk_time": 1.304347826086957,
+            "speech_ratio": 0.10010296006538395,
+            "wpm": 13.814208489022981,
+            "word_count": 3,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 907,
+        "audio_id": "LyMlANOcXhs_000008_00024967-00027874",
+        "text": "<Speaker1>: (hm), <Speaker2>: kita akan (err) bertemu dulu dengan (err) (err) (err), (err), (err) bagi (err) (err). (err), (err). (err). (err) (err)! <Speaker1>: So, jadi dalam pembicaraan kan beberapa tahun mungkin soalan akan diberikan, <Speaker2>: Jadi kita akan (err) bertemulah dengan (err) (uh), (err), (uh), (err) (err)(err) (err) bagi (uh) (err) (uh) (err), (uh) (err).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.07,
+            "talk_time": 22.608695652173914,
+            "speech_ratio": 0.7777329085715141,
+            "wpm": 107.32714138286893,
+            "word_count": 52,
+            "word_repetition": 0.4583,
+            "redundancy_score": 0.32
+        }
+    },
+    {
+        "index": 914,
+        "audio_id": "nftE-xxD5yk_000105_00279440-00281629",
+        "text": "<Speaker1>: la tahfa mukhaatun wa la tahfa mukhaathun wa la tahfa",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.8999375,
+            "talk_time": 4.347826086956523,
+            "speech_ratio": 0.19853143813568067,
+            "wpm": 27.397338462723926,
+            "word_count": 10,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.125
+        }
+    },
+    {
+        "index": 916,
+        "audio_id": "1NFBDNsAjXw_000008_00021439-00023675",
+        "text": "<Speaker1>: supaya tidak ada lagi penindasan manusia keatas manusia yang lain essentially that is the islamic message stop hentikan penindasan ketidakadilan kezaliman penghinaan",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.36,
+            "talk_time": 9.565217391304351,
+            "speech_ratio": 0.42778253091701035,
+            "wpm": 59.03398926654741,
+            "word_count": 22,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 923,
+        "audio_id": "xkHPn_xTpQk_000021_00019875-00021198",
+        "text": "<Speaker1>: perbezaan di antara kufur besar dan kufur kecil dan telah kita bahaskan",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.23,
+            "talk_time": 5.217391304347825,
+            "speech_ratio": 0.3943606428078477,
+            "wpm": 54.42176870748299,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 938,
+        "audio_id": "pHiPe0LHEUg_000099_00210270-00211997",
+        "text": "<Speaker1>: aku rasa kena buat laluan dia (lah) <Speaker2>: kita kurangkan bintang (lah) <Speaker1>: kita kurangkan bulan ni kan <Speaker2>: (ah) <Speaker1>: aduh",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.27,
+            "talk_time": 7.826086956521739,
+            "speech_ratio": 0.45316079655597796,
+            "wpm": 62.53618992472496,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0625
+        }
+    },
+    {
+        "index": 939,
+        "audio_id": "OWR5dkUEF7w_000072_00152809-00154872",
+        "text": "<Speaker1>: tak apa mama omar boleh sabar sebab omar kan hebat okay jom salam assalamualaikum waalaikumussalam papa dah balik hanah cuba rasa hari ini",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.63,
+            "talk_time": 10.0,
+            "speech_ratio": 0.4847309743092584,
+            "wpm": 66.89287445467765,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 944,
+        "audio_id": "_sr67z_VSyc_000035_00037623-00040392",
+        "text": "<Speaker1>: nabi sallallahu alaihi wasallam bersabda dalam hadis yang berbunyi annasin radziallahu anhu annal nabia sallallahu alaihy wasallam (ah) qala ya tbaul mayyita thala satun ahlihu wamaluh wa amaluh",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.69,
+            "talk_time": 12.173913043478262,
+            "speech_ratio": 0.439650164083722,
+            "wpm": 60.67172264355362,
+            "word_count": 28,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 948,
+        "audio_id": "j-xQj-PesiM_000006_00005908-00007762",
+        "text": "<Speaker1>: muslim muslim yang dirahmati Allah alhamdulillah syukur kita kepada Allah sekali lagi kita dipertemukan Allah",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.54,
+            "talk_time": 6.521739130434782,
+            "speech_ratio": 0.3517658646404953,
+            "wpm": 48.54368932038835,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 954,
+        "audio_id": "wNzm6AJbPik_000156_00359158-00360177",
+        "text": "<Speaker1>: mekar di suwungku kupetik harumnya di hari raya",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.19,
+            "talk_time": 3.4782608695652173,
+            "speech_ratio": 0.34134061526645904,
+            "wpm": 47.10500490677134,
+            "word_count": 8,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 958,
+        "audio_id": "mb9mRuJrkAc_000015_00027195-00029640",
+        "text": "<Speaker1>: tapi semua duduk tengok tengok dalam tu semua",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.45,
+            "talk_time": 3.478260869565217,
+            "speech_ratio": 0.14226015826442606,
+            "wpm": 19.631901840490798,
+            "word_count": 8,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 959,
+        "audio_id": "pDVpw_U-OXg_000035_00070906-00072914",
+        "text": "<Speaker1>: (oh) ya ya ya ya ya ya",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.0700625,
+            "talk_time": 3.0434782608695645,
+            "speech_ratio": 0.1516426897459619,
+            "wpm": 20.926691184942747,
+            "word_count": 7,
+            "word_repetition": 1.0,
+            "redundancy_score": 0.6
+        }
+    },
+    {
+        "index": 962,
+        "audio_id": "G0jaYwSI1wY_000013_00022102-00023745",
+        "text": "<Speaker1>: subhanallah rabbil alamin la ilaha illallah waladuhula syarikalah ni tambah subhanallah rabbil alali narobi narobi alaliyan ala tambah",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.4399375,
+            "talk_time": 7.826086956521741,
+            "speech_ratio": 0.4760411623536733,
+            "wpm": 65.69368040480688,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 965,
+        "audio_id": "btwAKEb92JA_000005_00017973-00020242",
+        "text": "<Speaker1>: Ya Allah, ya Rahman, ya Rahim, ya Allah, ya Tawwab, ya Allah, ya Afu, ya Afu, Ya Ghafur, ya Tawwab ya Allah, ya Taufik, ya Allah, ya Rahmat, ya Allah, ya Rahim, ya Malik, ya Quddus, ya Salam, ya Hayy, ya Qayyum, ya Ahad, ya Wahid, ya Salam, ya Malik, ya Rab, ya Raheem, ya Allah, ya Malik, ya Ghaffar, ya Tawwab.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.6999375,
+            "talk_time": 22.6999375,
+            "speech_ratio": 1.0,
+            "wpm": 163.87710318585678,
+            "word_count": 62,
+            "word_repetition": 0.5,
+            "redundancy_score": 0.2167
+        }
+    },
+    {
+        "index": 967,
+        "audio_id": "Ig8PRbO9aOM_000168_00502386-00504275",
+        "text": "<Speaker1>: pakcik depan tu memanglah nabi tapi depan lagi ada lubang ambil tolonglah lubang itu pak cik pinggir",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.89,
+            "talk_time": 7.391304347826087,
+            "speech_ratio": 0.3912813312771883,
+            "wpm": 53.99682371625198,
+            "word_count": 17,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 970,
+        "audio_id": "Vzv1w5xQEw0_000057_00179162-00181676",
+        "text": "<Speaker1>: (err), macam mana, saya boleh ada dalam ni, (ah), <Speaker2>: awak tak pernah tengok ni, <Speaker1>: apa ni, <Speaker2>: ini camera video, <Speaker1>: (err) awak pun ada, awak ada, hebatnya, <Speaker2>: ikan, cantik ke.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.1300625,
+            "talk_time": 12.608695652173914,
+            "speech_ratio": 0.5017375365530393,
+            "wpm": 69.23978004431942,
+            "word_count": 29,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 973,
+        "audio_id": "8ePtPznNwc0_000065_00175080-00177997",
+        "text": "<Speaker1>: (ah) (ah) (ah), (ah), (ah) (ah). (ah), (ah). (ah). (ah) (ah)! (ah) (ah)(ah) (ah) ! (ah) (ah!) (ah) (ah! ) (ah) (ah!), (ah) (ah!). (ah) (ah),(ah) (ah) !(wah)! (ah) (ha) (ah) (ha)! (ah) (hah) (ah) (hah)! (ah) (ahh) (ah) (ahh)! (ah) (ahhh) (ah) (ahhh)! (ah) (hhh) (ah) (hhh)! (ah) (hh) (ah) (hh)! (ah) (hhhh) (ah) (hhhh)! (ah) (hhhhh) (ah) (hhhhh)! (ah) (hhhhhhhh) (ah) (hhhhhhhh)! (ah) (h) (h) (ah) (h)! (ah) (a) (h) (a) (a) (ah) (a)! (ah) (aaaa) (ah) (aaaa)! (ah) (aaaaa) (ah) (aaaaa)!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.17,
+            "talk_time": 29.17,
+            "speech_ratio": 1.0,
+            "wpm": 172.78025368529308,
+            "word_count": 84,
+            "word_repetition": 0.6625,
+            "redundancy_score": 0.4146
+        }
+    },
+    {
+        "index": 979,
+        "audio_id": "ange2J4AQho_000079_00156155-00159018",
+        "text": "<Speaker1>: ew <Speaker2>: busuknya memanglah (oh) masa untuk bersihkan bekas litter mimi kalau bekas litter kotor mimi tak nak yack yack nanti mimi sakit tak nak mimi sakit anak sayang mimi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.63,
+            "talk_time": 12.608695652173916,
+            "speech_ratio": 0.44040152470045113,
+            "wpm": 60.77541040866224,
+            "word_count": 29,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 993,
+        "audio_id": "LlcxaRmVnxc_000194_00411495-00414127",
+        "text": "<Speaker1>: aku tak nak kecewa juga aku rasa aku tak layak untuk dia <Speaker2>: tak jangan begitu bahaya",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.3299375,
+            "talk_time": 6.956521739130437,
+            "speech_ratio": 0.2642057824531652,
+            "wpm": 36.46039797853679,
+            "word_count": 16,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1013,
+        "audio_id": "Jxc6ZHxavTM_000076_00155211-00156538",
+        "text": "<Speaker1>: 嗯嗯嗯",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.27,
+            "talk_time": 0,
+            "speech_ratio": 0.0,
+            "wpm": 0.0,
+            "word_count": 0,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1015,
+        "audio_id": "NjkdZuWEMpk_000030_00055860-00058327",
+        "text": "<Speaker1>: ini pula dede bot dan nana bot (wah) nana pun ada (err) kenapa ni ada kecemasan alamak tolong pakatan dalam bahaya jom kita selamatkan pakatan",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.6600625,
+            "talk_time": 10.869565217391306,
+            "speech_ratio": 0.4407760611876514,
+            "wpm": 60.827096443895876,
+            "word_count": 25,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1021,
+        "audio_id": "YbMukn5nRIM_000024_00055190-00056766",
+        "text": "<Speaker1>: cari dengan betul okay so faridah sila cari barang pasangan anda",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.76,
+            "talk_time": 4.782608695652176,
+            "speech_ratio": 0.3034650187596558,
+            "wpm": 41.87817258883249,
+            "word_count": 11,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1023,
+        "audio_id": "o4OLtKgAAwQ_000063_00198745-00200746",
+        "text": "<Speaker1>: (hm) di mana dia (hm) mari kita dengar (oh) saya tak dengar pun (hm) di sana (ah) dia di sana cepat okay mari",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.01,
+            "talk_time": 10.0,
+            "speech_ratio": 0.4997501249375312,
+            "wpm": 68.9655172413793,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1030,
+        "audio_id": "mgP8uZov-nE_000005_00014096-00015231",
+        "text": "<Speaker1>: bersyukur bersyukur pada yang satu bertemu berseujut kita bertemu",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.35,
+            "talk_time": 3.9130434782608696,
+            "speech_ratio": 0.3447615399348784,
+            "wpm": 47.57709251101322,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1034,
+        "audio_id": "oDPcRi7-FNA_000108_00354253-00356460",
+        "text": "<Speaker1>: celup lap nya itu dia tak meleleh hey si arnab nakal bawa ke sini semula celup celup lap nya bagus sudah tak meleleh",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.0799375,
+            "talk_time": 10.0,
+            "speech_ratio": 0.4528998327101243,
+            "wpm": 62.50017691399715,
+            "word_count": 23,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0476
+        }
+    },
+    {
+        "index": 1037,
+        "audio_id": "GVPTBMRcy7A_000000_00000000-00002964",
+        "text": "<Speaker1>: (hm) sekuat mana jentera kita pun sehebam mana pun jabatan penerangan sehebam mana pun pegawai-pegawai penerangan sehebam kita yang setiap tahun berkumpul dalam convention ini apabila ada unsur sabotaj atas rasa kefrasatan frasa",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 29.64,
+            "talk_time": 14.782608695652174,
+            "speech_ratio": 0.49873848500850787,
+            "wpm": 68.82591093117409,
+            "word_count": 34,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0312
+        }
+    },
+    {
+        "index": 1050,
+        "audio_id": "3KgQKrLkYGY_000074_00163010-00164801",
+        "text": "<Speaker1>: tangga lagi (uh) (huh) tangga lagi (ah) (uh) terjatuh selamat (err) tak jatuh jauh sangat kena hati-hati",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.91,
+            "talk_time": 7.826086956521739,
+            "speech_ratio": 0.4369674459252786,
+            "wpm": 60.30150753768844,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1064,
+        "audio_id": "EgCsFNPZOGc_000000_00000388-00002406",
+        "text": "<Speaker1>: kita tengok adenan sating kabinadengan sating menyatakan bahawa adenan menerima tujuh puluh empat peratus sokongan daripada masyarakat cina adenan kerajaan cakap",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.1700625,
+            "talk_time": 9.130434782608695,
+            "speech_ratio": 0.45267260736592635,
+            "wpm": 62.46881981649784,
+            "word_count": 21,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1067,
+        "audio_id": "_Cnp4j10YxY_000018_00044626-00046492",
+        "text": "<Speaker1>: (ah) bali jangan! pokok pun ada perasaan jangan apa-apakan mereka alah pokok je jangan kasihan pokok kasihan kan",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.66,
+            "talk_time": 8.260869565217394,
+            "speech_ratio": 0.44270469266974244,
+            "wpm": 61.09324758842443,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1074,
+        "audio_id": "zAQ1LUeAU78_000005_00029985-00031826",
+        "text": "<Speaker1>: campus radio ataupun korang boleh mention dekat sini ya",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.41,
+            "talk_time": 3.913043478260871,
+            "speech_ratio": 0.21254989018255682,
+            "wpm": 29.331884845192832,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1102,
+        "audio_id": "gRS9hzX9Huk_000001_00004273-00005539",
+        "text": "<Speaker1>: I love the book. Okay, I love the book. I love the book. (ah), okay, I love the book, I love the book (lah).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.66,
+            "talk_time": 10.434782608695652,
+            "speech_ratio": 0.8242324335462601,
+            "wpm": 113.74407582938389,
+            "word_count": 24,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.5
+        }
+    },
+    {
+        "index": 1106,
+        "audio_id": "54ygeVm4-4w_000005_00006722-00008550",
+        "text": "<Speaker1>: 哇这就是我们的中国",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.28,
+            "talk_time": 0,
+            "speech_ratio": 0.0,
+            "wpm": 0.0,
+            "word_count": 0,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1112,
+        "audio_id": "_n0Lfl9ju88_000027_00063868-00065971",
+        "text": "<Speaker1>: (oh) dia punya kaki (ah) (oh) (oh) (ah) takut dia (ah) (ah) (ah).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.03,
+            "talk_time": 5.652173913043478,
+            "speech_ratio": 0.2687671855940788,
+            "wpm": 37.08987161198288,
+            "word_count": 13,
+            "word_repetition": 0.2222,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1128,
+        "audio_id": "BBh01jSRsCU_000011_00042534-00045315",
+        "text": "<Speaker1>: (hm), betul betul betul betul betul betul <Speaker2>: betul betul betul betul betul, <Speaker1>: betul betul betul betul, betul betul betul betul betul",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.81,
+            "talk_time": 9.130434782608695,
+            "speech_ratio": 0.3283148069977956,
+            "wpm": 45.307443365695796,
+            "word_count": 21,
+            "word_repetition": 1.0,
+            "redundancy_score": 0.8947
+        }
+    },
+    {
+        "index": 1137,
+        "audio_id": "8lDDocsvnxo_000021_00050700-00052019",
+        "text": "<Speaker1>: you're wet, basah kan, <Speaker2>: (ah), ya (lah) macam mana, jangan nak makan balik.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.19,
+            "talk_time": 6.086956521739131,
+            "speech_ratio": 0.4614826779180539,
+            "wpm": 63.684609552691434,
+            "word_count": 14,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1139,
+        "audio_id": "jysJxLqb_ds_000020_00060352-00062477",
+        "text": "<Speaker1>: (oh) bunyi macam dia ada di dapur (hm) (ah) ini ganjil (oh) (oh) apa kenapa ada dalam ni bing",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.25,
+            "talk_time": 8.26086956521739,
+            "speech_ratio": 0.3887468030690537,
+            "wpm": 53.64705882352941,
+            "word_count": 19,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1158,
+        "audio_id": "_hdU8wd8dR0_000004_00021097-00023042",
+        "text": "<Speaker1>: (oh) ya (oh) ya (ah) (oh) ya (uh) (oh) ya",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.45,
+            "talk_time": 4.3478260869565215,
+            "speech_ratio": 0.22353861629596514,
+            "wpm": 30.848329048843187,
+            "word_count": 10,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1187,
+        "audio_id": "nlh-uMcm9gI_000013_00017729-00019776",
+        "text": "<Speaker1>: (ah) jumpa pattan kucing ni pattan (err) itu bingo dia menyurut ke awan (lah) kawan kawan kucing boleh terbang ke",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.4799375,
+            "talk_time": 8.695652173913047,
+            "speech_ratio": 0.4245936870614496,
+            "wpm": 58.59392881448003,
+            "word_count": 20,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1191,
+        "audio_id": "B74L1k9Csc4_000098_00220516-00221571",
+        "text": "<Speaker1>: opin ipin suka puasa seronok",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.55,
+            "talk_time": 2.1739130434782616,
+            "speech_ratio": 0.20605810838656508,
+            "wpm": 28.43601895734597,
+            "word_count": 5,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1195,
+        "audio_id": "rRD8gA4zm8c_000099_00197354-00199517",
+        "text": "<Speaker1>: bangau tak jumpa ikan (hm) (err) buat apa dekat sampan baatann ni (hah) sampan baatann (hm) (ah) (lah) jadi mana sampan bangau (loh) tu",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.63,
+            "talk_time": 10.434782608695652,
+            "speech_ratio": 0.4824217572212507,
+            "wpm": 66.57420249653259,
+            "word_count": 24,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1202,
+        "audio_id": "vJJ893tbCGc_000003_00020307-00023001",
+        "text": "<Speaker1>: at least orang wakil di peringkat tertinggi iaitu di peringkat dewan negara bagi mengusulkan dan membincangkan mengenai hal tujuh mahasiswa secara total dan tuntas di peringkat tinggi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.94,
+            "talk_time": 11.739130434782608,
+            "speech_ratio": 0.43575094412704557,
+            "wpm": 60.13363028953229,
+            "word_count": 27,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1208,
+        "audio_id": "atfM34vyTLI_000022_00049964-00051337",
+        "text": "<Speaker1>: haa lemah sekarang giliran kau ular adudu haa haa haa haaa haa haa ha haa haa ha",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.73,
+            "talk_time": 7.391304347826089,
+            "speech_ratio": 0.5383324361126066,
+            "wpm": 74.28987618353969,
+            "word_count": 17,
+            "word_repetition": 0.6154,
+            "redundancy_score": 0.0667
+        }
+    },
+    {
+        "index": 1210,
+        "audio_id": "zHiEqwX6EUE_000073_00211672-00214564",
+        "text": "<Speaker1>: beberapa hari yang lepas dalam akhbar dikeluarkan oleh sebuah akhbar di Malaysia bahawa penyalahgunaan anak tidak sepatutnya dan dulu kita panggil anak luar nikah sekarang sepuluh tahun lepas",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.9299375,
+            "talk_time": 12.17391304347826,
+            "speech_ratio": 0.4208067522952049,
+            "wpm": 58.07133181673828,
+            "word_count": 28,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1219,
+        "audio_id": "q34AQCB2Zr8_000012_00019464-00020497",
+        "text": "<Speaker1>: tujuannya supaya kita jangan terbuai umur pincing pun ganti Oktober juga",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.33,
+            "talk_time": 4.782608695652174,
+            "speech_ratio": 0.46298244875626077,
+            "wpm": 63.891577928363986,
+            "word_count": 11,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1221,
+        "audio_id": "dEwwx4p55tI_000011_00028970-00030193",
+        "text": "<Speaker1>: ali mohamed dijemput mengambil gambar dengan yang dipertua",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.23,
+            "talk_time": 3.4782608695652177,
+            "speech_ratio": 0.28440399587614207,
+            "wpm": 39.247751430907606,
+            "word_count": 8,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1225,
+        "audio_id": "psmdcbaohps_000022_00038651-00041434",
+        "text": "<Speaker1>: jojo kenapa ni kami belum menang lagi jangan risau kita ada satu acara lagi yang penting kena kerjasama kan maaf ye jojo jojo pun minta maaf jom kita cuba lagi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.8399375,
+            "talk_time": 13.043478260869566,
+            "speech_ratio": 0.4685167939356748,
+            "wpm": 64.65531756312312,
+            "word_count": 30,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1236,
+        "audio_id": "CCwuBD_TgDQ_000016_00046058-00047930",
+        "text": "<Speaker1>: 你在这里等着我好吗知道吗 yes, 我知道了阿公拜拜 (wow) 阿公好欢乐啊公好调皮哦 (wow) 还穿着那个热裤啊！哟短裤",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.72,
+            "talk_time": 1.304347826086957,
+            "speech_ratio": 0.06967670011148275,
+            "wpm": 9.615384615384617,
+            "word_count": 3,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1242,
+        "audio_id": "YC4FNyAWzac_000015_00037905-00039108",
+        "text": "<Speaker1>: sayang sayang kenapa sayang maafkan zahra abang zahra mimpi yang terbaik allah sayang",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.03,
+            "talk_time": 5.6521739130434785,
+            "speech_ratio": 0.46983989302107054,
+            "wpm": 64.83790523690773,
+            "word_count": 13,
+            "word_repetition": 0.1111,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1247,
+        "audio_id": "uMIk3cEP_7U_000006_00016238-00017508",
+        "text": "<Speaker1>: kau cembur hahahah kau menangis manusia lemah maafkan aku cembur maafkan aku cembur",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.7099375,
+            "talk_time": 5.6521739130434785,
+            "speech_ratio": 0.44470509103947037,
+            "wpm": 61.369302563446915,
+            "word_count": 13,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0909
+        }
+    },
+    {
+        "index": 1259,
+        "audio_id": "8qqydwAIX7w_000006_00013970-00016145",
+        "text": "<Speaker1>: ha jawapannya (lah) jawapannya (lah), jawapannya (lah).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.75,
+            "talk_time": 3.0434782608695645,
+            "speech_ratio": 0.13993003498250872,
+            "wpm": 19.310344827586206,
+            "word_count": 7,
+            "word_repetition": 0.6667,
+            "redundancy_score": 0.4
+        }
+    },
+    {
+        "index": 1261,
+        "audio_id": "oXvr6BywfCI_000067_00091265-00092401",
+        "text": "<Speaker1>: oke terima kasih terima kasih jadi tak do luman musa satu tak do",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.36,
+            "talk_time": 5.652173913043478,
+            "speech_ratio": 0.49755052051439064,
+            "wpm": 68.66197183098592,
+            "word_count": 13,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1267,
+        "audio_id": "I8yrh0iej44_000096_00182632-00184834",
+        "text": "<Speaker1>: apa ni pelik ada bulu pelepah mesti pencuri ikan punya warna macam abang eddie punya ha tu pencuri pencuri (err) kita belum habis siasat lagi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.02,
+            "talk_time": 10.869565217391306,
+            "speech_ratio": 0.49362239860995943,
+            "wpm": 68.11989100817439,
+            "word_count": 25,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1268,
+        "audio_id": "Acua5vmsbT4_000032_00081044-00083244",
+        "text": "<Speaker1>: seronoknya jaga kebersihan diri mari jaga kebersihan diri kita sihat dan ceria gembira sentiasa bersih sentiasa",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.9900625,
+            "talk_time": 6.956521739130436,
+            "speech_ratio": 0.31634842962044496,
+            "wpm": 43.65608328762139,
+            "word_count": 16,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0714
+        }
+    },
+    {
+        "index": 1269,
+        "audio_id": "rbOXoBkmjNI_000044_00103533-00106212",
+        "text": "<Speaker1>: benda ni (oh) monster terlanggar apa ni ini tak boleh cepat cepat andai cepat no (oh) (ah) mia mia",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 26.7800625,
+            "talk_time": 8.26086956521739,
+            "speech_ratio": 0.3084708844580699,
+            "wpm": 42.56898205521365,
+            "word_count": 19,
+            "word_repetition": 0.1333,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1272,
+        "audio_id": "kWffxe3hMp4_000143_00288624-00289627",
+        "text": "<Speaker1>: (hah) sakit jantung mu koyak mental mu gila sudah kau",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.03,
+            "talk_time": 4.3478260869565215,
+            "speech_ratio": 0.4334821622090251,
+            "wpm": 59.82053838484546,
+            "word_count": 10,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1278,
+        "audio_id": "ru2wDtdWXfY_000000_00000000-00001936",
+        "text": "<Speaker1>: hello assalamualaikum guys abrr sama saya lagi shafiq aiman and today we can pay deliver us the moon dan ini merupakan",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.36,
+            "talk_time": 9.130434782608695,
+            "speech_ratio": 0.4716133668702839,
+            "wpm": 65.08264462809917,
+            "word_count": 21,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1284,
+        "audio_id": "bGUdyoGOX04_000003_00006878-00007897",
+        "text": "<Speaker1>: yang akan",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 10.1800625,
+            "talk_time": 0.8695652173913047,
+            "speech_ratio": 0.08541845567169207,
+            "wpm": 11.787746882693499,
+            "word_count": 2,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1288,
+        "audio_id": "vTgB8mTwtOU_000019_00032513-00034133",
+        "text": "<Speaker1>: abang tolong saya abang tolonglah (err) kenapa ni apa jadi saya dengan dia abang hello hello hello hello",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.2,
+            "talk_time": 7.826086956521739,
+            "speech_ratio": 0.48309178743961356,
+            "wpm": 66.66666666666667,
+            "word_count": 18,
+            "word_repetition": 0.1429,
+            "redundancy_score": 0.0625
+        }
+    },
+    {
+        "index": 1291,
+        "audio_id": "ekxsDdH48_8_000128_00268008-00269764",
+        "text": "<Speaker1>: satu perkataan kami pun cipta untuk manusia itu yang pertama semiaan alat pendengaran iaitu telinga",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 17.5699375,
+            "talk_time": 6.521739130434782,
+            "speech_ratio": 0.37118738358829,
+            "wpm": 51.223858935184026,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1322,
+        "audio_id": "Hdx36T_2CvY_000078_00164544-00166573",
+        "text": "<Speaker1>: aku dah jumpai daun masukkan dalam bekas cepat (oh) masuk masuk kau ni dah kenapa macam ni (lah)",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.29,
+            "talk_time": 7.826086956521741,
+            "speech_ratio": 0.38571153063192415,
+            "wpm": 53.22819122720552,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1324,
+        "audio_id": "QyERd4pf8ew_000007_00010503-00011887",
+        "text": "<Speaker1>: wa la tatabii'na lahum bi ihsanin ila yaumil jazaati wad-deen am ba'd",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 13.84,
+            "talk_time": 6.521739130434784,
+            "speech_ratio": 0.4712239256094497,
+            "wpm": 65.02890173410404,
+            "word_count": 15,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1329,
+        "audio_id": "746EcK5HJZg_000163_00365347-00366756",
+        "text": "<Speaker1>: abang kenapa ayah kenapa bang tak ada apa kenapa kita makan tempat lain",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.09,
+            "talk_time": 5.652173913043479,
+            "speech_ratio": 0.4011479001450305,
+            "wpm": 55.35841022001419,
+            "word_count": 13,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1331,
+        "audio_id": "6hwDWH7Laao_000028_00030695-00031946",
+        "text": "<Speaker1>: dede kecewa agung tidak bebaskan dede dari penjara kajang",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.51,
+            "talk_time": 3.913043478260871,
+            "speech_ratio": 0.3127932436659369,
+            "wpm": 43.16546762589928,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1333,
+        "audio_id": "LwYFldPK9lM_000004_00007724-00009610",
+        "text": "<Speaker1>: dengan mensahkikan konsep inklusif dan menerima warga Malaysia yang lain dengan hati terbuka kita harus saling menghormati",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.86,
+            "talk_time": 7.391304347826087,
+            "speech_ratio": 0.3919037300013832,
+            "wpm": 54.08271474019089,
+            "word_count": 17,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1337,
+        "audio_id": "Ff0-xiXdggw_000020_00067531-00068679",
+        "text": "<Speaker1>: semua boleh tolong saya tepuk tangan untuk dia sebab dia orang babi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.48,
+            "talk_time": 5.217391304347825,
+            "speech_ratio": 0.45447659445538546,
+            "wpm": 62.71777003484321,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1340,
+        "audio_id": "pVH6V7bHr94_000079_00173613-00176454",
+        "text": "<Speaker1>: seronoknya <Speaker2>: kita dah sampai (err) hai keluarga tia hai semua tia ada ke ada (err) tia dah tertidurlah kesian tia penat kongkowin masa untuk horay horay",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 28.4000625,
+            "talk_time": 11.304347826086957,
+            "speech_ratio": 0.398039540444214,
+            "wpm": 54.92945658130154,
+            "word_count": 26,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1341,
+        "audio_id": "jgKRm4GqqwA_000002_00002835-00004912",
+        "text": "<Speaker1>: masih lagi di bawah tajuk kepentingan akhirat dicapai dengan bekerja dan kita telah membahaskan perkara yang kelapan",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 20.77,
+            "talk_time": 7.391304347826089,
+            "speech_ratio": 0.35586443658286415,
+            "wpm": 49.109292248435246,
+            "word_count": 17,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1343,
+        "audio_id": "hvsgjvktjhs_000044_00107281-00108746",
+        "text": "<Speaker1>: (wah) penat nya menunggu seorang pergi letupkan orang tu (ah) bongoknya",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.65,
+            "talk_time": 4.782608695652176,
+            "speech_ratio": 0.3264579314438345,
+            "wpm": 45.051194539249146,
+            "word_count": 11,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1349,
+        "audio_id": "Gxytrw6IlT0_000011_00032120-00034618",
+        "text": "<Speaker1>: okay (lah) pat pat pat pat pat patpat pat pat pat pat pat",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.98,
+            "talk_time": 5.6521739130434785,
+            "speech_ratio": 0.2262679708984579,
+            "wpm": 31.22497998398719,
+            "word_count": 13,
+            "word_repetition": 1.0,
+            "redundancy_score": 0.4545
+        }
+    },
+    {
+        "index": 1362,
+        "audio_id": "jA18m_Q8Vio_000010_00014287-00016772",
+        "text": "<Speaker1>: dan sambil itu diminta tuan tuan dan perempuan untuk buka lampu handphone anda",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.85,
+            "talk_time": 5.6521739130434785,
+            "speech_ratio": 0.22745166652086432,
+            "wpm": 31.388329979879273,
+            "word_count": 13,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1371,
+        "audio_id": "f6aQlJidAo8_000015_00014108-00015401",
+        "text": "<Speaker1>: untuk membahaskan seketika ayat yang keempat surah al mulk",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 12.9399375,
+            "talk_time": 3.913043478260869,
+            "speech_ratio": 0.3024004929128034,
+            "wpm": 41.73126802196688,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1372,
+        "audio_id": "hr6eyNCGZSU_000032_00098233-00100357",
+        "text": "<Speaker1>: ya Allah ya Allah ya Allah ya Rahman ya Rahim ya Malik ya Malik ya Malik yaMalik ya Malik ya Malik ya Allah ya Allah ya Rabbal alamin ya Allah ya Allah ya Rabbi ya Allah ya Allah ya Karim ya Allah ya Allah ya Hayyu ya Qayyum ya Allah ya Allah ya hayyu ya qayyum ya Allah ya hayyu",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 21.2300625,
+            "talk_time": 21.2300625,
+            "speech_ratio": 1.0,
+            "wpm": 169.5708620735337,
+            "word_count": 60,
+            "word_repetition": 0.4464,
+            "redundancy_score": 0.5172
+        }
+    },
+    {
+        "index": 1381,
+        "audio_id": "2XytpBWBs6E_000136_00247298-00248706",
+        "text": "<Speaker1>: tadi gak dengar (oh) jangan begitu kaget abi abi",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 14.0899375,
+            "talk_time": 3.913043478260871,
+            "speech_ratio": 0.2777190089211447,
+            "wpm": 38.32522323111795,
+            "word_count": 9,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1383,
+        "audio_id": "ujHjmxb-eCg_000126_00283625-00284797",
+        "text": "<Speaker1>: nah nah kenapa termenung jauh ni, apa ini, nah tak ada apa.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 11.72,
+            "talk_time": 5.217391304347826,
+            "speech_ratio": 0.4451699065143196,
+            "wpm": 61.4334470989761,
+            "word_count": 12,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1385,
+        "audio_id": "eAz8miSeMZ4_000095_00210024-00212808",
+        "text": "<Speaker1>: (hm) sedapnya bau (err) kenapa pula tunggulah mama bersiap baju raya pun belum pakai lagi ni (err) papa jangan sentuh ala mama kamu kata tak boleh sentuh bukan tak boleh makan",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 27.84,
+            "talk_time": 13.47826086956522,
+            "speech_ratio": 0.4841329335332335,
+            "wpm": 66.8103448275862,
+            "word_count": 31,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1390,
+        "audio_id": "Sm0jJM_IQ1k_000026_00053363-00055568",
+        "text": "<Speaker1>: (ah) ya ke baik pergi sekarang (oh) okay kami pergi dulu assalamualaikum waalaikumussalam (wah) omar dan hannah dapat kawan barulah baru kenal tadi (err)",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.05,
+            "talk_time": 10.434782608695652,
+            "speech_ratio": 0.4732327713694173,
+            "wpm": 65.30612244897958,
+            "word_count": 24,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1396,
+        "audio_id": "Uz8kQEDbkPg_000015_00029634-00032093",
+        "text": "<Speaker1>: baik baik baik baik baik baik, (err), mati mati mati mati mati mati, mati, mati, mati mati mati mati mati.",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 24.59,
+            "talk_time": 8.695652173913043,
+            "speech_ratio": 0.35362554590943646,
+            "wpm": 48.80032533550224,
+            "word_count": 20,
+            "word_repetition": 0.9375,
+            "redundancy_score": 0.7222
+        }
+    },
+    {
+        "index": 1401,
+        "audio_id": "dwtb_9xKpCQ_000007_00012561-00014370",
+        "text": "<Speaker1>: la yang kusuzalika min ujurih shaikh (ah) wa mangda'a ila baladatin kahadhaihum min al-isri nislu as-salaman shabihahu",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 18.09,
+            "talk_time": 8.695652173913043,
+            "speech_ratio": 0.48068834571105823,
+            "wpm": 66.33499170812604,
+            "word_count": 20,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1404,
+        "audio_id": "-PQ1f3gpoKI_000196_00454534-00456170",
+        "text": "<Speaker1>: !aiya!",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 16.36,
+            "talk_time": 0.43478260869565233,
+            "speech_ratio": 0.026575954076751365,
+            "wpm": 3.6674816625916873,
+            "word_count": 1,
+            "word_repetition": 0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1409,
+        "audio_id": "kCco6sjq100_000000_00000000-00002227",
+        "text": "<Speaker1>: ini satu projek pembangunan industri yang akan memperbesarkan negara kita yang di kendalikan sepenuhnya oleh p n b dan s t g",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 22.27,
+            "talk_time": 9.565217391304348,
+            "speech_ratio": 0.42951133324222485,
+            "wpm": 59.272563987427034,
+            "word_count": 22,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1411,
+        "audio_id": "_DQrj3BzSFk_000139_00251539-00254087",
+        "text": "<Speaker1>: (ah), you see, you see, (ah), (ah), (ah).",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 25.48,
+            "talk_time": 3.478260869565217,
+            "speech_ratio": 0.1365094532796396,
+            "wpm": 18.838304552590266,
+            "word_count": 8,
+            "word_repetition": 0.25,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1416,
+        "audio_id": "OySqaOZHPhM_000000_00000000-00001595",
+        "text": "<Speaker1>: semangat malam raya kembali gabungan empat host populer menggamatkan suasana",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 15.9599375,
+            "talk_time": 4.347826086956523,
+            "speech_ratio": 0.27242124769953036,
+            "wpm": 37.594132182535176,
+            "word_count": 10,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    },
+    {
+        "index": 1421,
+        "audio_id": "tVhvKohdbLc_000009_00011400-00013308",
+        "text": "<Speaker1>: aduh letihnya tak sangka pula jadi laju macam tu pi pi oi laju ke peluh ke janji bersenam",
+        "label": "discard",
+        "text_features": {
+            "true_duration": 19.0899375,
+            "talk_time": 7.826086956521739,
+            "speech_ratio": 0.40995875217096645,
+            "wpm": 56.57430779959337,
+            "word_count": 18,
+            "word_repetition": 0.0,
+            "redundancy_score": 0.0
+        }
+    }
+]

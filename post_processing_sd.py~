@@ -1,0 +1,93 @@
+import json
+import os
+from datasets import load_from_disk
+
+
+TRANSCRIPT_DIR = "/home/tarushi/tarushi_folder/speaker_diarization_qwen_transcripts/30s_transcriptions_qwen"
+TRANSCRIPT_FILES = [
+    os.path.join(TRANSCRIPT_DIR, "en_30_transcriptions_qwen.json"),
+    os.path.join(TRANSCRIPT_DIR, "cn_30_transcriptions_qwen.json"),
+    os.path.join(TRANSCRIPT_DIR, "ml_30_transcriptions_qwen.json")
+]
+
+HF_DATASET_PATHS = [
+    "/home/q-wang/data/hf_egs/Emotional-YTB-MY_en_30_dev",
+    "/home/q-wang/data/hf_egs/Emotional-YTB-MY_zh_30_dev",
+    "/home/q-wang/data/hf_egs/Emotional-YTB-MY_ms_30_dev"
+]
+
+OUTPUT_MANIFEST = "qwen_hf_input_manifest.json"
+
+def create_manifest():
+    
+    audio_lookup = {}
+    print("Loading HF datasets")
+    for path in HF_DATASET_PATHS:
+        if os.path.exists(path):
+            ds = load_from_disk(path)
+            for example in ds:
+                raw_id = example.get('id') or example.get('audio_id') or os.path.basename(example['audio']['path'])
+                clean_id = os.path.splitext(raw_id)[0]
+                audio_lookup[clean_id] = example['audio']['path']
+    
+    print(f"Mapped {len(audio_lookup)} audio files from Hugging Face.")
+
+    manifest_entries = []
+    print("Processing Qwen transcripts...")
+
+    for t_file in TRANSCRIPT_FILES:
+        if not os.path.exists(t_file):
+            continue
+            
+        with open(t_file, 'r') as f:
+            data = json.load(f)
+            
+            if isinstance(data, dict):
+                data = [data]
+
+            for entry in data:
+                
+                raw_tid = entry.get('audio_id') or entry.get('id') or entry.get('audio_filename') or ""
+                clean_tid = os.path.splitext(os.path.basename(raw_tid))[0]
+
+                if clean_tid in audio_lookup:
+                    duration = float(entry.get('duration', 30.0))
+                    
+                    alignments = []
+                    words_source = entry.get('words') or entry.get('alignments') or []
+                    
+                    if words_source:
+                        for w in words_source:
+                            if isinstance(w, dict):
+                                alignments.append([
+                                    float(w.get('start_time', 0.0)),
+                                    float(w.get('end_time', duration)),
+                                    str(w.get('word', 'speech'))
+                                ])
+                    
+                    if len(alignments) < 2:
+                        mid = duration / 2
+                        alignments = [[0.0, mid, "word1"], [mid, duration, "word2"]]
+
+                    manifest_entries.append({
+                        "audio_filepath": audio_lookup[clean_tid],
+                        "duration": duration,
+                        "text": entry.get('text', 'speech_segment'),
+                        "speaker_id": clean_tid,
+                        "alignments": alignments
+                    })
+
+    
+    if manifest_entries:
+        with open(OUTPUT_MANIFEST, 'w') as f:
+            for item in manifest_entries:
+                f.write(json.dumps(item) + '\n')
+        print(f"SUCCESS: Created manifest with {len(manifest_entries)} entries.")
+    else:
+        print("FAILED: 0 entries. There is still a mismatch between JSON IDs and HF IDs.")
+        if audio_lookup:
+            print(f"Sample HF ID: {list(audio_lookup.keys())[0]}")
+        print("Please check the 'audio_id' key inside your Qwen JSON files.")
+
+if __name__ == "__main__":
+    create_manifest()

@@ -1,0 +1,7 @@
+name: nemo
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python==3.10.12
+prefix: /home/q-wang/anaconda3/envs/nemo

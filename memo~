@@ -1,0 +1,7 @@
+set up conda env for diarization:
+1. conda env create -f nemo.yml
+2. pip install numpy
+3. python -m pip install "nemo_toolkit[asr]"
+
+Change the input/output path in example code:
+run diarization code:
